@@ -1,2 +1,2 @@
-# Linkedin Web Scrapper 2024
+# Job Web Scrapers 2024
 
