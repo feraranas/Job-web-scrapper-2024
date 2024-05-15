@@ -1,0 +1,675 @@
+Job_Title,Job_Description,Job_Url
+Técnico de infraestructura,https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18212871,"Descripción
+Estamos en búsqueda de Ingeniero de infraestructura
+
+Forma parte de la transformación digital y el mundo de la tecnología, nuestras plataformas operan en más de 10 países, contamos con clientes multinacionales reconocidos en el ámbito financiero y empresarial. Nuestras alianzas con empresas globales permiten hacer este sueño realidad, siendo la clave que nos otorga una ventaja competitiva y poderosa en los mercados financieros mundiales, soluciones top of the edge y servicios en la nube.
+Serás responsable de gestionar el área de operaciones de Infraestructura de TI asegurando el correcto funcionamiento de los procesos internos.
+
+Tus fortalezas:
+·        Ingeniería de software, ingeniería en sistemas computacionales, ingeniería en telecomunicaciones, tecnología de la información o carrera afín.
+·        Conocimiento en: Mantenimientos preventivos y correctivos de equipo de computo, cableado estructurado, monitoreo de servidores y aplicativos, Cableado físico, Administración de respaldos, Instalación y configuración de Base de Datos.
+Léon, Gto.
+
+Tus retos:
+·        Administración de servidores de aplicaciones.
+·        Monitoreo de servidores y aplicaciones en la nube de aws
+·        Configuración y administración de servidores Linux y Windows
+·        Creación y configuración de infraestructura en aws como Vpn, Vpc, Ec2, Rds
+·        Automatización de la creación y monitoreo de infraestructura
+·        Mantenimiento de equipos de cómputo y redes
+·        Resguardo de recursos informáticos de la empresa
+
+¿Cuáles son tus beneficios?
+Sueldo competitivo
+Prestaciones de ley y beneficios adicionales
+Desarrollo profesional y plan de carrera
+Excelente ambiente laboral "
+Cloud Engineer,https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18365359,"Descripción
+Accelerate infrastructure deployment and optimize data architecture:
+Manage and enhance our AWS cloud infrastructure, with a focus on RDS MySQL databases, to ensure optimal performance, availability, and security
+Implement strategies to significantly reduce infrastructure deployment times, emphasizing efficiency and scalability
+
+Improve developer support and infrastructure issue resolution:
+Work closely with developers to optimize database performance, addressing bottlenecks and ensuring data integrity
+Streamline the process for resolving infrastructure tickets, focusing on database-related issues to improve overall response and resolution times
+
+Enhance DX culture and documentation:
+Participate in creating and maintaining comprehensive documentation that outlines Platform philosophy and methodologies, with a focus on database management practices
+
+
+Develop and support efficient onboarding and asynchronous work:
+Contribute to a comprehensive onboarding program for Engineering and Data teams, aimed at enhancing productivity and efficiency
+Develop guidelines for effective asynchronous work, with an emphasis on database engineering and collaboration tools
+
+Enhance monitoring and operational efficiency: Implement and train on advanced monitoring tools to improve incident response and system health tracking
+Develop strategies to streamline and automate the top time-consuming database tasks
+Develop self-healing capabilities for critical database services
+
+Create comprehensive documentation and automated responses:
+Develop and document play/runbooks for critical database services
+Create and deploy alerts for databases that trigger automated corrective actions for common service incident
+ Day to day
+
+Monitor and resolve performance and availability issues of cloud-based databases through routine maintenance and optimization tasks.
+Collaborate with stakeholders to design and implement efficient data models and schemas that meet business requirements.
+Fine-tune database queries and indexes, and implement caching mechanisms to optimize database performance.
+Develop and implement backup and disaster recovery strategies, ensuring data integrity and availability in case of failures.
+Automate database administration tasks using scripting languages, and employ Infrastructure as Code practices for streamlined deployments.
+Collaborate with cross-functional teams, provide guidance, and document database configurations and troubleshooting guides.
+Work closely with the data team, providing expertise on database aspects, data modeling, migration projects, and code reviews.
+Implement security best practices, access controls, and ensure compliance with data privacy regulations.
+Stay updated with the latest database technologies, research new tools and methodologies, and provide recommendations for improvement.
+ Requirements
+ +3 years of experience working as a DBA, Cloud Database Administrator or similar.
+Proficient in utilizing AWS monitoring tools and techniques to resolve performance and availability issues in cloud-based databases.
+Skilled in leveraging AWS services and features to optimize database performance and conduct routine maintenance tasks.
+Strong ability to design efficient data models and schemas in AWS that align with business requirements.
+Thorough understanding of AWS database services like RDS (Relational Database Service), Aurora MySQL, DynamoDB, and Redshift.
+Experienced in fine-tuning database queries, optimizing indexes, and implementing caching mechanisms using AWS database technologies.
+Demonstrated capability in developing and implementing comprehensive backup and disaster recovery strategies in AWS.
+Advanced scripting proficiency in AWS-supported languages like Python or similar for automating database administration tasks.
+Familiarity with Infrastructure as Code (IaC) practices using AWS CloudFormation or similar tools for streamlined deployments and consistent configuration.
+Excellent collaboration and communication skills to work effectively with cross-functional teams and stakeholders in AWS environments.
+Provides guidance, support, and comprehensive documentation for AWS database configurations and troubleshooting.
+Strong ability to collaborate closely with data teams in AWS, offering expertise on AWS database services, data modeling, migration projects, and code reviews.
+In-depth knowledge of AWS security best practices for databases, including access controls, encryption, and compliance with AWS data privacy regulations.
+Proactively stays updated with the latest AWS database technologies, tools, and methodologies.
+Conducts research, evaluates new AWS technologies, and provides recommendations for enhancing the AWS database infrastructure.
+
+Nice to have:
+
+Knowledge of database security best practices, including data encryption, access control, and compliance requirements such as GDPR or HIPAA.
+Experience working with data warehouses, technical data architectures, infrastructure components, ETL/ELT (Extract, Transform, Load/Extract, Load, Transform) processes, and reporting/analytic tools.
+Willingness to participate in an on-call rotation to provide timely support and resolution for critical database issues outside regular business hours."
+Software Engineer – Platform Infrastructure Engineering,https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18397997,"Descripción
+Teradata Platform Software Engineers are key members of our Product Engineering organization responsible for developing and maintaining software allowing our product to operate in multiple deployment environments. In this role, you will work on our platform engineering team as a developer for our Solution Platform Adviser (SPA) tool. SPA provides a single self-service web based application that reduces the domain knowledge required for our sales organization, drive consumption of TCore, enable us to be a trusted advisor through data-driven performance estimation of our solutions, resulting in a reduction of sales cycles through reduced engineering involvement. In this role you will: Support our sales and engineering teams by adding the ability to model new products as they become available in a timely manner, assist our users for complex configurations and provide explanations to the metrics calculated by the application as needed Work in a team of highly skilled engineers, developing and supporting many tools used for the characterization and modeling of cloud and on-prem infrastructure Perform software engineering duties such as: problem analysis, code review, design, develop, test, troubleshoot, document and support Ensure adherence to best practices and standards Be part of the team that builds and maintains tools used by our Engineering, Global Sales Support and field sales teams The successful candidate will: Be a self-starter with an ability to quickly come up to speed on different technologies and processes Work with cross-functional teams, to build consensus on issues, and to drive projects to completion Be a team player who can quickly find common ground to solve problems Become an advocate for software quality who designs good tests, and makes recommendations to increase the quality and testability of the software Who You'll Work With: This position is for a Software Engineer for our Infrastructure Platforms team. Our team is comprised of engineers working on enabling Teradata analytic deployments across public cloud and on-prem infrastructure. This your chance to be part of the development team where you will be primarily engaged in developing and supporting our automated characterization and analysis tools as well as contributing to our full stack infrastructure modeling applications that are used by Teradata's Sales teams to correctly size, configure, and sell Teradata's big data analytic solutions for our customers worldwide. What Makes You a Qualified Candidate: Bachelor of Science degree in Computer Science, Computer Engineering, or related discipline with 2+ years of work experience Experience with python Strong analytical and problem-solving skills Strong oral and written communications skills What You'll Bring: The ideal candidate would have experience with: Infrastructure performance testing Docker, Jenkins, CI/CD Unit testing / code coverage A good working knowledge on UNIX shell Databases, RDBMS, SQL, No SQL is a plus Server-side and client-side programming for web development such as Node.js, JavaScript, REST, JSON, HTML, CSS, MongoDB, Angular"
+¿Eres nuevo? Regístrate,https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18394489,"Descripción
+The Legal Technology Infrastructure and Operations group is seeking a Delivery Manager to join our team in Mexico City. This position leads a global technology group that operates enterprise application systems serving online content and publishing across many Thomson Reuters products. This team manages reliability engineering/SRE, ongoing change planning and implementation, incident detection and resolution, and compliance for a portfolio of content publishing applications and infrastructure built on a variety of technologies including Java, Linux, Microsoft, relational databases, message queuing, AWS cloud services, and more. About the Role In this opportunity as Tech Lead | DevOps , you will: Deliver results: Deliver reliable 24x7 infrastructure and application operations, meeting business expectations across the application portfolio Serve as a management escalation point during major issues Partner with application development teams to deliver operational readiness for new products and features Collaborate with stakeholders such as business teams, product owners, and project management in defining roadmap for applications and processes Partner with security, data center, and service governance teams to deliver compliance with internal and external standards, expectations, and certifications Effectively articulate complex problems, concepts, and solutions to varied audiences Drive improvements in productivity, software quality and reliability Be a people leader: Manage a diverse set of global application reliability, infrastructure, and operations engineers Deliver effective talent management practices and optimize use of talent across the portfolio Coach and mentor current and future leaders ; proactively identify training and growth opportunities Foster a continuous learning culture and a curiosity about emerging technologies About You You're a fit for the role of Tech Lead | DevOps if your background includes: Bachelor's degree or equivalent required, Computer Science or related technical degree preferred 5 years of relevant experience in software development and/or technology infrastructure and operations Proven ability to set direction and inspire team members to engage and deliver on a vision Broad understanding of the technologies used to build and operate distributed application systems Proven ability to learn new technologies quickly Experience managing data center systems and infrastructure Excellent critical thinking, communication, presentation, documentation, troubleshooting and collaborative problem-solving skills A management style that is collaborative, energetic, and results-oriented Hands-on experience with programming and scripting languages Comfortable in a fast-paced environment and motivated by complex technical and business challenges What's in it For You? You will join our inclusive culture of world-class talent, where we are committed to your personal and professional growth through: Hybrid Work Model: We've adopted a flexible hybrid working environment (2-3 days a week in the office depending on the role) for our office-based roles while delivering a seamless experience that is digitally and physically connected Wellbeing: Comprehensive benefit plans; flexible and supportive benefits for work-life balance: flexible vacation, two company-wide Mental Health Days Off; work from another location for up to a total of 8 weeks in a year, 4 of those weeks can be out of the country and the remaining in the country, Headspace app subscription; retirement, savings, tuition reimbursement, and employee incentive programs; resources for mental, physical, and financial wellbeing. Culture: Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more. Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters café networking. Social Impact: Ten employee-driven Business Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact. Purpose Driven Work: We have a superpower that we've never talked about with as much pride as we should – we are one of the only companies on the planet that helps its customers pursue justice, truth and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world. #LI-SB3 Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we've been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world's most global news services – Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing. We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward. Accessibility As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace. We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law. Protect yourself from fraudulent job postings click here to know more. More information about Thomson Reuters can be found on ."
+Infrastructure and DevOps Engineer,https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18157585,"Descripción
+Qualified candidate would be joining a global IT team supporting labs at Intel. We are looking for a positive, proactive technical leader to work closely with lab engineers, vendors and customers to support IT infrastructure and client environments. This is a leadership position that requires a strong network and Linux skillsets. The person selected will be working closely with engineering, IT partners and vendors. Ensures the efficient planning, provisioning, installation/configuration, maintenance, and/or operations of the hardware and software infrastructure required to build, validate, and release a wide variety of hardware and software products and projects. Works closely with development and quality teams to derive infrastructure design requirements, build, test, and automate tools appropriate to the project, and/or implement and maintain of those systems within the constraints imposed by Intel enterprise infrastructure (IT) and other governing bodies. The person owns the end-to-end will work with customers worldwide delivery pipeline, including source code management, versioning/tagging strategy, component build and packaging, test automation tooling, release staging, acceptance and/or indicators, required security and IP scans, any third-party conformance tools, artifact storage and distribution, and disaster recovery planning. Identifies opportunities and implements solutions for increased automation, reliability, and/or velocity within the pipeline through implementation of robust infrastructure telemetry, KPIs, and indicators, and by monitoring and applying industry best practices. Behavioral Traits: Willing to work with customers, partners and vendors and turn business requirements into technical solutions. Positive proactive team player that can drive complex projects. Advanced Leadership skills. Strong English communications skills. Motivated to continuously learn and improve or replace existing solutions. Customer and results oriented with attention to quality and details. Team player skills.Passion in delivering high quality end-user experience. Qualifications: Minimum Qualifications, You must possess the below minimum qualifications to be initially considered for this position: The candidate must have a Bachelor's degree in Electrical, Computer engineering, Computer Science or related field, and 3+ years of experience or a Master's Degree in Electrical/Computer Engineering or Computer Science and 2+ years of experience in the following: CCNA with strong network architecting, supporting, and troubleshooting layer 2 and 3 knowledge required. In Linux administration, support, and troubleshooting skillsets. In scripting skillset to automate switch configurations, system configurations using Ansible or other scripting languages (Shell and Python). Advanced English Level is required to drive and support solutions worldwide. Must have unrestricted - permanent right to work in Mexico. Preferred Qualifications, Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates: Supporting engineering lab environments. Automation using Ansible, Puppet, Chef etc. Proficiency in Virtualization with focus on containers. Setting up and maintaining monitoring and alerting solutions like Nagios or Zabbix. Elasticsearch (Metrics database) and Kibana / Grafana (Visualization for monitoring). Prometheus and SNMP exporter configuration. NetFlow for network monitoring. Knowledge in security and vulnerability remediation (CVE). Automation skillsets (PowerShell, YAML). Server configuration and administration experience. Working in an Agile Environment. Requirements listed would be obtained through a combination of industry-relevant job experience, internship experiences, certifications and or schoolwork, classes, research. Job Type: Experienced HireShift: Shift 1 (Mexico)Primary Location: Mexico, GuadalajaraAdditional Locations: Business group: Intel's Information Technology Group (IT) designs, deploys and supports the information technology architecture and hardware/software applications for Intel. This includes the LAN, WAN, telephony, data centers, client PCs, backup and restore, and enterprise applications. IT is also responsible for e-Commerce development, data hosting and delivery of Web content and services.Posting Statement: All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance. Position of Trust N/A Work Model for this Role This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. In certain circumstances the work model may change to accommodate business needs."
+Senior Software Engineer – Platform Infrastructure Engineering,https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18353715,"Descripción
+Teradata Platform Software Engineers are key members of our Product Engineering organization responsible for developing and maintaining software allowing our product to operate in multiple deployment environments. In this role, you will work on our platform engineering team as a developer for our Solution Platform Adviser (SPA) tool. SPA provides a single self-service web based application that reduces the domain knowledge required for our sales organization, drive consumption of TCore, enable us to be a trusted advisor through data-driven performance estimation of our solutions, resulting in a reduction of sales cycles through reduced engineering involvement. In this role you will: Support our sales and engineering teams by adding the ability to model new products as they become available in a timely manner, assist our users for complex configurations and provide explanations to the metrics calculated by the application as needed Work in a team of highly skilled engineers, developing and supporting many tools used for the characterization and modeling of cloud and on-prem infrastructure Perform software engineering duties such as: problem analysis, code review, design, develop, test, troubleshoot, document and support Ensure adherence to best practices and standards Be part of the team that builds and maintains tools used by our Engineering, Global Sales Support and field sales teams The successful candidate will: Be a self-starter with an ability to quickly come up to speed on different technologies and processes Work with cross-functional teams, to build consensus on issues, and to drive projects to completion Be a team player who can quickly find common ground to solve problems Become an advocate for software quality who designs good tests, and makes recommendations to increase the quality and testability of the software Who You'll Work With: This position is for a Senior Software Engineer for our Infrastructure Platforms team. Our team is comprised of engineers working on enabling Teradata analytic deployments across public cloud and on-prem infrastructure. This your chance to be part of the development team where you will be primarily engaged in developing and supporting our automated characterization and analysis tools as well as contributing to our full stack infrastructure modeling applications that are used by Teradata's Sales teams to correctly size, configure, and sell Teradata's big data analytic solutions for our customers worldwide. What Makes You a Qualified Candidate: Bachelor of Science degree in Computer Science, Computer Engineering, or related discipline with 5+ years of work experience Experience with python Strong analytical and problem-solving skills Strong oral and written communications skills What You'll Bring: The ideal candidate would have experience with: Infrastructure performance testing Virtualization technologies (VMware, KVM, Hyper-V, etc) Docker, Jenkins, CI/CD Unit testing / code coverage A good working knowledge on UNIX shell Databases, RDBMS, SQL, No SQL is a plus Agile methodologies (Scrum, Lean, Kanban, SAFe, etc) Server-side and client-side programming for web development such as Node.js, JavaScript, REST, JSON, HTML, CSS, MongoDB, Angular Microsoft Power BI"
+Software Engineer II - Infrastructure and Platform (Remote),https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18301437,"Descripción
+With millions of diners, tens of thousands of restaurants, and 25+ years of experience, OpenTable, part of Booking Holdings, Inc. (NASDAQ: BKNG), is an industry leader with a unique insight into the world of hospitality. We champion restaurants, bars, wineries, and other venues around the world, helping them attract guests, manage capacity, improve operations and maximize revenue. Every employee at OpenTable has a tangible impact on what we do and how we do it. You'll also be part of a global network that includes OpenTable and KAYAK's portfolio of travel brands including Swoodoo, checkfelix, momondo, Cheapflights, Mundi and HotelsCombined. Hospitality is all about taking care of others, and it defines our culture. You'll work in a welcoming and inclusive environment, and get the benefits, flexibility, and support you need to succeed. We are seeking an experienced Mid-Level Software Engineer to join our Web Platform/Infrastructure team. In this role, you will be responsible for developing, maintaining, and enhancing our web applications and infrastructure components using cutting-edge technologies. Design, develop, and maintain scalable and high-performance web applications using Node.js, React, Redux, Express, GraphQL, and TypeScript Design, develop, and maintain tools and utilities that improve the developer experience, such as build automation, code generation, linting, formatting, and testing frameworks Collaborate with developers across teams to understand their needs and pain points, and develop solutions to streamline their workflows and increase productivity Contribute to the improvement of development processes, best practices, and coding standards to ensure a consistent and efficient development environment Implement and optimize front-end user interfaces using React, Redux, and CSS Develop and maintain back-end services and APIs using Node.js, Express, and GraphQL Contribute to the development and maintenance of our infrastructure components, including Docker, Grafana, ELK Stack. Write clean, testable, and well-documented code following best practices and coding standards Participate in code reviews and provide constructive feedback to other team members Troubleshoot and resolve issues in a timely and efficient manner Stay up-to-date with the latest technologies and industry trends Required Qualifications and Skills: Minimum of 3-5 years of experience in web development, preferably with Node.js, React, Redux, and TypeScript Strong understanding of front-end technologies such as HTML, CSS, and JavaScript Experience with back-end development using Node.js, Express, and GraphQL Familiarity with containerization technologies like Docker Knowledge of monitoring and logging tools such as StatsD, Grafana, ELK Stack Proficient in version control systems like Git Strong understanding of software development workflows, processes, and best practices Excellent communication and collaboration abilities Nice-to-have Qualifications and Skills: Experience with Esbuild, SWC, Webpack, or other build tools Experience with developer tooling ecosystems such as Babel, ESLint, Prettier, Jest, or Cypress Knowledge of PostgreSQL or MongoDB databases Familiarity with cloud platforms like AWS, GCP, or Azure Contribution to open-source projects Benefits: OpenTable provides Mexican Social Security (IMSS) Christmas Bonus - 30 days Paid Time Off - 20 days a year Vacation Premium - 25% Maternity leave - 12 weeks Paternity leave - 10 weeks Bereavement Leave - 3 days Marriage leave - 3 days Bonuses Dental Insurance & Life Insurance Major Medical Insurance Diversity, Equity, and Inclusion OpenTable aspires to be a workplace that reflects the diverse communities we serve and a culture that is inclusive and welcoming. Hiring people with different backgrounds, experiences, perspectives, and ideas is critical to innovation and to how we deliver great experiences for our users and our partners. Representation matters. We ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform job responsibilities, and to receive other benefits and privileges of employment. Please contact us to request accommodation."
+Tech Lead | DevOps,https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18389351,"Descripción
+The Legal Technology Infrastructure and Operations group is seeking a Delivery Manager to join our team in Mexico City. This position leads a global technology group that operates enterprise application systems serving online content and publishing across many Thomson Reuters products. This team manages reliability engineering/SRE, ongoing change planning and implementation, incident detection and resolution, and compliance for a portfolio of content publishing applications and infrastructure built on a variety of technologies including Java, Linux, Microsoft, relational databases, message queuing, AWS cloud services, and more. About the Role In this opportunity as Tech Lead | DevOps, you will: Deliver results: Deliver reliable 24x7 infrastructure and application operations, meeting business expectations across the application portfolio Serve as a management escalation point during major issues Partner with application development teams to deliver operational readiness for new products and features Collaborate with stakeholders such as business teams, product owners, and project management in defining roadmap for applications and processes Partner with security, data center, and service governance teams to deliver compliance with internal and external standards, expectations, and certifications Effectively articulate complex problems, concepts, and solutions to varied audiences Drive improvements in productivity, software quality and reliability Be a people leader: Manage a diverse set of global application reliability, infrastructure, and operations engineers Deliver effective talent management practices and optimize use of talent across the portfolio Coach and mentor current and future leaders; proactively identify training and growth opportunities Foster a continuous learning culture and a curiosity about emerging technologies About You You're a fit for the role of Tech Lead | DevOps if your background includes: Bachelor's degree or equivalent required, Computer Science or related technical degree preferred 5 years of relevant experience in software development and/or technology infrastructure and operations Proven ability to set direction and inspire team members to engage and deliver on a vision Broad understanding of the technologies used to build and operate distributed application systems Proven ability to learn new technologies quickly Experience managing data center systems and infrastructure Excellent critical thinking, communication, presentation, documentation, troubleshooting and collaborative problem-solving skills A management style that is collaborative, energetic, and results-oriented Hands-on experience with programming and scripting languages Comfortable in a fast-paced environment and motivated by complex technical and business challenges What's in it For You? You will join our inclusive culture of world-class talent, where we are committed to your personal and professional growth through: Hybrid Work Model: We've adopted a flexible hybrid working environment (2-3 days a week in the office depending on the role) for our office-based roles while delivering a seamless experience that is digitally and physically connected Wellbeing: Comprehensive benefit plans; flexible and supportive benefits for work-life balance: flexible vacation, two company-wide Mental Health Days Off; work from another location for up to a total of 8 weeks in a year, 4 of those weeks can be out of the country and the remaining in the country, Headspace app subscription; retirement, savings, tuition reimbursement, and employee incentive programs; resources for mental, physical, and financial wellbeing. Culture: Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more. Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters café networking. Social Impact: Ten employee-driven Business Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact. Purpose Driven Work: We have a superpower that we've never talked about with as much pride as we should – we are one of the only companies on the planet that helps its customers pursue justice, truth and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world. #LI-SB3 Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we've been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world's most global news services – Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing. We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward. Accessibility As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace. We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law. Protect yourself from fraudulent job postings click here to know more. More information about Thomson Reuters can be found on https://thomsonreuters.com."
+Tech Lead | DevOps,https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18393701,"Descripción
+Tech Lead | DevOps
+
+The Legal Technology Infrastructure and Operations group is seeking a Delivery Manager to join our team in Mexico City. This position leads a global technology group that operates enterprise application systems serving online content and publishing across many Thomson Reuters products. This team manages reliability engineering/SRE, ongoing change planning and implementation, incident detection and resolution, and compliance for a portfolio of content publishing applications and infrastructure built on a variety of technologies including Java, Linux, Microsoft, relational databases, message queuing, AWS cloud services, and more.
+
+About the Role
+In this opportunity as Tech Lead | DevOps, you will:
+
+Deliver results:
+Deliver reliable 24x7 infrastructure and application operations, meeting business expectations across the application portfolio
+Serve as a management escalation point during major issues
+Partner with application development teams to deliver operational readiness for new products and features
+Collaborate with stakeholders such as business teams, product owners, and project management in defining roadmap for applications and processes
+Partner with security, data center, and service governance teams to deliver compliance with internal and external standards, expectations, and certifications
+Effectively articulate complex problems, concepts, and solutions to varied audiences
+Drive improvements in productivity, software quality and reliability
+
+
+Be a people leader:
+Manage a diverse set of global application reliability, infrastructure, and operations engineers
+Deliver effective talent management practices and optimize use of talent across the portfolio
+Coach and mentor current and future leaders; proactively identify training and growth opportunities
+Foster a continuous learning culture and a curiosity about emerging technologies
+
+
+About You
+You're a fit for the role of Tech Lead | DevOps if your background includes:
+Bachelor's degree or equivalent required, Computer Science or related technical degree preferred
+5 years of relevant experience in software development and/or technology infrastructure and operations
+Proven ability to set direction and inspire team members to engage and deliver on a vision
+Broad understanding of the technologies used to build and operate distributed application systems
+Proven ability to learn new technologies quickly
+Experience managing data center systems and infrastructure
+Excellent critical thinking, communication, presentation, documentation, troubleshooting and collaborative problem-solving skills
+A management style that is collaborative, energetic, and results-oriented
+Hands-on experience with programming and scripting languages
+Comfortable in a fast-paced environment and motivated by complex technical and business challenges
+
+
+What's in it For You?
+
+You will join our inclusive culture of world-class talent, where we are committed to your personal and professional growth through:
+Hybrid Work Model: We've adopted a flexible hybrid working environment (2-3 days a week in the office depending on the role) for our office-based roles while delivering a seamless experience that is digitally and physically connected
+Wellbeing: Comprehensive benefit plans; flexible and supportive benefits for work-life balance: flexible vacation, two company-wide Mental Health Days Off; work from another location for up to a total of 8 weeks in a year, 4 of those weeks can be out of the country and the remaining in the country, Headspace app subscription; retirement, savings, tuition reimbursement, and employee incentive programs; resources for mental, physical, and financial wellbeing.
+Culture: Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more.
+Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters café networking.
+Social Impact: Ten employee-driven Business Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact.
+Purpose Driven Work: We have a superpower that we've never talked about with as much pride as we should - we are one of the only companies on the planet that helps its customers pursue justice, truth and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world.
+
+
+#LI-SB3
+
+Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we've been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world's most global news services - Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing.
+
+We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.
+
+Accessibility
+
+As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.
+
+We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.
+
+Protect yourself from fraudulent job postings click here to know more.
+
+More information about Thomson Reuters can be found on https://thomsonreuters.com."
+Infrastructure Engineer,https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18252330,"Descripción
+Infrastructure Engineers are responsible for delivering a best-in-class on-premise engineering capability for the products and platforms at Maersk. Engineers act as a trusted advisor with hands-on keyboard execution, helping the products team succeed by ensuring guardrails, governance, and security standards are adhered to. Engineers bring the necessary expertise on how to engineer for non-functional requirements (NFR) and infrastructure in the datacenters that makes the right way to deliver products the easy way. Engineers excel at providing robust, secure, and cost-efficient infrastructure from the datacenters.
+
+Key Responsibilities:
+Server Management:
+Administer and maintain Windows Server and Red Hat Linux environments.
+Install, configure, and manage server hardware and software.
+Monitor system performance and ensure high availability.
+Security and Compliance:
+Implement and maintain security best practices to protect data and infrastructure.
+Ensure systems are compliant with relevant industry standards and regulations.
+Troubleshooting and Support:
+Provide technical support for server-related issues and incidents.
+Resolve system outages and performance problems in a timely manner.
+Backup and Recovery:
+Implement backup and disaster recovery solutions to safeguard data.
+Conduct regular backups and recovery tests.
+User Account Management:
+Create, manage, and revoke user accounts, permissions, and access controls.
+Documentation and Reporting:
+Maintain accurate documentation of system configurations and changes.
+Generate regular reports on system performance and usage.
+Collaboration:
+Collaborate with IT teams and end-users to understand requirements and provide solutions.
+Assist in the planning and execution of IT projects.
+
+Technical Skillset
+Thorough understanding of operational systems and their critical role in application functionality.
+Thorough knowledge of patching, backup, and recovery standards and requirements.
+Basic knowledge of cyber security standards and practices, experience with high availability requirements both on a physical and virtual level, including web farms.
+Familiarity with automation applications preferred but not required.
+
+Qualifications:
+Education
+Bachelor degree in Computer Science or related field of study
+Relevant certifications:
+Microsoft Certified: Windows Server Administrator (e.g., MCSA: Windows Server 2016/2019).
+Red Hat Certified Engineer (RHCE) or Red Hat Certified System Administrator (RHCSA).
+
+Soft Skillsets
+Strong communication skills, experience with executive level updates, logical complex problem solving, ability to collaborate cross-functionally, self-driven, able to multitask multiple projects, can lead a database related incident call focusing on restoring services first while being careful to not lose critical logs during restores and providing timely updates to stakeholders. Willingness to be available and jump in when incidents happen and restoration is business critical.
+
+
+Experience
+Over 8+ years of Total IT Experience with windows administration and VMWare administration
+Managing and understanding of ESC/ESXI, Veeam Backup and Replication
+Experience in cloning and creating templates from VMs, snapshot and using vSphere features like vMotion, Storage vMotion, DRS and HA
+Expertise in Group Policy, DNS, DHCP, WSUS and Active Directory Services
+Experience with VMWare ESX/ESXI technologies, expertise with HA/DRS
+Experience with Cisco Hyperflex/Hyperconverged solutions
+
+
+Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements.
+
+We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com."
+Infrastructure Engineer,https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18252086,"Descripción
+Infrastructure Engineers are responsible for delivering a best-in-class on-premise engineering capability for the products and platforms at Maersk. Engineers act as a trusted advisor with hands-on keyboard execution, helping the products team succeed by ensuring guardrails, governance, and security standards are adhered to. Engineers bring the necessary expertise on how to engineer for non-functional requirements (NFR) and infrastructure in the datacenters that makes the right way to deliver products the easy way. Engineers excel at providing robust, secure, and cost-efficient infrastructure from the datacenters.
+
+Key Responsibilities:
+Server Management:
+Administer and maintain Windows Server and Red Hat Linux environments.
+Install, configure, and manage server hardware and software.
+Monitor system performance and ensure high availability.
+Security and Compliance:
+Implement and maintain security best practices to protect data and infrastructure.
+Ensure systems are compliant with relevant industry standards and regulations.
+Troubleshooting and Support:
+Provide technical support for server-related issues and incidents.
+Resolve system outages and performance problems in a timely manner.
+Backup and Recovery:
+Implement backup and disaster recovery solutions to safeguard data.
+Conduct regular backups and recovery tests.
+User Account Management:
+Create, manage, and revoke user accounts, permissions, and access controls.
+Documentation and Reporting:
+Maintain accurate documentation of system configurations and changes.
+Generate regular reports on system performance and usage.
+Collaboration:
+Collaborate with IT teams and end-users to understand requirements and provide solutions.
+Assist in the planning and execution of IT projects.
+
+Technical Skillset
+Thorough understanding of operational systems and their critical role in application functionality.
+Thorough knowledge of patching, backup, and recovery standards and requirements.
+Basic knowledge of cyber security standards and practices, experience with high availability requirements both on a physical and virtual level, including web farms.
+Familiarity with automation applications preferred but not required.
+
+Qualifications:
+Education
+Bachelor degree in Computer Science or related field of study
+Relevant certifications:
+Microsoft Certified: Windows Server Administrator (e.g., MCSA: Windows Server 2016/2019).
+Red Hat Certified Engineer (RHCE) or Red Hat Certified System Administrator (RHCSA).
+
+Soft Skillsets
+Strong communication skills, experience with executive level updates, logical complex problem solving, ability to collaborate cross-functionally, self-driven, able to multitask multiple projects, can lead a database related incident call focusing on restoring services first while being careful to not lose critical logs during restores and providing timely updates to stakeholders. Willingness to be available and jump in when incidents happen and restoration is business critical.
+
+
+Experience
+Over 8+ years of Total IT Experience with windows administration and VMWare administration
+Managing and understanding of ESC/ESXI, Veeam Backup and Replication
+Experience in cloning and creating templates from VMs, snapshot and using vSphere features like vMotion, Storage vMotion, DRS and HA
+Expertise in Group Policy, DNS, DHCP, WSUS and Active Directory Services
+Experience with VMWare ESX/ESXI technologies, expertise with HA/DRS
+Experience with Cisco Hyperflex/Hyperconverged solutions
+
+
+Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements.
+
+We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com."
+Infrastructure and DevOps Engineer,https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18159781,"Descripción
+Job Details:
+
+Job Description:
+
+Qualified candidate would be joining a global IT team supporting labs at Intel.
+
+We are looking for a positive, proactive technical leader to work closely with lab engineers, vendors and customers to support IT infrastructure and client environments. This is a leadership position that requires a strong network and Linux skillsets.
+The person selected will be working closely with engineering, IT partners and vendors.
+Ensures the efficient planning, provisioning, installation/configuration, maintenance, and/or operations of the hardware and software infrastructure required to build, validate, and release a wide variety of hardware and software products and projects.
+Works closely with development and quality teams to derive infrastructure design requirements, build, test, and automate tools appropriate to the project, and/or implement and maintain of those systems within the constraints imposed by Intel enterprise infrastructure (IT) and other governing bodies.
+The person owns the end-to-end will work with customers worldwide delivery pipeline, including source code management, versioning/tagging strategy, component build and packaging, test automation tooling, release staging, acceptance and/or indicators, required security and IP scans, any third-party conformance tools, artifact storage and distribution, and disaster recovery planning.
+Identifies opportunities and implements solutions for increased automation, reliability, and/or velocity within the pipeline through implementation of robust infrastructure telemetry, KPIs, and indicators, and by monitoring and applying industry best practices.
+
+
+Behavioral Traits:
+Willing to work with customers, partners and vendors and turn business requirements into technical solutions.
+Positive proactive team player that can drive complex projects.
+Advanced Leadership skills.
+Strong English communications skills.
+Motivated to continuously learn and improve or replace existing solutions.
+Customer and results oriented with attention to quality and details.
+Team player skills.Passion in delivering high quality end-user experience.
+
+
+Qualifications:
+
+Minimum Qualifications,
+
+You must possess the below minimum qualifications to be initially considered for this position:
+
+The candidate must have a Bachelor's degree in Electrical, Computer engineering, Computer Science or related field, and 3+ years of experience or a Master's Degree in Electrical/Computer Engineering or Computer Science and 2+ years of experience in the following:
+CCNA with strong network architecting, supporting, and troubleshooting layer 2 and 3 knowledge required.
+In Linux administration, support, and troubleshooting skillsets.
+In scripting skillset to automate switch configurations, system configurations using Ansible or other scripting languages (Shell and Python).
+Advanced English Level is required to drive and support solutions worldwide.
+
+
+Must have unrestricted - permanent right to work in Mexico.
+
+Preferred Qualifications,
+
+Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates:
+Supporting engineering lab environments.
+Automation using Ansible, Puppet, Chef etc.
+Proficiency in Virtualization with focus on containers.
+Setting up and maintaining monitoring and alerting solutions like Nagios or Zabbix.
+Elasticsearch (Metrics database) and Kibana / Grafana (Visualization for monitoring).
+Prometheus and SNMP exporter configuration.
+NetFlow for network monitoring.
+Knowledge in security and vulnerability remediation (CVE).
+Automation skillsets (PowerShell, YAML).
+Server configuration and administration experience.
+Working in an Agile Environment.
+
+
+Requirements listed would be obtained through a combination of industry-relevant job experience, internship experiences, certifications and or schoolwork, classes, research.
+
+Job Type:
+Experienced Hire
+
+Shift:
+Shift 1 (Mexico)
+
+Primary Location:
+Mexico, Guadalajara
+
+Additional Locations:
+
+Business group:
+Intel's Information Technology Group (IT) designs, deploys and supports the information technology architecture and hardware/software applications for Intel. This includes the LAN, WAN, telephony, data centers, client PCs, backup and restore, and enterprise applications. IT is also responsible for e-Commerce development, data hosting and delivery of Web content and services.
+
+Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+
+Work Model for this Role
+This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. In certain circumstances the work model may change to accommodate business needs."
+Software Engineer - Platform Infrastructure Engineering,https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18275485,"Descripción
+What You'll Do:
+
+Teradata Platform Software Engineers are key members of our Product Engineering organization responsible for developing and maintaining software allowing our product to operate in multiple deployment environments. In this role, you will work on our platform engineering team as a developer for our Solution Platform Adviser (SPA) tool. SPA provides a single self-service web based application that reduces the domain knowledge required for our sales organization, drive consumption of TCore, enable us to be a trusted advisor through data-driven performance estimation of our solutions, resulting in a reduction of sales cycles through reduced engineering involvement.
+
+In this role you will:
+Support our sales and engineering teams by adding the ability to model new products as they become available in a timely manner, assist our users for complex configurations and provide explanations to the metrics calculated by the application as needed
+Work in a team of highly skilled engineers, developing and supporting many tools used for the characterization and modeling of cloud and on-prem infrastructure
+Perform software engineering duties such as: problem analysis, code review, design, develop, test, troubleshoot, document and support
+Ensure adherence to best practices and standards
+Be part of the team that builds and maintains tools used by our Engineering, Global Sales Support and field sales teams
+The successful candidate will:
+Be a self-starter with an ability to quickly come up to speed on different technologies and processes
+Work with cross-functional teams, to build consensus on issues, and to drive projects to completion
+Be a team player who can quickly find common ground to solve problems
+Become an advocate for software quality who designs good tests, and makes recommendations to increase the quality and testability of the software
+Who You'll Work With:
+
+This position is for a Software Engineer for our Infrastructure Platforms team. Our team is comprised of engineers working on enabling Teradata analytic deployments across public cloud and on-prem infrastructure. This your chance to be part of the development team where you will be primarily engaged in developing and supporting our automated characterization and analysis tools as well as contributing to our full stack infrastructure modeling applications that are used by Teradata's Sales teams to correctly size, configure, and sell Teradata's big data analytic solutions for our customers worldwide.
+
+What Makes You a Qualified Candidate:
+Bachelor of Science degree in Computer Science, Computer Engineering, or related discipline with 2+ years of work experience
+Experience with python
+Strong analytical and problem-solving skills
+Strong oral and written communications skills
+What You'll Bring:
+
+The ideal candidate would have experience with:
+Infrastructure performance testing
+Docker, Jenkins, CI/CD
+Unit testing / code coverage
+A good working knowledge on UNIX shell
+Databases, RDBMS, SQL, No SQL is a plus
+Server-side and client-side programming for web development such as Node.js, JavaScript, REST, JSON, HTML, CSS, MongoDB, Angular"
+Senior Software Engineer - Platform Infrastructure Engineering,https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18275486,"Descripción
+What You'll Do:
+
+Teradata Platform Software Engineers are key members of our Product Engineering organization responsible for developing and maintaining software allowing our product to operate in multiple deployment environments. In this role, you will work on our platform engineering team as a developer for our Solution Platform Adviser (SPA) tool. SPA provides a single self-service web based application that reduces the domain knowledge required for our sales organization, drive consumption of TCore, enable us to be a trusted advisor through data-driven performance estimation of our solutions, resulting in a reduction of sales cycles through reduced engineering involvement.
+
+In this role you will:
+Support our sales and engineering teams by adding the ability to model new products as they become available in a timely manner, assist our users for complex configurations and provide explanations to the metrics calculated by the application as needed
+Work in a team of highly skilled engineers, developing and supporting many tools used for the characterization and modeling of cloud and on-prem infrastructure
+Perform software engineering duties such as: problem analysis, code review, design, develop, test, troubleshoot, document and support
+Ensure adherence to best practices and standards
+Be part of the team that builds and maintains tools used by our Engineering, Global Sales Support and field sales teams
+The successful candidate will:
+Be a self-starter with an ability to quickly come up to speed on different technologies and processes
+Work with cross-functional teams, to build consensus on issues, and to drive projects to completion
+Be a team player who can quickly find common ground to solve problems
+Become an advocate for software quality who designs good tests, and makes recommendations to increase the quality and testability of the software
+Who You'll Work With:
+
+This position is for a Senior Software Engineer for our Infrastructure Platforms team. Our team is comprised of engineers working on enabling Teradata analytic deployments across public cloud and on-prem infrastructure. This your chance to be part of the development team where you will be primarily engaged in developing and supporting our automated characterization and analysis tools as well as contributing to our full stack infrastructure modeling applications that are used by Teradata's Sales teams to correctly size, configure, and sell Teradata's big data analytic solutions for our customers worldwide.
+
+What Makes You a Qualified Candidate:
+Bachelor of Science degree in Computer Science, Computer Engineering, or related discipline with 5+ years of work experience
+Experience with python
+Strong analytical and problem-solving skills
+Strong oral and written communications skills
+What You'll Bring:
+
+The ideal candidate would have experience with:
+Infrastructure performance testing
+Virtualization technologies (VMware, KVM, Hyper-V, etc)
+Docker, Jenkins, CI/CD
+Unit testing / code coverage
+A good working knowledge on UNIX shell
+Databases, RDBMS, SQL, No SQL is a plus
+Agile methodologies (Scrum, Lean, Kanban, SAFe, etc)
+Server-side and client-side programming for web development such as Node.js, JavaScript, REST, JSON, HTML, CSS, MongoDB, Angular
+Microsoft Power BI"
+Software Engineer II - Infrastructure and Platform (Remote),https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18358596,"Descripción
+With millions of diners, tens of thousands of restaurants, and 25+ years of experience, OpenTable, part of Booking Holdings, Inc. (NASDAQ: BKNG), is an industry leader with a unique insight into the world of hospitality. We champion restaurants, bars, wineries, and other venues around the world, helping them attract guests, manage capacity, improve operations and maximize revenue.
+
+Every employee at OpenTable has a tangible impact on what we do and how we do it. You'll also be part of a global network that includes OpenTable and KAYAK's portfolio of travel brands including Swoodoo, checkfelix, momondo, Cheapflights, Mundi and HotelsCombined.
+
+Hospitality is all about taking care of others, and it defines our culture. You'll work in a welcoming and inclusive environment, and get the benefits, flexibility, and support you need to succeed.
+
+We are seeking an experienced Mid-Level Software Engineer to join our Web Platform/Infrastructure team. In this role, you will be responsible for developing, maintaining, and enhancing our web applications and infrastructure components using cutting-edge technologies.
+Design, develop, and maintain scalable and high-performance web applications using Node.js, React, Redux, Express, GraphQL, and TypeScript
+Design, develop, and maintain tools and utilities that improve the developer experience, such as build automation, code generation, linting, formatting, and testing frameworks
+Collaborate with developers across teams to understand their needs and pain points, and develop solutions to streamline their workflows and increase productivity
+Contribute to the improvement of development processes, best practices, and coding standards to ensure a consistent and efficient development environment
+Implement and optimize front-end user interfaces using React, Redux, and CSS
+Develop and maintain back-end services and APIs using Node.js, Express, and GraphQL
+Contribute to the development and maintenance of our infrastructure components, including Docker, Grafana, ELK Stack.
+Write clean, testable, and well-documented code following best practices and coding standards
+Participate in code reviews and provide constructive feedback to other team members
+Troubleshoot and resolve issues in a timely and efficient manner
+Stay up-to-date with the latest technologies and industry trends
+Required Qualifications and Skills:
+Minimum of 3-5 years of experience in web development, preferably with Node.js, React, Redux, and TypeScript
+Strong understanding of front-end technologies such as HTML, CSS, and JavaScript
+Experience with back-end development using Node.js, Express, and GraphQL
+Familiarity with containerization technologies like Docker
+Knowledge of monitoring and logging tools such as StatsD, Grafana, ELK Stack
+Proficient in version control systems like Git
+Strong understanding of software development workflows, processes, and best practices
+Excellent communication and collaboration abilities
+Nice-to-have Qualifications and Skills:
+Experience with Esbuild, SWC, Webpack, or other build tools
+Experience with developer tooling ecosystems such as Babel, ESLint, Prettier, Jest, or Cypress
+Knowledge of PostgreSQL or MongoDB databases
+Familiarity with cloud platforms like AWS, GCP, or Azure
+Contribution to open-source projects
+Benefits:
+OpenTable provides Mexican Social Security (IMSS)
+Christmas Bonus - 30 days
+Paid Time Off - 20 days a year
+Vacation Premium - 25%
+Maternity leave - 12 weeks
+Paternity leave - 10 weeks
+Bereavement Leave - 3 days
+Marriage leave - 3 days
+Bonuses
+Dental Insurance & Life Insurance
+Major Medical Insurance
+Diversity, Equity, and Inclusion
+
+OpenTable aspires to be a workplace that reflects the diverse communities we serve and a culture that is inclusive and welcoming. Hiring people with different backgrounds, experiences, perspectives, and ideas is critical to innovation and to how we deliver great experiences for our users and our partners. Representation matters.
+
+We ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform job responsibilities, and to receive other benefits and privileges of employment. Please contact us to request accommodation."
+Backend Engineer - Mid (Go),https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18358101,"Descripción
+About Stori
+
+Stori is a fast-growing, venture-backed financial technology company, on a mission to democratize credit access for 400 million underbanked LatAm consumers. Stori currently operates in Mexico and has a global team with offices in Arlington Virginia, Mexico City, and Asia. We have quickly made our mark as one of the top digital banks in Mexico with more than two million applicants for our credit card product since launching.
+
+Stori is one of the top-funded startups in the region with US$250 million raised to date. We are backed by top global venture capital funds, such as GGV Capital, GIC, Lightspeed Venture Partners, General Catalyst, Goodwater Capital, Mexico's Tresalia Capital, Vision Plus Capital, BAI Capital and Source Code Capital; who have successfully invested in startups such as Affirm, Airbnb, Alibaba, Stripe, and TikTok.
+
+Stori has a standout founder team among fintechs, leveraging 100+ years of accumulated experience in consumer finance, banking and technology across Mastercard, Intel, Capital One, Morgan Stanley, GE Capital, and HSBC in the U.S., Mexico and Asia. The team has launched and managed many multi-million-customer credit card products globally, providing a wide breadth of experience and knowledge to our team.
+
+We welcome diversity of background, experience and thinking. Storians are passionate about our mission and take pride in the products we build. Our culture thrives off of a flat structure and an inclusive environment where all of our employees can be their authentic selves, with boundless opportunities for professional growth.
+
+The Role
+
+Stori is looking for candidates with experience building software applications on scalable cloud infrastructure. Our Software Engineers design, develop and maintain applications to solve customer problems and innovate Stori's technology to support rapid growth.
+The ability to collaborate, design, implement and monitor software solutions in a growing team is essential. Successful candidates will be able to quickly adapt and learn while assuming ownership of multiple product areas.
+Work with a multidisciplinary team of engineers, product managers, analysts, and UI/UX to solve problems and design and implement new features
+Design & develop RESTful APIs that integrate with Stori and third-party software
+Improve backend batch and stream processing software
+Socialize software designs and database structure with the team
+Monitor production code in Grafana and resolve issues with your team
+
+Requirements
+Experience building and consuming RESTful APIs in a microservices architecture
+Experience designing & developing batch processing for data pipelines
+Go professional software development experience in an Agile environment using Git
+Practical knowledge of SQL and/or NoSQL database model design and query optimization
+Strong software engineering practices like unit testing, PR reviews, design documentation and monitoring
+Bachelor's degree or higher in Engineering, Physics, Mathematics, Computer Science or a related field
+Self-organized and self-motivated. Resilient in the face of obstacles
+Works well in a team. Seeks to support other tech and non-tech team members
+Ownership of the team's goals and work. Committed to get the work done.
+Mindset to identify opportunities for innovation, and the initiative to experiment with new tools and processes.
+Comfortable writing & speaking English
+Desirable experience with cloud platforms like AWS, GCP or Azure
+
+
+What we offer
+Make a positive impact on the lives of our customers via financial inclusion
+Professional development opportunities
+International exposure & work experience
+Company swag
+Legally required benefits"
+Lead Engineer (Hybrid),https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18358094,"Descripción
+About Stori
+
+Stori is a fast-growing, venture-backed financial technology company, on a mission to democratize credit access for 400 million underbanked LatAm consumers. Stori currently operates in Mexico and has a global team with offices in Arlington Virginia, Mexico City, and Asia. We have quickly made our mark as one of the top digital banks in Mexico with more than two million applicants for our credit card product since launching.
+
+Stori is one of the top-funded startups in the region with US$250 million raised to date. We are backed by top global venture capital funds, such as GGV Capital, GIC, Lightspeed Venture Partners, General Catalyst, Goodwater Capital, Mexico's Tresalia Capital, Vision Plus Capital, BAI Capital and Source Code Capital; who have successfully invested in startups such as Affirm, Airbnb, Alibaba, Stripe, and TikTok.
+
+Stori has a standout founder team among fintechs, leveraging 100+ years of accumulated experience in consumer finance, banking and technology across Mastercard, Intel, Capital One, Morgan Stanley, GE Capital, and HSBC in the U.S., Mexico and Asia. The team has launched and managed many multi-million-customer credit card products globally, providing a wide breadth of experience and knowledge to our team.
+
+We welcome diversity of background, experience and thinking. Storians are passionate about our mission and take pride in the products we build. Our culture thrives off of a flat structure and an inclusive environment where all of our employees can be their authentic selves, with boundless opportunities for professional growth.
+
+The Role
+
+Stori is looking for candidates with experience building and designing software solutions on scalable cloud infrastructure. Our Senior Software Engineers design, develop and maintain applications to solve customer problems and innovate Stori's technology to support rapid growth. The ability to collaborate, design, implement and monitor software solutions in a growing team is essential. Successful candidates will be able to quickly adapt and learn while assuming ownership of multiple product areas.
+Work with a multidisciplinary team of engineers, product managers, analysts, and UI/UX to solve problems and design and implement new features
+Design & develop RESTful APIs that integrate with Stori and third-party software
+Improve backend batch and stream processing software
+Socialize software designs and database structure with the team
+Monitor production code in Grafana and resolve issues with your team
+
+Requirements
+Experience managing teams and designing solutions
+Experience building and consuming RESTful APIs in a microservices architecture
+Experience designing & developing batch processing for data pipelines
+Python or Golang professional software development experience in an Agile environment using Git
+Practical knowledge of SQL and/or NoSQL database model design and query optimization
+Strong software engineering practices like unit testing, PR reviews, design documentation and monitoring
+Bachelor's degree or higher in Engineering, Physics, Mathematics, Computer Science or a related field
+Self-organized and self-motivated. Resilient in the face of obstacles
+Works well in a team. Seeks to support other tech and non-tech team members
+Ownership of the team's goals and work. Committed to get the work done.
+Mindset to identify opportunities for innovation, and the initiative to experiment with new tools and processes.
+Comfortable writing & speaking English
+Desirable experience with cloud platforms like AWS, GCP or Azure
+
+
+What we offer
+Make a positive impact on the lives of our customers via financial inclusion
+Professional development opportunities
+International exposure & work experience
+Company swag
+Legally required benefits"
+Sr Backend Engineer Go (Hybrid),https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18358074,"Descripción
+About Stori
+
+Stori is a fast-growing, venture-backed financial technology company, on a mission to democratize credit access for 400 million underbanked LatAm consumers. Stori currently operates in Mexico and has a global team with offices in Arlington Virginia, Mexico City, and Asia. We have quickly made our mark as one of the top digital banks in Mexico with more than two million applicants for our credit card product since launching.
+
+Stori is one of the top-funded startups in the region with US$250 million raised to date. We are backed by top global venture capital funds, such as GGV Capital, GIC, Lightspeed Venture Partners, General Catalyst, Goodwater Capital, Mexico's Tresalia Capital, Vision Plus Capital, BAI Capital and Source Code Capital; who have successfully invested in startups such as Affirm, Airbnb, Alibaba, Stripe, and TikTok.
+
+Stori has a standout founder team among fintechs, leveraging 100+ years of accumulated experience in consumer finance, banking and technology across Mastercard, Intel, Capital One, Morgan Stanley, GE Capital, and HSBC in the U.S., Mexico and Asia. The team has launched and managed many multi-million-customer credit card products globally, providing a wide breadth of experience and knowledge to our team.
+
+We welcome diversity of background, experience and thinking. Storians are passionate about our mission and take pride in the products we build. Our culture thrives off of a flat structure and an inclusive environment where all of our employees can be their authentic selves, with boundless opportunities for professional growth.
+
+The Role
+
+Stori is looking for candidates with experience building and designing software solutions on scalable cloud infrastructure. Our Senior Software Engineers design, develop and maintain applications to solve customer problems and innovate Stori's technology to support rapid growth. The ability to collaborate, design, implement and monitor software solutions in a growing team is essential. Successful candidates will be able to quickly adapt and learn while assuming ownership of multiple product areas.
+Work with a multidisciplinary team of engineers, product managers, analysts, and UI/UX to solve problems and design and implement new features
+Design & develop RESTful APIs that integrate with Stori and third-party software
+Improve backend batch and stream processing software
+Socialize software designs and database structure with the team
+Monitor production code in Grafana and resolve issues with your team
+
+Requirements
+Experience managing teams and designing solutions
+Experience building and consuming RESTful APIs in a microservices architecture
+Experience designing & developing batch processing for data pipelines
+Python or Golang professional software development experience in an Agile environment using Git
+Practical knowledge of SQL and/or NoSQL database model design and query optimization
+Strong software engineering practices like unit testing, PR reviews, design documentation and monitoring
+Bachelor's degree or higher in Engineering, Physics, Mathematics, Computer Science or a related field
+Self-organized and self-motivated. Resilient in the face of obstacles
+Works well in a team. Seeks to support other tech and non-tech team members
+Ownership of the team's goals and work. Committed to get the work done.
+Mindset to identify opportunities for innovation, and the initiative to experiment with new tools and processes.
+Comfortable writing & speaking English
+Desirable experience with cloud platforms like AWS, GCP or Azure
+
+
+What we offer
+Make a positive impact on the lives of our customers via financial inclusion
+Professional development opportunities
+International exposure & work experience
+Company swag
+Legally required benefits"
+Cloud Engineer,https://www.occ.com.mx/empleos/de-database-infrastructure-engineer/en-Mexico/?page=1&jobid=18084901,"Descripción
+Job Description - Cloud Infrastructure Engineer II
+
+System Soft Technologies is a leading technology company that provides innovative technical solutions and consulting services to enhance innovation, business value, and competitiveness. For over 23 years, our focus on becoming a trusted partner to each client has allowed us to become a $230MM+ company with a pool of over 1900 associates who cover the full spectrum of IT expertise. We are distinguished by our ability to anticipate the unique needs of our clients and deliver a level of quality that far exceeds their expectations.
+
+Why System Soft Technologies?
+
+At System Soft Technologies, we are a family unit powered by diversity, inclusion, transparency, respect, integrity, and passion for our clients and our people. Our business growth depends on your professional development, as we collaborate, share ideas and innovation, and invest in our future. By forging a meaningful partnership with our people, we come together with the same purpose, exceeding our goals. This keeps us nimble, ahead of the competition, and on top of our industry. Our continued success begins with you.
+
+Job Summary:
+
+This role will support the existing cloud-based production environments of our clients while providing assistance to development teams as requested for cloud services. For production environments, this will include the handling of support tickets, regular maintenance and updates to client environments, applying mitigation strategies to known issues, and handling urgent outages. Assistance to development teams can include providing consultation on infrastructure architecture design and configuration, including creating relevant artifacts, as well as cost estimations for cloud-based hosting. This role includes ownership of technical, commercial, and service elements related to cloud project engagements. The successful applicant will be able to work independently under the provided policies and procedures while providing clear communications to the technical and support teams they assist.
+
+Responsibilities:
+
+Role responsibilities for this position include:
+
+• Ability to create artifacts for cloud infrastructure projects to include migration strategies, roadmaps, business cases, and transformation recommendations.
+
+• Design and build end-to-end hybrid DC and Cloud solutions for multiple types of service offerings and/or technology offerings.
+
+• Manage production operation and support of multiple client cloud environments within AWS, AZURE, or GCP.
+
+• Assess infrastructure requirements for new client projects and existing environments and provide cost estimates based on current vendor prices.
+
+• Work independently to address client tickets within contractual SLAs for timeliness in handling support tickets.
+
+• Handling the creation and configuration of client cloud environments consistent with the productivity and financial performance objectives of the project. This also includes the handling of internal team environments.
+
+• Provide routine maintenance, upgrades, and improvements for client production environments and internal team environments.
+
+• Efficient and effective communication, both verbal and written to facilitate issue resolution and complex infrastructure design discussions.
+
+• Assess and provide a variety of technology solutions to support client and company infrastructure needs while providing the pros and cons of each technology to enable business decision-making choices.
+
+• Manage standards, procedures, and practices for record keeping of contractual agreements and internal IT Cloud strategy
+
+• Identify potential project risks and incorporate risk mitigation strategy and contingency plan
+
+• Continued professional development and growth by staying in touch with the latest technology offerings and trends as well as proper industry procedures and standards.
+
+Qualifications:
+
+• 5+ years of infrastructure engineering experience
+
+• Infrastructure Transition and/or Data Center Migration to the Cloud experience
+
+• Experience in two or more of the industry's common cloud hosting environments: AWS, AZURE, or GCP, as well as the development and configuration of new infrastructures within those environments.
+
+• Experience in managing the production operation and support of one or more technology solutions, including custom development applications, IaaS, PaaS, and SaaS.
+
+• Experience in designing and creating architecture diagrams/artifacts to be used for both business and technical teams. This includes artifacts and designs about:
+AS-IS to TO-BE Transformation Mappings and Roadmaps
+The different architectural layers (e.g., Network, Storage, Databases, etc.)
+Virtualization technologies (e.g., VMware, Hyper-V, Nutanix, Containers, LPAR, etc.)
+Cloud migration strategies (i.e., Public, Hybrid, or Private cloud)
+Security components
+
+
+• Deep knowledge of On-Prem technologies like KVM, VMWare, Nutanix, converged architecture, Hyper-converged infrastructure, Private Cloud technologies, etc.
+
+• Experience working within both project-centric and project-matrix resourcing models
+
+• Experience in working with support tickets under defined SLAs.
+
+• Exposure to the full procurement life cycle (e.g., working with third parties to receive quotations, assisting in the commercial aspects of procuring data center-related hardware and licensing, etc.)
+
+• Excellent communication skills in both verbal and written communication.
+
+• Familiar with ITIL processes.
+
+Up to 10% Travel May Be Required
+
+System Soft Technologies is a proud equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, sexual orientation, or any other characteristic protected by law.
+
+System Soft Technologies is a proud equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, sexual orientation, or any other characteristic protected by law.
+
+We are committed to the full inclusion of all qualified individuals. If you are an individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to access job openings or apply for a job on this site as a result of your disability. You can request reasonable accommodations by contacting us at talent.acquisition@sstech.us."

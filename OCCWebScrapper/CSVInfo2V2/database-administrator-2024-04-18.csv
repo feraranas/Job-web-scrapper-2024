@@ -1,0 +1,3009 @@
+Job_Title,Job_Description,Job_Url
+DBA MAINFRAME COBOL,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18385489,"Descripción
+PRAXIS, es una empresa Mexicana Líder en Tecnologías de la Información, con presencia Internacional, y con 25 años proporcionando servicios de TI.
+
+DBA DESARROLLADOR MAINFRAME COBOL
+
+4 años de experiencia como DBA en Mainframe, CICS, ZOS, JCL's
+Experiencia en desarrollo con cobol
+
+La posición es hibrida
+Sector bancario, por lo que si cuentas con experiencia bancaria es un plus.
+
+Contratación inmediata, postúlate por este medio
+
+
+“En PRAXIS queda prohibido la solicitud de certificados médicos de no embarazo y virus de Inmunodeficiencia Humana (VIH) como requisito para el ingreso, permanencia o ascenso"""
+MongoDB DBA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18255876,"Descripción
+Empresa global líder en soluciones de tecnologías de la información (IT) enfocada en Cómputo Cognitivo, Inteligencia Artificial y Data Analytics busca un profesional para ocupar el puesto de MongoDB DBA. El candidato ideal debe contar con experiencia y conocimientos probados en metodologías ágiles y scrum, desarrollo de software y de manejo de datos.
+
+Responsabilidades:
+Consultoría sobre administración de MongoDB Enterprise on-prem y on-cloud.
+Analizar bases de datos en MongoDB y brindar recomendaciones para optimizar las operaciones.
+Actualización y migración de bases de datos en MongoDB.
+Apoyo en estandarización de bases de datos en MongoDB.
+Automatización e implementación de procesos.
+Implementación de planes de respaldo de datos y recuperación ante desastres.
+Debugging y troubleshooting cuando sea necesario.
+Colaborar con otros miembros del equipo técnico.
+
+Requerimientos / Certificaciones:
+Experiencia práctica de al menos 5 años usando MongoDB on-premise y on-cloud (Atlas)
+Experiencia probada diseñando e implementando clústeres en MongoDB.
+Experiencia en administración y optimización de bases de datos MongoDB.
+Certificación como MongoDB Certified DBA es deseada
+
+Conocimientos probados en:
+Patrones de diseño y modelación en MongoDB.
+Lenguaje de consultas de MongoDB.
+Utilización del Framework de Agregación de MongoDB.
+Índices y optimización de consultas.
+Conjuntos de replicación y particionamiento horizontal.
+Conocimientos sobre el uso de clústeres de MongoDB en Atlas y MongoDB Enterprise on-prem.
+Utilización de Ops Manager y Compass
+Desarrollo de aplicaciones que usen MongoDB utilizando los drivers de Python, Javascript, Java y/o C#."
+Database administrator,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18374001,"Descripción
+PRGX - Headquartered in Atlanta, Georgia, PRGX Global, Inc. is the world's leading provider of recovery audit services. The Company operates and serves clients in more than 30 countries with over 1,600 employees and provides its services to over 75% of the top 20 global retailers. PRGX provides a unique combination of audit, analytics and advisory services that optimizes client financial performance.
+
+Summary
+
+The Database Administrator (DBA) is responsible for providing technical support for the database environment including the publication and organization of databases the day-to-day administration and monitoring of databases, and the assessment and implementation of new technologies. The DBA is challenged to work with architecture, application development, and operations staff to help achieve a stable, state-of-the-art environment that meets current and future business objectives. The DBA also provides and designs tools to assist in the management of the databases.
+ Responsibilities
+
+· Deploy, maintain, and monitor large scale PostgreSQL & MongoDB database platforms and clusters.
+· Implement monitoring and alerting, backup and recovery processes, and provide system and database performance tuning.
+· Provide production issue identification and resolution.
+· Fulfill user requests ranging from access control, backup, restore, performance tuning, and database migrations between environments.
+· Provide on-call after-hours support for production issues, deployments, and monthly maintenance.
+· Contribute to the success of the organization by helping others accomplish job results; learning new skills needed by the team; finding new ways to help the team.
+ Qualifications
+
+· At least 3 years of hands-on experience in PostgreSQL 13 or higher and MongoDB 4.4 or higher database administration.
+· Previous experience with large scale databases and multiple clusters; also deployment skills and experience will be needed.
+· Strong Linux knowledge is required.
+· Bachelor's degree in computer science, information technology, or other related field of study
+· Has strong scripting skills to develop solutions for system automation, integration, and metadata collection.
+· Experience with Ansible or AWX, pgbackrest, pgbouncer, and DBeaver is preferred.
+· Experience with MongoDB OpsManager and Studio3T is preferred.
+· Knowledge of MSSQL or Oracle is a plus.
+· Be able to work with a global DBA team, needs to be self-motivated, and be able to work independently on assigned tasks.
+· Needs to have good English communication skills (verbal and written), with ability to write accurate reports/documentation."
+MSSQL Database Administrator,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18374017,"Descripción
+PRGX - Headquartered in Atlanta, Georgia, PRGX Global, Inc. is the world's leading provider of recovery audit services. The Company operates and serves clients in more than 30 countries with over 1,600 employees and provides its services to over 75% of the top 20 global retailers. PRGX provides a unique combination of audit, analytics and advisory services that optimizes client financial performance.
+
+Summary
+
+The Database Administrator (DBA) is responsible for providing technical support for the database environment including the publication and organization of databases, the day-to-day administration and monitoring of databases, and the assessment and implementation of new technologies. The DBA is challenged to work with architecture, application development, and operations staff to help achieve a stable, state-of-the-art environment that meets current and future business objectives. The DBA also provides and designs tools to assist in the management of the databases.
+ Responsibilities
+
+·      Deploy, maintain, and manage Microsoft SQL Server, support monitoring and alerting, support backup and recovery processes, and provide system and database performance tuning.
+·      Responsible for SQL server versions from SQL 2016 to SQL 2022.
+·      Provide production issue identification, support, and resolution.
+·      Fulfill user requests ranging from access control, backup, restore, performance tuning, and database migrations between environments.
+·      Provide on-call after-hours support for production issues, deployments, and monthly maintenance.
+·      Contribute to the organization's success by helping others accomplish job results; learning new skills needed by the team; finding new ways to help the team.
+ Qualifications
+
+·      At least 3 years of hands-on experience in Microsoft SQL Server 2016 or higher database administration.
+·      Previous experience with large database and server footprint. Multiple Petabytes
+·      Bachelor's degree in computer science, information technology, or other related field of study
+·      Has strong scripting skills to develop solutions for system automation, integration, and metadata collection. T-SQL is required and PowerShell is a plus.
+·      Experience with ETL tools such as Integration Services, Polybase, or Trino is preferred.
+·      Experience with reporting solutions such as Reporting Servers and PowerBI is preferred.
+·      Experience with MongoDB, PostgreSQL, or Oracle is a plus.
+·      Be able to work with a global DBA team, needs to be self-motivated, and be able to work independently on assigned tasks. 
+·      Needs to have good English communication skills (verbal and written), with the ability to write accurate reports/documentation."
+SQL - Database Administrator,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18319438,"Descripción
+Zurich Capability Center is currently hiring a:
+  SQL - Database Administrator
+  Summary:
+In the SQL Database Administrator position you will oversee the design, implementation, and maintenance of our Microsoft SQL Servers. You will understand software development methodologies and be able to work with development, platform, security, and infrastructure teams to support the databases at Zurich.  The successful candidate will possess very strong troubleshooting skills with the ability to work independently to research and resolve issues. 
+Creation and maintenance of end-to-end automation of deployment, monitoring, and infrastructure management of database services.
+Design and implement database structures that meet the business requirements while ensuring scalability, reliability, and performance.
+Develop custom scripts to increase system efficiency and lower the human intervention time on any tasks.
+Understanding of Microsoft Server operating systems.
+Understanding of DevOps practices using Azure Devops, git, Visual Studio, etc.
+SQL, PowerShell, Bash, Ansible and/or Python preferred for automation.
+Perform database tuning, troubleshooting, and optimization to ensure optimal performance and minimize downtime.
+Provides consultation to business personnel, the development team and infrastructure team with the design and support of host systems with client and internal applications by participating in project meetings.
+Design of Microsoft SQL solutions including architecture, deployment processes, build and configuration standards.
+Troubleshooting and solutioning connections of various types like jdbc, odbc and native clients.
+Understand of high availability, disaster recovery and storage concepts.
+Understanding of database security including implementation, support and evaluating database security in Microsoft SQL.
+Lead and mentor junior database administrators and developers.
+Stay updated with the latest trends and technologies in database management and security.
+The ability to work on a diverse team or with a diverse range of people.
+Primary operating hours are 9-5pm CST. Candidate will be part of an on call support team and will need to work off hours on some weekends and holidays.
+Educational Requirements:
+Bachelor's degree in Computer Science, Information Systems, or other related field with relevant work experience of 5+ years experience in the IT field, or equivalent experience in the IT field.
+5+ years of SQL Database Administrator experience
+  Other Requirements:
+Occasional travel may be required.
+  Who we are 
+ Looking for a challenging and inspiring work environment where you can make a difference? At Zurich millions of individuals and businesses place their trust in our products and services every day. Our 53,000 employees worldwide form the basis of our success, enabling, businesses and communities to face a world of risk with confidence. Imagine if you could help people do this all over the world. You’d give them confidence and reassurance by protecting what they love most. It’s a big challenge, but you will be supported by a world-class team who believe in helping you to reach your full potential and deliver on our promises. 
+So be challenged. Be inspired. Help us make a difference. 
+At Zurich we are an equal opportunity employer. We attract and retain the best qualified individuals available, without regard to race/ethnicity, religion, gender, sexual orientation, age, or disability"
+DB2 Database Administrator,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18319439,"Descripción
+Zurich Capability Center is currently hiring a:
+  DB2 Database Administrator
+Summary:
+In the DB2 Database Administrator position you will oversee the design, implementation, and maintenance of our DB2 on Linux servers. You will understand software development methodologies and be able to work with development, platform, security, and infrastructure teams to support the databases at Zurich.  The successful candidate will possess very strong troubleshooting skills with the ability to work independently to research and resolve issues. 
+  Creation and maintenance of end-to-end automation of deployment, monitoring, and infrastructure management of database services.
+Design and implement database structures that meet the business requirements while ensuring scalability, reliability, and performance.
+Develop custom scripts to increase system efficiency and lower the human intervention time on any tasks.
+Understanding of Linux operating systems.
+Understanding of DevOps practices using Azure Devops, git, Visual Studio, etc.
+SQL, PowerShell, Bash, Ansible and/or Python preferred for automation.
+Perform database tuning, troubleshooting, and optimization to ensure optimal performance and minimize downtime.
+Provides consultation to business personnel, the development team and infrastructure team with the design and support of host systems with client and internal applications by participating in project meetings.
+Design of DB2 solutions including architecture, deployment processes, build and configuration standards.
+Troubleshooting and solutioning connections of various types like jdbc, odbc and native clients.
+Understand of high availability, disaster recovery and storage concepts.
+Understanding of database security including implementation, support and evaluating database security in DB2.
+Lead and mentor junior database administrators and developers.
+Stay updated with the latest trends and technologies in database management and security.
+The ability to work on a diverse team or with a diverse range of people.
+Primary operating hours are 9-5pm CST. Candidate will be part of an on call support team and will need to work off hours on some weekends and holidays.
+Educational Requirements:
+Bachelor's degree in Computer Science, Information Systems, or other related field with relevant work experience of 5+ years experience in the IT field, or equivalent experience in the IT field.
+5+ years of SQL Database Administrator experience
+  Other Requirements:
+Occasional travel may be required.
+Who we are 
+   Looking for a challenging and inspiring work environment where you can make a difference? At Zurich millions of individuals and businesses place their trust in our products and services every day. Our 53,000 employees worldwide form the basis of our success, enabling, businesses and communities to face a world of risk with confidence. Imagine if you could help people do this all over the world. You’d give them confidence and reassurance by protecting what they love most. It’s a big challenge, but you will be supported by a world-class team who believe in helping you to reach your full potential and deliver on our promises. 
+So be challenged. Be inspired. Help us make a difference. 
+At Zurich we are an equal opportunity employer. We attract and retain the best qualified individuals available, without regard to race/ethnicity, religion, gender, sexual orientation, age, or disability. "
+MySQL Database Administrator,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18403875,"Descripción
+Every day, Global Payments makes it possible for millions of people to move money between buyers and sellers using our payments solutions for credit, debit, prepaid and merchant services. Our worldwide team helps over 3 million companies, more than 1,300 financial institutions and over 600 million cardholders grow with confidence and achieve amazing results. We are driven by our passion for success and we are proud to deliver best-in-class payment technology and software solutions. Join our dynamic team and make your mark on the payments technology landscape of tomorrow. 
+
+We are seeking a talented MySQL Database Administrator (DBA) with extensive experience in database engineering, AWS cloud services, and MongoDB. The successful candidate will play a key role in designing, implementing, and optimizing database solutions to support our company's growth and objectives.
+
+Responsibilities
+
+Manage and maintain MySQL databases to ensure optimal performance, reliability, and security. Design and implement database schema, queries, and stored procedures to support business requirements. Optimize database performance through indexing, query optimization, and other tuning techniques. Monitor database health and troubleshoot issues proactively. Implement and manage database backups, replication, and disaster recovery procedures. Collaborate with software developers and system architects to design and implement scalable and efficient database solutions. Evaluate and recommend database technologies and tools to meet evolving business needs. Provide technical guidance and support to team members on database-related matters. Stay updated on emerging technologies and best practices in database administration and cloud computing.
+
+Requirements
+
+Bachelor's degree in Computer Science, Information Technology, or related field. Proven experience as a MySQL Database Administrator or similar role. Strong proficiency in MySQL database management and optimization. Solid understanding of database engineering principles and best practices. Experience with AWS cloud services, including EC2, RDS, and S3. Familiarity with MongoDB database administration is highly desirable. Excellent problem-solving skills and attention to detail. Strong communication and collaboration skills. Ability to work effectively in a fast-paced environment and manage multiple priorities. AWS or MongoDB certifications are a plus.
+
+What Are We Looking For in This Role?
+Minimum Qualifications
+
+Bachelor's Degree
+Relevant Experience or Degree in: No degree specified
+Typically Minimum 4 Years Relevant Exp
+With the Installation, Customization, Testing and Maintenance of database systems within a production environment.
+
+What Are Our Desired Skills and Capabilities?
+
+Skills / Knowledge - A seasoned, experienced professional with a full understanding of area of specialization; resolves a wide range of issues in creative ways. This job is the fully qualified, career-oriented, journey-level position.
+Job Complexity - Works on problems of diverse scope where analysis of data requires evaluation of identifiable factors. Demonstrates good judgment in selecting methods and techniques for obtaining solutions. Networks with senior internal and external personnel in own area of expertise.
+Supervision - Normally receives little instruction on day-to-day work, general instructions on new assignments.
+DBMS Knowledge - Extensive Knowledge of multiple database disciplines and technologies
+DBMS Utilities - Extensive Knowledge of multiple utilities utilized to manage, monitor and maintain database systems
+DBMS Recovery - Extensive Knowledge of recovery technologies for local and geographically disperse systems
+
+Global Payments Inc. is an equal opportunity employer. Global Payments provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex (including pregnancy), national origin, ancestry, age, marital status, sexual orientation, gender identity or expression, disability, veteran status, genetic information or any other basis protected by law. Those applicants requiring reasonable accommodation to the application and/or interview process should notify a representative of the Human Resources Department."
+Senior Database Administrator (DBA)- EC,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18381188,"Descripción
+Position Title: Senior Database Administrator (DBA)
+Location: Querétaro, Hybrid Work
+We're seeking a Senior DBA for our team in Querétaro.
+Responsibilities:
+- Develop and maintain public cloud infrastructure.
+- Provide support to production team and cross-product services.
+- Automate administrative tasks and incident responses.
+- Ensure security and reliability practices.
+- Improve existing infrastructure with self-healing and auto-scaling capabilities.
+- Collaborate with product owners on future releases.
+- Monitor KPIs/KRIs and develop plans for corporate objectives.
+Requirements:
+- Minimum 10 years' experience.
+- Bachelor's degree in Computer Science or similar.
+- Strong experience in database administration, capacity and performance analysis, HA/DR environment configuration, backup and recovery, monitoring tools, automation (Ansible), scripting (Shell Script/PowerShell), and public cloud environments.
+- Proficiency in English.
+- Knowledge of Python, PHP, and agile methodologies preferred."
+"DBA Bilingüe, presencial",https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18400355,"Descripción
+Alia Integrando Talento, empresa de Tecnología, busca un DBA bilingue con al menos 3 años de experiencia para un esquema de trabajo presencial. El candidato seleccionado será responsable de supervisar y mantener la base de datos, garantizando su integridad, seguridad y rendimiento óptimo.
+Responsabilidades:
+Supervisar y mantener la base de datos.
+Garantizar la integridad, seguridad y rendimiento óptimo de la base de datos.
+Administrar bases de datos SQL Server.
+Implementar medidas de alta disponibilidad y recuperación de desastres.
+Realizar respaldos y restauraciones de bases de datos.
+Realizar tareas de mantenimiento de bases de datos.
+Requisitos:
+3+ años de experiencia como DBA.
+Conocimientos de SQL Server, Microsoft AnalysisServices e Integration Services.
+Experiencia en seguridad de bases de datos.
+Experiencia en medidas de alta disponibilidad y recuperación de desastres.
+Experiencia en respaldo y restauración de bases de datos.
+Experiencia en tareas de mantenimiento de bases de datos.
+Inglés avanzado indispensable (se colabora con equipos de IT en EU)
+Ubicación:
+Lomas de Chapultepec
+Beneficios:
+Salario competitivo.
+Oportunidad de crecimiento y desarrollo profesional.
+Ambiente de trabajo colaborativo.
+Beneficios adicionales."
+DBA administrador de bases de datos,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18380522,"Descripción
+¡Nos encontramos en búsqueda de un administrador de bases de datos!
+
+Requisitos del puesto
+
+Licenciatura en curso, trunca o concluida en sistemas, tecnologías de la información o afín.
+Experiencia en programación de base de datos de al menos 2 años.
+Conocimientos de SQL, MySQL y C# a nivel Medio.
+
+Responsabilidades del puesto
+
+Análisis de datos.
+Diseñar, modelar, crear e implementar bases de datos. (Definición, Estructura, Acceso, Seguridad).
+Mantener bases de datos SQL en SQL Server y Azure SQL Database.
+Scripting.
+Manejo de Seguridad de Datos.
+Monitoreo de desempeño de la base de datos.
+Monitoreo de desempeño de consultas.
+Soporte a equipo de desarrollo.
+
+Prestaciones y beneficios adicionales
+
+Sueldo mensual base
+Proyecto por 1 año.
+Modalidad de trabajo presencial.
+Oportunidades de capacitación y desarrollo profesional.
+Ambiente laboral colaborativo y motivador.
+
+Ubicación: Saltillo, Coahuila."
+DBA SR,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18397939,"Descripción
+DBA SR
+ Requisitos:
+Ingeniería o Licenciatura en Sistemas Computacionales o carreras afín.
+Experiencia de 4 a 5 años.
+Edad 25 a 35 años.
+
+Funciones:
+-         Crear arquitectura de las BDs de alta calidad y disponibilidad según la necesidad de los usuarios finales.
+-         Diseñar e implementar las BDs de acuerdo con las necesidades de información y los requerimientos de los usuarios finales.
+-         Gestionar los usuarios y definir los permisos y accesos a entidades y objetos por usuario operativo.
+-         Minimizar el tiempo inactividad en las BDs y gestionar los procedimientos, funciones y vistas para ofrecer respuestas rápidas a consultas.
+-         Establecer, dar seguimiento y generar reportes de las auditorias activadas en las diferentes BDs
+-         Realizar pruebas y evaluaciones periódicamente para garantizar la seguridad, privacidad e integridad de los datos.
+
+Conocimiento en:
+-         Windows 10-11 y Server (nivel Avanzado)
+-         Base de Datos: SQL Server, MySQL, SQLlite, etc., NoSQL MongoDB (nivel Avanzado)
+-         Middleware MuleSoft (nivel básico)
+-         Back-End: C#, Entity Framework, Linq (nivel básico)
+-         Framework: 4.5, MVC 5 y Net Core (nivel básico)
+-         Versionadores: Subversion, Git y Github (nivel básico)
+
+Competencias
+Comunicación asertiva
+Servicio al cliente
+Organización
+
+Ofrecemos:
+Sueldo Competitivo 100% en Nómina
+Prestaciones de Ley + Aguinaldo de 30 días y 50% Prima Vacacional.
+Contrato directamente con la empresa.
+Zona de Trabajo – Zona Alta Esmeralda, Atizapán de Zaragoza, Edo. de México.
+Jornada de Trabajo - lunes a jueves de 9:00am a 7:00pm y viernes 9:00am a 5:00pm
+Esquema Híbrido 2 días presencial y 3 Home Office"
+Oracla DBA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18360334,"Descripción
+Location: Anywhere in Mexico (Remote)
+
+?Required Education, Experience, & Skills
+
+
+
+
+
+Extensive experience with Oracle 19c Multi-Tenant Architecture and database infrastructure design.
+Experience in supporting old database versions such as 10g, 11g, 12c and plan upgrades to recent versions.
+Extensive experience as an Oracle administrator including the management, maintenance, configuration and optimization of the database platform.
+Ability and experience with the development of processes and procedures to standardize Database installations and configuration.
+Experience in cloning databases in a Multi-Tenant environment utilizing Containers and Pluggable databases.
+Experience automating, scripting and streamlining processes for efficiency and accuracy utilizing shell scripting or other scripting tools.
+Broad experience in the art of performance tuning, utilizing OEM or third party tools to finely tune objects and partitions in Oracle 19c, and applications.
+Extensive experience with implementation and maintenance of Disaster Recovery environments using Data Guard. Experience with capacity planning, maintenance, and optimization of the database environments.
+Comprehensive understanding of Oracle backup methodologies, their implementation via GUI as well as scripts. Experience with setup and scheduling of RMAN backups as well as successful database restores.
+Strong experience with WINDOWS, UNIX and Linux Operating Systems.
+Experience with the development of architectural and functional process diagrams for Oracle database services.
+Experience monitoring alert logs, OEM and system alerts, acting on the results.
+Experience applying and troubleshooting quarterly database CPU, PSU, SPU and BP patches.
+Participate in rotational 24 x 7 on-call Production support.
+Excellent communication, and customer relationship skills.
+Ability to work on unusually complex technical problems and provide solutions that are highly innovative and ingenious.
+Proven ability to work creatively and analytically in a problem-solving environment.
+Advanced English skills (verbal, writing and listening) is a must.
+“Can-do” attitude, proactive and resourceful.
+
+
+Preferred Education, Experience, & Skills
+
+
+
+
+Oracle OCA or OCP Certification.
+Experience in Backup/Recovery solutions.
+Postgres database exposure.
+SQL Server database exposure.
+PL/SQL scripting for tuning processes already implemented.
+OEM custom implementation for monitoring requests.
+Minimum 3 years of experience as an Oracle database engineer /DBA
+
+
+Benefits
+
+
+
+Able to work remote (100% home office schema).
+Salary range according experience.
+Two weeks full time paid time vacation after first year.
+Opportunity to grow within the company and based upon performance being hired directly by the customer.
+
+Contact: rh(at)faiaconsulting(dot)com"
+DBA SR,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18409117,"Descripción
+DBA SR.
+Requisitos
+·        LICENCIATURA EN ING. EN SISTEMAS COMPUTACIONALES O AFIN
+·        EXPERIENCIA MINIMA DE 2 AÑOS CON SQL Y MYSQL             
+·        CONOCIMIENTO DE PLATAFORMAS EN LA NUBE (MS AZURE, AWS)
+·        IDENTIFICAR MEJORAS A NIVEL DE SCRIPTS EN LAS BASES DE DATOS.
+·        CONOCIMIENTOS DE MÉTODOS DE ENCRIPTACIÓN.
+·        CONOCIMIENTO DE NORMAS Y POLÍTICAS DE SEGURIDAD DE LA INFORMACIÓN (ISO, PCI) PARA TEMAS DE AUDITORÍA.
+COMPETENCIAS:
+·        ORIENTACIÓN Y SERVICIO AL CLIENTE                                                                                                  
+·        ENFOQUE A RESULTADOS                                                                                                         
+·        LIDERAZGO E INFLUENCIA                                                                                                        
+·        COMUNICACIÓN EFECTIVA                                                                                                      
+·        TRABAJO EN EQUIPO                                                                                                  
+·        NEGOCIACIÓN Y MANEJO DE CONFLICTOS                                                                        
+·        ANÁLISIS Y SOLUCIÓN DE PROBLEMAS                                 
+FUNCIONES:
+·        ATENCIÓN DE SOLICITUDES (TICKET ZAMMAD / CORREO / LLAMADA / MS TEAMS / PRESENCIAL).
+·        LIBERACIONES (COMITÉ DE LIBERACIÓN / COMITÉ EMERGENTE).
+·        Control de cambios.
+·        Scripts de liberación.
+·        Scripts de rollback.
+AUDITORIAS (INTERNAS / EXTERNAS).
+·        CHECK LIST DIARIO.
+·        MANTENIMIENTO.
+·        SEGUIMIENTO.
+·        PLANES DE EJECUCIÓN
+·        ÍNDICES.
+·        BLOQUEOS
+·        ETL's."
+DBA SQL Server,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18400582,"Descripción
+Acerca de la empresa
+
+'Versaria, S. A. de C. V.' es una empresa líder en el sector de tecnologías de la información con más de 18 años de experiencia en el mercado.
+
+Buscamos DBA SQL Server
+
+Requisitos del puesto
+
+Escolaridad: Licenciatura o ingeniería en tecnologías de la información o carreras afín (TÍTULO INDISPENSABLE)
+Experiencia comprobada en administración de bases de datos SQL Server (2-4 años)
+Diploma y/o certificación en Base de Datos SQL Server
+ITIL V4 (DESEABLE)
+
+
+Responsabilidades del puesto
+
+Experiencia en el soporte a fallas
+Troubleshooting y seguimiento a incidentes y requerimientos
+Experiencia en la implementación de SQL Hardening en Base de datos
+Deseable experiencia en la implementación de Failover Clúster SQL Server
+Administración de log shipping
+Experiencia en la instalación y actualización de versiones
+Experiencia en la administración de usuarios
+Experiencia en la definición de modelos de respaldo a las bases de datos
+Experiencia en la gestión de incidentes y/o problemas"
+DBA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18380482,"Descripción
+Importante Financiera solicita por expansión:
+ADMINISTRADOR DE BASE DE DATOS
+
+
+Diseño, aplicación y desarrollo de protocolos de seguridad
+Instalar, mantener y actualizar bases de datos
+Migración de Oracle 12 a 19
+
+
+Necesitas contar con:
+Licenciatura Concluida
+Experiencia previa (deseable en sector financiero)
+Conocimiento sistemas operativos AIX/ LINUX
+Instalación, administración y configuración de Oracle V12 y 19
+Experiencia en contingencias
+
+
+L a V 8.30 a 6.00 pm
+Importante contar con Disponibilidad de Horario
+
+
+Beneficios:
+Sueldo base de 40k a 50 k brutos (de acuerdo a experiencia)
+Prestaciones de ley inmediatas
+Esquema Hibrido
+Convenio con escuelas y gimnasios
+Contratación directa 100% vía nómina
+Oportunidad de crecimiento
+
+
+Zona a laborar:
+MB Campo Marte/ M Auditorio
+
+
+Interesados postularse por este medio"
+DBA SQL,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18361588,"Descripción
+GRUPO SALINAS
+Es un conjunto de empresas dinámicas, de rápido crecimiento y a la vanguardia tecnológica, con enfoque en la creación de valor económico, social y ambiental. Al llevar bienestar a todos los niveles de la sociedad, Grupo Salinas fomenta el desarrollo de los países en los que opera.
+
+Intégrate con nosotros como:
+Líder de Bases de Datos SQL
+
+Objetivo principal del puesto: Administrar, gestionar y optimizar tanto las bases de datos como los RDBMS del área y garantizar confiabilidad e integridad de la información almacenada.
+
+¿Qué funciones tendré??
+
+·Diseñar e implementar arquitecturas HA para RDBS.
+·Analizar información y dimensionar las Bases de datos tanto en SQL Server y en RDS.
+·Realizar migraciones y actualizaciones de bases de datos en entornos de Nube Privada, AWS, Huawei, GCP.
+·Realizar la estimación de tiempos, costos y equipo necesario
+·Realizar respaldos y recuperación de esquemas
+·Instalar, configurar y gestionar bases de datos usando RDBS en Premise / RDBS en Nube.
+·Gestionar el almacenamiento de las bases de datos.
+·Optimizar el rendimiento de consultas SQL y del rendimiento del motor de SQL Server y Oracle.
+
+¿Qué necesito?
+
+·Formación: Licenciatura o Ingeniería en Sistemas, TI, Bases de Datos o afín (Título y Cédula).
+·Experiencia: Mínima de 3 años en puesto similar.
+·Conocimientos técnicos: Manejo amplio de volúmenes de información, Sistemas operativos Windows y Linux (básico), herramientas de respaldos como Data Pump/RMAN, configuración y administración de Bases de datos
+SQL Server y RDS Nube, SQL y/o R y/o Python, servicios de Nube/RDS, diseño e implementación de arquitecturas HA para bases de datos.
+·Competencias: Orientación al Cliente, Trabajo en Equipo, Excelente Ejecución, Mejora Continua, Confianza y Respeto.
+·Zona de trabajo: Tlalpan, CDMX.
+·Días de trabajo y horario: De lunes a viernes de 9:00 a 19:00 hrs.
+(disponibilidad de horario).
+
+¿Qué me ofrecen?
+·Sueldo competitivo acorde al perfil
+·Prestaciones de ley
+·Seguro de vida
+·Servicio de comedor
+·Servicios de salud
+·Servicios de bienestar
+·Servicios bancarios exclusivos
+·Beneficios corporativos
+·Descuentos de empleado
+
+
+En Grupo Salinas respetamos la dignidad y diversidad de las personas. Como empresa comprometida con la igualdad y no discriminación, no hace distinción por motivo de raza, sexo, condición social, económica, embarazo, preferencia sexual o cualquier otra. Somos un grupo incluyente y valoramos el talento esté donde esté.
+
+*EN GRUPO SALINAS NO COBRAMOS POR NINGUN PROCESO DE RECLUTAMIENTO*"
+DBA SQL Server,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18385546,"Descripción
+IDS Comercial es una empresa 100% mexicana dedicada a TI con +40 años de experiencia con presencia en México, Costa Rica y proyectos con EU y Canadá.
+Nos especializamos en servicios de consultoría, desarrollo y capacitación en TI.
+Más de 1500 consultores trabajan con un gran número de proyectos dentro de los sectores financiero, comercial, manufacturero, telecomunicaciones, servicios, gobierno, entre otros.
+Estamos acreditados en el Nivel 5 de CMMI (Capability Maturity Model Integration), modelo de calidad establecido por el Software Engineering Institute (SEI), certificados por parte de ISO en la norma ISO/IEC 27001:2013, así como cada año obtenemos un distintivo como Empresa Socialmente Responsable (ESR) entre otros.
+Te invitamos a unirte a este gran equipo en ids con cultura happiness.
+
+Administrador de Proyectos.
+
+Perfil:
+Ingeniería o Licenciatura en Sistemas o afín.
+Inglés avanzado.
+
+Experiencia mínima de 3 años en:
+
+Conocimientos técnicos en sistemas operativos, redes y hardware.
+Habilidades en scripting y automatización.
+Conocimientos intermedios y avanzados en ciberseguridad.
+Capacidad para solucionar problemas técnicos complejos.
+Gestión eficaz de múltiples tareas y proyectos.
+Habilidades de comunicación y trabajo en equipo.
+Adaptabilidad y aprendizaje continuo para mantenerse al día con las tecnologías cambiantes.
+Shell, Batch, SQL, PLSQL
+Establecer políticas y medidas de seguridad para proteger la base de datos contra accesos no autorizados, implementando controles de acceso y auditorías.
+Realizar copias de seguridad periódicas de la base de datos y desarrollar planes de recuperación en caso de fallos o desastres.
+Monitorear y optimizar el rendimiento de la base de datos, identificando y resolviendo cuellos de botella, optimizando consultas y ajustando la configuración del sistema.
+Colaborar con equipos de desarrollo y otros departamentos para comprender y satisfacer los requisitos de los proyectos.
+Mantenerse actualizado sobre las tendencias y avances en tecnologías.
+Evaluar nuevas herramientas y técnicas que puedan mejorar la eficiencia y la seguridad.
+
+Modalidad de trabajo híbrida en Toluca (al menos 3 días).
+
+Pago en esquema nómina + Beneficios."
+Oracle dba,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18381156,"Descripción
+Division/Company: SCIB/Santander Digital Services
+Department: Production and Cross-Product Areas
+Location: Querétaro (preferred) or Mexico City
+We're seeking an experienced Oracle Senior DBA to join our team at SCIB/Santander Digital Services in Mexico.
+
+
+WHAT YOU WILL DO IN YOUR ROLE
+- Develop and maintain infrastructure in public clouds.
+- Provide support to our production team and cross-product services.
+- Automate administrative tasks and autonomous incident responses using metrics and traces.
+- Ensure good security and reliability practices, such as access control and automatic vulnerability testing.
+- Improve existing infrastructure with self-healing and auto-scaling capabilities.
+- Collaborate with product owners to define the scope of future releases.
+- Monitor KPIs/KRIs, developing plans and automatic responses to achieve corporate objectives.
+REQUIRED EXPERIENCE
+- Minimum of 10 years of experience in similar fields.
+EDUCATION
+- Bachelor's degree in Computer Science or similar.
+SKILLS & KNOWLEDGE
+- Experience in Oracle database administration in RAC and Multitenant environments.
+- Minimum 3 years' experience in administration and management of Exadata Cloud at Customer environments. Gen2 model X8M or higher.
+- Experience in public cloud environments (Oracle Cloud, Azure, AWS, etc.).
+- Capacity and performance analysis experience with Oracle tools.
+- Experience in Oracle Dataguard.
+- Experience with backup and recovery tools (NetBackup, Avamar, DDBoost, etc.) and integration with RMAN.
+- Experience with Oracle Grid Control tool and integration with monitoring tools (Dynatrace, CA, etc.).
+- Experience in automation with Ansible.
+- Scripting experience with Shell Script.
+- Programming experience with Python.
+- Knowledge of GitHub, Jira, Confluence.
+- Familiarity with agile methodologies.
+- Proficiency in English."
+Oracle dba -E,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18381168,"Descripción
+Division/Company: SCIB/Santander Digital Services
+Department: Production and Cross-Product Areas
+Location: Querétaro (preferred) or Mexico City
+We're seeking an experienced Oracle Senior DBA to join our team at SCIB/Santander Digital Services in Mexico.
+
+
+WHAT YOU WILL DO IN YOUR ROLE
+- Develop and maintain infrastructure in public clouds.
+- Provide support to our production team and cross-product services.
+- Automate administrative tasks and autonomous incident responses using metrics and traces.
+- Ensure good security and reliability practices, such as access control and automatic vulnerability testing.
+- Improve existing infrastructure with self-healing and auto-scaling capabilities.
+- Collaborate with product owners to define the scope of future releases.
+- Monitor KPIs/KRIs, developing plans and automatic responses to achieve corporate objectives.
+REQUIRED EXPERIENCE
+- Minimum of 10 years of experience in similar fields.
+EDUCATION
+- Bachelor's degree in Computer Science or similar.
+SKILLS & KNOWLEDGE
+- Experience in Oracle database administration in RAC and Multitenant environments.
+- Minimum 3 years' experience in administration and management of Exadata Cloud at Customer environments. Gen2 model X8M or higher.
+- Experience in public cloud environments (Oracle Cloud, Azure, AWS, etc.).
+- Capacity and performance analysis experience with Oracle tools.
+- Experience in Oracle Dataguard.
+- Experience with backup and recovery tools (NetBackup, Avamar, DDBoost, etc.) and integration with RMAN.
+- Experience with Oracle Grid Control tool and integration with monitoring tools (Dynatrace, CA, etc.).
+- Experience in automation with Ansible.
+- Scripting experience with Shell Script.
+- Programming experience with Python.
+- Knowledge of GitHub, Jira, Confluence.
+- Familiarity with agile methodologies.
+- Proficiency in English."
+Senior Tech Specialist Oracle DBA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18397247,"Descripción
+Actividades a Realizar:
+
+Responsable de liderar las actividades relacionadas con la planificación, el diseño y el desarrollo de bases de datos. Esta función desarrolla y mantiene conocimientos especializados de conceptos de bases de datos, técnicas de modelado de datos y principios de diseño, así como conocimientos detallados de arquitecturas, software e instalaciones de bases de datos. También analizan los requisitos de datos y evalúan posibles soluciones, demostrando, instalando y poniendo en marcha productos seleccionados.
+
+Detalle de Perfil
+Conocimientos: instalación y configuración de Oracle RAC R2
+Configuración de protección de datos.
+puerta Dorada
+Solución de problemas.
+Soporte de aplicaciones de producción y parches.
+Lenguaje de consulta estructurado
+Configuración RMAN
+
+Nivel de Ingles
+Intermedio/Técnico
+ OFRECIMIENTOS:
+Sueldo acorde a tu conocimiento y mercado
+Prestaciones superiores.
+  ""Los datos personales recopilados a través de Currícula, serán utilizados bajo los fines establecidos en nuestro Aviso de Privacidad integral para candidatos, mismo que se puede consultar en nuestra página de internet"".
+ SÉ PARTE DE NUESTRO EQUIPO DE TRABAJO!!!"
+Especialista ORACLE DBA - Hibrido - CDMX,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18405232,"Descripción
+Formamos parte de uno de los mayores Bancos de América Latina, llegamos a Mexico en el 2010 con la misión de emitir tarjetas de crédito VISA, departamentales y prestamos personales.
+
+REQUISITOS:
+Implementar y gestionar las bases de datos ORACLE cumpliendo con los estándares funcionales, de seguridad, disponibilidad y SLA's establecidos por la organización.
+Realizar la instalación de bases de datos ORACLE requeridos por los sistemas de la institución
+Realizar la configuración de las bases de datos Oracle instaladas en la organización
+Implementar herramientas tecnológicas para evitar posibles ataques a los puntos vulnerables o hacerles frente en caso de requerirse
+Actualizar los procesos, procedimientos y políticas relacionados a la gestión de las Bases de Datos de la institución
+Realizar el monitoreo de las bases de datos ORACLE para garantizar el correcto funcionamiento y desempeño de las mismas
+Configuración de Servidores de Base de Datos Oracle
+Actualización de perfiles y grupos de usuarios de Base de Datos Oracle
+Monitoreo de Bases de Datos Oracle
+Realización y seguimiento a los respaldos de las Bases de Datos Oracle
+
+OFRECEMOS:
+20 días de aguinaldo
+$40,000 BRUTOS
+prima 15 días al 100%
+14 días de vacaciones
+VD - $1200 pesos al mes
+SGMM, SDV y dental a partir del 3er mes- se extiende para familiares a precio preferencial
+Comedor 20 pesos
+Bono anual - hasta 3 meses de sueldo
+
+Zona de trabajo en Alcaldía Miguel Hidalgo/ Lomas de Sotelo. Modalidad de trabajo HIBRIDO / 3 DIAS OFICINA 2 DIAS EN CASA.
+
+Si estas interesado/a postúlate por este medio adjuntando tu CV Actualizado."
+MATERIAL & INFORMATION ANALYST / TEXTRON AVIATION,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=1&jobid=18373526,"Descripción
+•Bachelor's Degree in software or related
+•SAP expertise preferred
+•Database administration (MSSQL)
+•Programming Languages (Visual Basic required)
+•Advanced knowledge in Microsoft Office 360 suite
+•Fluent conversational and written English
+•Continuous improvement on Production control and logistics related processes
+•Develop tools to improve/automate Production control and logistics related processes
+•Train personnel in the use of developed tools
+•Develop and track key performance metric "
+Technical Lead - MongoDB DBA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18200763,"Descripción
+Technical Lead
+
+US Company is looking for Technial Lead - MongoDB DBA
+
+?? Remote in Mexico
+?? USD/HR Payment
+
+Requirements:
+MongoDB DBA with Ops Manager experience
+Encrypting databases 2-3 US weeknights and weekends
+Monitoring those databases during US daytime hours
+Minimum 7-10 year of relevant experience.
+
+Skills : • MongoDB • Ops Manager • Linux • On-prem experience • Database Upgrades • Database Encryption
+
+Contact me by mail or whatsapp and send me your resume
+
+Apply now!"
+MEX Analista TI & Digital,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18405580,"Descripción
+Parker Hannifin can be found on, and around everything that moves. The company employs approximately 58,000 people in 49 countries around the world, with annual sales exceeding $19 billion dollars. Parker is the world’s leading diversified manufacturer of motion and control technologies and systems, providing precision-engineered solutions for a wide variety of mobile, industrial and aerospace markets. Parker´s focus on solving some of the world’s greatest engineering challenges sparks our passion for innovation and secures our future growth. Our technological expertise creates a more sustainable future for us all.
+The Digital and IT Analyst defines, configures, tests, trains and supports business-related information technology requirements and systems.  Leads limited scope projects using information technology to enable business improvement and perform critical analysis under limited supervision.  
+Responsible for analyzing use and needs, then developing and applying current information technology to satisfy business requirements or solve business related issues. With direct supervision, assists more senior IT professionals to coordinate IT initiatives.
+ Analyze and apply Enterprise data to make recommendations to streamline & simplify processes.
+Develops and deploys appropriate Digital and Information Technology solutions.
+Recommends modifications of Digital and IT systems to improve and simplify business systems and reduce operating cost.
+Develops procedures for proper utilization of Digital and IT technology – both on premise and Cloud based.
+Develops training materials to support process changes and recent technology introductions.
+This position may be assigned (but is not limited to) one of the following key information technology disciplines and/or services:
+       Application Programming.
+       Software Support.
+       Database Administration.
+       Help Desk.
+       IT Security. 
+       ERP Business Systems. (JDE, MSS, SAP)
+Skilled in one or more of the following disciplines:
+       ERP Business Transformation.
+       Software System Implementation.
+       Data Analytics & Reporting. (SQL, Azure Fabric, Power BI, Alteryx)
+       Process Automation. (UiPath, Power Automate)
+       Application development.
+       Strong people skills, relates well with all levels of the organization.
+        Bachelor’s degree in computer science, information systems, or related area (or international equivalent) 
+       2+ years related IT experience   
+       Proficient in Microsoft Office tools    
+       Excellent written and verbal communication and collaboration skills     
+       Demonstrated leadership aptitude, learning agility, and adaptability    
+       Strong interpersonal skills, relates well with all levels of the organization   
+       Ability to establish own priorities and adapt to changing priorities   
+       Demonstrates ability to manage projects   
+<"
+Database Administrator,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18294744,"Descripción
+We are hiring an Oracle Database Administrator who will be responsible for provisioning, scaling, backup and recovery, and security of our on-prem database servers. Eventually, will also plan and execute cloud migration strategies, maintain mission-critical systems in the cloud and on-prem, and optimize database performance and capacity. 
+
+What you will be doing: 
+Manage on-prem database servers (eg. SQL Server, Oracle database) and ensure their availability, reliability, and security.
+Provision, scale, backup and restore, and secure on-prem databases according to business requirements and best practices.
+Plan and implement cloud migration strategies for existing databases or new projects.
+Perform capacity planning to anticipate and respond to major events or cyclical demands on databases or to scale resources up or down as needed.
+Identify opportunities for cloud migration or optimization and provide recommendations and solutions.
+Adjust database capacity based on business needs and performance metrics.
+Tune database performance by adjusting compute power, storage, and network resources effectively and efficiently.
+Stay updated on new cloud and on-prem features (3rd party vendor included) to enhance database performance and functionality.
+Use automation templates and tools (eg. Ansible and Terraform) to streamline and standardize database operations and deployments.
+Collaborate with application owners and other stakeholders to ensure database requirements are met and best practices are followed.
+Protect sensitive data within databases and comply with data privacy and security regulations. Designs and implement SOX controls.
+Implement and enforce access control, change procedures, and security features for cloud and on-prem databases.
+Leverage new security features from DBaaS providers and apply them to cloud databases.
+
+Who you are
+Required Skills and Competencies
+Bachelor's degree in computer science or related required. 
+3+ years of experience as a DBA managing Oracle databases. 
+Knowledge of SQL and SAP databases. 
+Advanced English is a must. 
+
+Preferred Skills and Competencies
+Proficient in cloud managed database services (e.g. Azure SQL Database, Oracle Exadata) and on-prem database servers (e.g., SQL Server, Oracle Database) and their features and capabilities is a plus. 
+Experience working in an Agile (SCRUM) environment preferred.
+Awareness of new security features from DBaaS providers and how to implement them.
+Knowledge of sensitive data within databases and data privacy and security regulations
+Experience in provisioning, scaling, backup and recovery, and security of cloud and on-prem databases
+Experience in planning and executing cloud migration projects.
+Experience in maintaining mission-critical systems in the cloud and on-prem and resolving issues.
+Experience in capacity planning and performance tuning of cloud and on-prem databases
+Knowledge of new cloud and on-prem features (3rd party vendor included) and how to use them to improve database performance and functionality.
+Experience in using automation templates and tools (eg. Ansible and Terraform) for on-prem/ cloud database operations and deployments
+Excellent communication, problem-solving, and analytical skills.
+Critical thinker and problem-solving skills
+Good time-management skills.
+Ability to explain technical concepts to business audiences.
+Strong negotiation/interpersonal skills required for interpersonal influence and conflict resolution.
+Effective communication, both verbally and written.
+Ambitious, team player, who is collaborative with all audiences.
+
+Why People Choose to Work With Us:  
+At Steelcase, we put people at the center of everything we do. We understand the role of work and believe that it can bring meaning and purpose to the lives of our customers and our employees. We prioritize supporting our employees both in and out of work, in all aspects of their lives. When we bring our talents together, we make a positive lasting impact through our work and communities. 
+
+Who We Are:
+Organizations around the world trust Steelcase to help them create places that help people work better, be inspired, and accomplish more.
+We design, manufacture, and partner with other leading organizations to provide architecture, furniture, and technology solutions – accessible through a network of channels, including over 800 Steelcase dealer locations. Steelcase is a global, industry-leading, publicly-traded company with fiscal year 2021 revenue of $2.6 billion.
+
+What Matters to Us:
+More than qualifications, we're looking for talent and potential. We are proud to have a diverse and inclusive workforce, and we're always looking to improve our global community. We value applicants who are comfortable interacting with people different from themselves, building mutual respect and positive relationships. We invite people from all backgrounds and genders to apply. If we can make the application process easier through accommodation, please email us at myhr steelcase com. 
+
+Steelcase provides employment opportunities to all qualified employees and applicants without regard to race, color, creed, genetic information, religion, national origin, gender, sexual orientation, gender identity and expression, age, disability, or veteran status and bases all employment decisions only on valid job requirements. We are proud to be recognized for our inclusive workforce by the Corporate Equality Index for the past nine years. "
+Sr. Database Administrator,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18294358,"Descripción
+Contacto Humano.
+
+Empresa enfocada a la colocación de talento con empresas Nacionales y Multinacionales, busca talento como:
+
+Sr. Database Administrator
+
+Experiencia:
+
+Experiencia en Oracle (11g, 12c) Oracle EBS 12.2, SQL Server (2008, 2012, 2016)
+Exposición a herramientas de administración de bases de datos de terceros, como Oracle Enterprise Manager, Toad, SSMS, cronjobs, SSIS, SSRS, Power BI
+Capacidad demostrada para trabajar eficazmente en todas las disciplinas y comunicarse eficazmente.
+Más de 5 años de DBA en Microsoft SQL Server y estar familiarizado con las bases de datos SQL en la nube de Azure.
+
+Sueldo hasta de $50,000 hasta los $60,000.00 con prestaciones de ley y superiores.
+Vacante Onsite (no negociable)"
+Sr. Database Administrator MySQL,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18294396,"Descripción
+Contacto Humano.
+
+Empresa enfocada a la colocación de talento con empresas Nacionales y Multinacionales, busca talento como:
+
+Sr. Database Administrator MySQL
+
+Experiencia:
+
+Garantizar el rendimiento, la disponibilidad y la seguridad de los clústeres de instancias de MySQL.
+Experiencia en actualizaciones, copias de seguridad y aprovisionamiento de instancias de bases de datos.
+Experiencia en la documentación y las especificaciones según sea necesario.
+Trabajar con equipos de Java e Hibernate es una ventaja.
+Se busca DBA, con Hibernate, experiencia en MySQL y trabajo con aplicaciones Java.
+Se trabaja en AWS RDS.
+
+Sueldo hasta de $5,000.00 usd mensuales como contractor inicial y posteriormente contrato indeterminado"
+Database Administrator (DBA) - Banca,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18230692,"Descripción
+Estamos en la búsqueda de talento para empresa líder en consultoría, reconocida por sus soluciones en Analytics, cotizada en Nasdaq y con operaciones a nivel global para trabajar híbrido la vacante de:
+ ""Database Administrator (DBA) - Banca""
+ Sueldo entre $40,000 a $65,000 brutos (según experiencia) + Prestaciones Superiores + Contratación directa
+ REQUISITOS
++ 5 años de experiencia en la arquitectura, diseño, implementación, soporte, operación y mantenimiento de sistemas de administración de bases de datos (DBMS) como lnformix, MySQL y SQL Server.
+INGLÉS: AVANZADO
+ ACTIVIDADES
+Proporcionar soporte L2/L3.
+Brindar orientación altamente técnica en la arquitectura, diseño, implementación, soporte, operación y mantenimiento de sistemas de administración de bases de datos (DBMS) como lnformix, MySQL y SQL Server.
+Realizar movimientos de datos, solucionar problemas y escribir scripts para realizar tareas comunes de bases de datos.
+Mantener bases de datos complejas con respecto a JCL, métodos de acceso, tiempo de acceso, asignación de dispositivos, comprobaciones de validación, organización, protección y seguridad, documentación y métodos estadísticos.
+Realizar instalaciones, configuraciones, migraciones, restauraciones.
+Monitorear que la seguridad y el rendimiento de los sistemas no estén comprometidos.
+ HABILIDADES
+Experiencia en la gestión de clientes.
+Sólida capacidad analítica.
+Enfoque práctico empresarial.
+Resolución de problemas basados en datos/hechos
+Excelentes habilidades de comunicación verbal y escrita en inglés.
+Capacidad para comprender las diferencias interculturales y pueda trabajar con clientes de todo el mundo.
+Capacidad de trabajar de forma independiente, proactiva y bajo presión en múltiples plazos.
+ CARRERAS
+Titulado en: Licenciaturas o Ingenierías en Informática, Computación, Sistemas, Tecnologías de la Información, Programación, áreas analíticas relacionadas o afines"
+Database Administrator (DBA) - Banca,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18234238,"Descripción
+ Estamos en la búsqueda de talento para empresa líder en consultoría, reconocida por sus soluciones en Analytics, cotizada en Nasdaq y con operaciones a nivel global para trabajar híbrido la vacante de:
+ "" Database Administrator (DBA) - Banca""
+ Sueldo entre $40,000 a $65,000 brutos (según experiencia) + Prestaciones Superiores + Bonos + Contratación directa
+ REQUISITOS
++ 5 años de experiencia en la arquitectura, diseño, implementación, soporte, operación y mantenimiento de sistemas de administración de bases de datos (DBMS) como lnformix, MySQL y SQL Server.
+INGLÉS: AVANZADO 
+ ACTIVIDADES
+Proporcionar soporte L2/L3.
+Brindar orientación altamente técnica en la arquitectura, diseño, implementación, soporte, operación y mantenimiento de sistemas de administración de bases de datos (DBMS) como lnformix, MySQL y SQL Server.
+Realizar movimientos de datos, solucionar problemas y escribir scripts para realizar tareas comunes de bases de datos.
+Mantener bases de datos complejas con respecto a JCL, métodos de acceso, tiempo de acceso, asignación de dispositivos, comprobaciones de validación, organización, protección y seguridad, documentación y métodos estadísticos.
+Realizar instalaciones, configuraciones, migraciones, restauraciones.
+Monitorear que la seguridad y el rendimiento de los sistemas no estén comprometidos.
+ HABILIDADES
+Experiencia en la gestión de clientes.
+Sólida capacidad analítica.
+Enfoque práctico empresarial.
+Resolución de problemas basadas en datos/hechos
+Excelentes habilidades de comunicación verbal y escrita en inglés.
+Capacidad para comprender las diferencias interculturales y pueda trabajar con clientes de todo el mundo.
+Capacidad de trabajar de forma independiente, proactiva y bajo presión en múltiples plazos.
+ CARRERAS
+Titulado en: Licenciaturas o Ingenierías en Informática, Computación, Sistemas, Tecnologías de la Información, Programación, áreas analíticas relacionadas o afines"
+Oracle Database Administrator (Ciudad Juárez),https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18235822,"Descripción
+A global cloud-enabling service company, providing end-to-end integrated solutions that caters to your enterprises is looking for talent as an Oracle Database Administrator to install and configure databases, apply patches and updates, as well as third-party applications and tools.
+Detalles del cliente
+Global cloud-enabling service company, providing end-to-end integrated solutions
+Descripción de la oferta
+The main responsibilities are:
+-Identify server hardware, software and the necessary configurations for optimal execution of the databases.
+-Conduct research and make recommendations on database products, services, protocols and/or standards.
+-Perform SQL optimizations, troubleshooting, database security and related activities to audits.
+-Configure and optimize Linux servers to support databases
+-Perform teamwork with service owners and technical leaders to ensure that project and service deliverables are met in a timely manner.
+-Assume leadership in problems related to databases Management
+-Carry out problem resolution and root cause analysis.
+-Monitor and analyze the performance of the databases and make the corresponding changes to optimize their performance.
+Perfil del candidato
+Advanced english level is necessary
+2-5 years of experiencie as a database administrator
+SQL programming language experience
+Oracle, SQL Server, PostgreSQL
+Linux Servers
+Location: Hybrid, Ciudad Juárez
+Oferta de empleo
+Competitive salary + benefits above the law like 21 days of christmas bonus and 35% vacaction bonus"
+DBA ORACLE,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18350149,"Descripción
+DBA ORACLE
+
+Actividades:
+Instalar, configurar y mantener el software de base de datos Oracle.
+Realizar copias de seguridad y recuperación de datos según las políticas establecidas.
+Monitorizar el rendimiento de la base de datos y realizar ajustes según sea necesario.
+Diagnosticar y resolver problemas de base de datos, como bloqueos y cuellos de botella.
+Implementar parches y actualizaciones de software de base de datos de forma regular
+Atención de incidentes en Base de Datos tanto onpremise como en la nube pública..
+Atención a usuarios para solución de dudas respecto a los desarrollos que desean desplegar en las bases de datos productivas.
+Mantenimientos, migraciones y transformación tecnológica de Bases de Datos.
+Reporte de incidentes en Base de Datos y seguimiento hasta su resolución.
+
+Tecnologías:
+Linux
+Oracle
+Servicios en la Nube
+DevSecOps
+SQL
+PLSQL
+Docker
+Kubernetes
+
+Forma de trabajo:
+Presencial
+Lunes a viernes 9-7pm
+
+Ubicación:
+Avenida Insurgentes S 3155, Coyoacán, 04530, Ciudad de México, CDMX
+
+OFRECEMOS
+
+Proyecto asignado a Banco Azteca
+Prestaciones de Ley + Superiores a la Ley
+Salario: A partir de $20,000.00 al mes"
+DBA Cloud,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18314540,"Descripción
+AsTecI consultoría especializada en perfiles TI con más de 10 años en el giro de TI, busca talento como tú para importante cliente:
+
+""DBA Cloud""
+
+Ofrecemos
+Sueldo competitivo
+Pago 100% nómina
+Prestaciones de ley
+
+Interesados envíar tu CV actualizado por este medio o al correo mencionado y nos pondremos en contacto contigo a la brevedad."
+DBA SQL SERVER (conocimientos AZURE)- HIBRIDO,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18332710,"Descripción
+Importante empresa dedicada en Tecnologías de la información esta en búsqueda de un profesional especializado en DBA con experiencia en en SQL SERVER.
+
+REQUISITOS:
+
+Realizar la instalación de bases de datos SQL Server requeridos por los sistemas de la institución
+Experiencia y conocimientos necesarios con la nube en AZURE
+Implementar y gestionar las bases de datos SQL Server cumpliendo con los estándares funcionales, de seguridad, disponibilidad y SLA's establecidos por la organización.
+Realizar la configuración de las bases de datos SQL Server instaladas en la organización
+Implementar herramientas tecnológicas para evitar posibles ataques a los puntos vulnerables o hacerles frente en caso de requerirse
+Actualizar los procesos, procedimientos y políticas relacionados a la gestión de las Bases de Datos de la institución
+Realizar el monitoreo de las bases de datos SQL Server para garantizar el correcto funcionamiento y desempeño
+
+OFRECEMOS:
+
+20 días de aguinaldo
+$40,000 BRUTOS
+prima 15 días al 100%
+14 días de vacaciones
+VD - $1200 pesos al mes
+SGMM, SDV y dental a partir del 3er mes- se extiende para familiares a precio preferencial
+Comedor 20 pesos
+Bono anual - hasta 3 meses de sueldo
+
+Zona de trabajo en Alcaldía Miguel Hidalgo/ Lomas de Sotelo. Modalidad de trabajo HIBRIDO / 3 DIAS OFICINA 2 DIAS EN CASA.
+
+Si estas interesado/a postúlate por este medio adjuntando tu CV Actualizado."
+Administrador de bases de datos EXADATA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18256351,"Descripción
+En Dresden Partners conectamos el talento con empresas globales de primer nivel. Somos un puente de oportunidad laboral especializados en Reclutamiento TI en México, LATAM y USA.
+Estamos en búsqueda de talento para la posición: DBA Exadata
+Escolaridad : Ciencias de la Computación o Tecnología de la Información
+
+Experiencia:
++6 años de experiencia
+
+Requisitos:
+Oracle Exadata: administración de máquinas de bases de datos
+Gestión de sistemas exadata.
+Expansión de la capacidad de Exadata (adición de servidor/nodo de base de datos y servidor de almacenamiento)
+Programación con Oracle para aplicar parches a Exadata 
+Monitoreo de extremo a extremo de los componentes de Exadata y soporte/coordinación para resolver problemas (ASR/red/firewall, etc.)
+OEM (Oracle)
+Consolidaciones, migraciones y actualizaciones de bases de datos de Exadata
+Migraciones de bases de datos locales a Exadata
+Soporte y enlace con Oracle y equipos internos (DC/Red/equipos de seguridad) para expansión de capacidad.
+Real Application Clusters, base de datos Oracle, almacenamiento y fundamentos de Linux.
+
+Zona de trabajo: Híbrido Oficinas en Monterrey, CDMX, GDL, QRO.
+
+Beneficios:
+Esquema 100% nominal. 
+Prestaciones de ley y superiores.
+12 días de vacaciones 
+Seguro de Vida.
+30 días de aguinaldo. 
+SGMM
+Vales de despensa "
+Administrador de Bases de Datos,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18226702,"Descripción
+Empresa líder en Telecomunicaciones
+¡Te está buscando!
+
+Únete a nuestro equipo como:
+Administrador de bases de datos
+
+Escolaridad:
+Licenciatura / Ingeniería en: Computación, Sistemas, Informática o a fin.
+
+Experiencia: mínima de 1 año:
+Manipulación de bases de datos
+ETL (Extracción de Información de Datos) No indispensable
+Bases de datos relacionales / Datawarehouse -No indispensable
+
+Actividades:
+1.- Implementar procesos de integración de información de los sistemas corporativos hacia Datawarehouse y otras áreas de la empresa.
+2.- Apoyo a la operación de procesos ETL.
+3.- Monitoreo y operación de procesos ETL.
+
+Conocimientos:
+Extracción y transformación de grandes cantidades de información a datawarehouse, con la finalidad de proporcionar insumos importantes para la realización de reportes sobre distintas áreas.
+Bases de Datos SQL y Oracle.
+
+Indispensable:
+Disponibilidad de horario y para trabajar después fuera de la jornada laboral cuan hay alguna necesidad importante.
+Paquetería Office, Datawarehouse, PowerCenter
+Ofrecemos:
+Contratación directa con la empresa, sueldo competitivo, prestaciones superiores a la ley y estabilidad laboral.
+Postúlate por este medio, ¡Gracias por tu interés en formar parte de nosotros!"
+Administrador de Bases de Datos –ETL,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18148436,"Descripción
+Empresa líder en Telecomunicaciones
+¡Te está buscando!
+
+Únete a nuestro equipo como:
+Administrador de bases de datos –ETL
+
+Escolaridad:
+Licenciatura / Ingeniería en: Computación, Sistemas, Informática o a fin.
+
+Experiencia: mínima de 1 año:
+Manipulación de bases de datos
+ETL (Extracción de Información de Datos) No indispensable
+Bases de datos relacionales / Datawarehouse -No indispensable
+
+Actividades:
+1.- Implementar procesos de integración de información de los sistemas corporativos hacia Datawarehouse y otras áreas de la empresa.
+2.- Apoyo a la operación de procesos ETL.
+3.- Monitoreo y operación de procesos ETL.
+
+Conocimientos:
+Extracción y transformación de grandes cantidades de información a datawarehouse, con la finalidad de proporcionar insumos importantes para la realización de reportes sobre distintas áreas.
+Bases de Datos SQL y Oracle.
+
+Indispensable:
+Disponibilidad de horario y para trabajar después fuera de la jornada laboral cuan hay alguna necesidad importante.
+Paquetería Office, Datawarehouse, PowerCenter
+Ofrecemos:
+Contratación directa con la empresa, sueldo competitivo, prestaciones superiores a la ley y estabilidad laboral.
+Postúlate por este medio, ¡Gracias por tu interés en formar parte de nosotros!"
+Dba sql server,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18227151,"Descripción
+Empresa dedicada al giro de Tecnología busca personal para proyecto a DBA SQL Server
+
+Experiencia requerida:
+4 años de experiencia en la administración y configuración de bases de datos (DBA)
+Licenciatura en Sistemas o Afín (titulado o con Cedula)
+Certificación como DBA en base de datos (Microsoft SQL y/o IBM DB2) (indispensable)
+
+Actividades:
+Configuraciones de parámetros de rendimientos de las bases de datos institucionales.
+Definición de estándares de monitoreo de bases de datos.
+Planeación del ciclo de vida de bases de datos
+
+Ofrecemos:
+Sueldo Neto mensual, esquema Mixto
+Horario de Lunes a viernes
+Hibrido (solo es presentarse si el cliente lo requiere)"
+Dba administrador de bases de datos,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18366275,"Descripción
+Únete a Experis IT, una empresa líder en tecnologías de la información que conecta de manera efectiva al talento más competitivo con grandes empresas en México, Norteamérica y Europa.
+
+Puesto Vacante: DBA
+Requisitos:
+
+Experiencia comprobada de 5 años en Oracle Goldengate
+ OracleDB
+PostgreSQL
+AWS
+Linux
+Nivel de inglés conversacional.
+Residencia en Guadalajara.
+
+Ofrecemos:
+Salario competitivo, basado en tu experiencia y habilidades.
+Seguro de gastos médicos mayores.
+Vales de despensa para ayudarte con tus necesidades diarias.
+Fondo de ahorro.
+Aguinaldo equivalente a 30 días de salario.
+Seguro de Vida.
+Seguro Social.
+12 días de vacaciones al año para que puedas recargar energías y disfrutar de un merecido descanso.
+
+Si estás buscando un ambiente de trabajo dinámico, oportunidades de crecimiento y desarrollo profesional, ¡esta es tu oportunidad!
+
+¡Únete a nuestro equipo y forma parte de nuestra familia en Experis IT!"
+DBA en SQL Server Sr.-Home Office,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18230280,"Descripción
+Empresa estrategia de negocios que busca potenciar el crecimiento e innovación de nuestros clientes a través de análisis de datos, se encuentra en búsqueda de talento para ocupar el puesto de:
+
+DBA en SQL Server Sr.
+
+
+Actividades generales: 
+
+
+
+·       Diseño, implementación y mantenimiento de esquemas de bases de datos orientados a la automatización de procesos para optimización del flujo de producción de datos (gestión de usuarios, permisos, supervisión del servidor)
+Automatización de los procesos de compactación y recuperación de espacios en Discos
+Migración de procesos en código de la página web
+Restauraciones en ambientes de pruebas
+Apoyo a desarrollo con la creación de objetos de bases de datos
+Control de códigos fuentes de objetos de SQL en el DevOps
+Análisis y mantenimiento de procesos en las bases de datos actuales.
+
+
+Conocimientos y experiencia:
+
+
+Experiencia de al menos dos años trabajando como DBA con SQL Server/ Oracle  (T-SQL, SSIS y SSAS.)
+Experiencia en configuración de bases de datos
+Experiencia en implementación de la seguridad de la base de datos 
+Experiencia en copias de seguridad y recuperación
+Experiencia en resolución de problemas y soporte
+Experiencia en establecimiento de políticas y procedimientos relacionados con la gestión de la base de datos
+ 
+¿Qué ofrecemos? 
+ Prestaciones de ley+ Prestaciones superiores 
+ Fondo de ahorro  
+Vales de Despensa  
+Sueldo competitivo
+Permanencia 
+Estabilidad 
+Modalidad Home Office"
+data base administrator-K,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18192988,"Descripción
+
+Skills
+
+
+At least 80% of the team members must be fluent in both written and spoken English.
+Understand Db2 operationally from the Database Administrator and Application Programmer perspective. Knowledge of various types of physical and logical objects used by Db2. Ability to investigate object states, collect and interpret diagnostics on the condition of various Db2 objects. Understand general practices for administering various types of Db2 environments and objects. Hands on experience and working knowledge of Db2 (IBM) utilities (i.e., Reorg, Copy, Load, Unload, and Check), and preferably BMC utilities. Working knowledge of Db2 version 12 or higher levels.
+Extensive quality assurance testing experience- at least 5 years of practical software quality engineering experience. This includes experience with evaluating software requirements, developing/updating Feature Test Plans, developing test cases, and running test cases. Knowledge and experience with running functional testing, regression testing, automated testing, and integration testing is also required.
+Familiarity and use of QA automation tools is required.
+Working knowledge of SMP/E – usually requires two to three years of SMP/E usage experience.
+Extensive understanding of the basic z/OS mainframe tools – TSO, ISPF, JCL, file structures, VSAM, SPUFI, SDSF, RACF or ACF2.
+Knowledge of standard SYSPLEX environments and how z/OS uses memory. Knowledge of z/OS commands to produce and capture needed documentation such as system dumps and sysout. Ability to read, create, and modify basic REXX routines used in customized exits, generating JCL, and performing simple functions. Ability to use CLIST to manage JCL and make global changes to PDS libraries.
+Ability to effectively communicate testing concerns and results with BMC staff. Ability to use technical and design specifications and documents to identify potential problem areas. Ability to identify appropriate and inappropriate permutations of testing conditions once product knowledge is obtained. Ability to analyze the problems encountered and test different variations to pinpoint the circumstances and the scope of problem occurrence."
+Dba jr,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18299275,"Descripción
+En Nexta somos expertos en soluciones móviles empresariales, con nuestras soluciones hacemos realidad las iniciativas de transformación digital de nuestros clientes.
+
+Nuestro crecimiento como empresa está basado en la entrega de proyectos exitosos además de que somos reconocidos por nuestros partners como integradores de soluciones con alto valor agregado.
+
+Te invitamos a formar parte de nuestra gran familia, nos encontramos en búsqueda de talento bajo el siguiente perfil.
+
+DBA Jr
+Tecnología que administrará
+?SQL Server Management Studio,
+Python.
+Tableau, Power BI, Google Charts.
+Sistemas de gestión de vídeo (CCTV).
+Conocimiento Requerido
+Bases de datos
+Visualización de datos
+Programación
+Conocimiento Adicional
+Análisis de datos
+Inteligencia artificial
+Machine learning
+Actividades para realizar
+Acceso a la base de datos, análisis de la información y extracción de datos.
+Desarrollo de soluciones de análisis para CCTV.
+Implementación de IA/ML en el sistema de CCTV.
+Presentación de la información en un formato visual y comprensible.
+Habilidades Blandas
+Comunicación
+Trabajo en equipo
+Resolución de problemas
+Autoaprendizaje
+Recomendaciones
+Experiencia de al menos 1 año en análisis de datos.
+Formación en matemáticas, estadística o informática."
+DBA Junior,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18295061,"Descripción
+Somos una empresa líder de gestión de capital humano y servicios tecnológicos con más de 15 años en el mercado nacional y Centro América, ofreciendo un valor agregado y solución a los procesos de consultoría de TI, atracción de talento, pruebas de Software y centro de desarrollo.
+Teniendo siempre la satisfacción de nuestros clientes y el desempeño profesional de nuestros colaboradores.
+En Getecsa estamos comprometidos a brindar la mejor experiencia, a seguir innovando y dirigirnos con honestidad, respeto y compromiso.
+¡La oportunidad de crecer está en tu manos. únete a nuestro equipo de trabajo!
+
+DBA Junior 
+ Requisitos y experiencia:
+Formación en matemáticas, estadística o informática.
+Experiencia de al menos 1 año en análisis de datos.
+Inglés: Conversacional Avanzado 
+Modalidad Hibrida (1 día a la semana en sitio )
+Habilidades técnicas:??????
+SQL Server Management Studio,
+Python.
+c) Tableau, Power BI, Google Charts.
+d) Sistemas de gestión de vídeo (CCTV).
+Bases de datos
+Visualización de datos
+Programación
+Conocimiento adicional:Análisis de datos
+Inteligencia artificial
+Machine learning
+Algunas actividades a realizar:
+ Acceso a la base de datos, análisis de la información y extracción de datos.
+Desarrollo de soluciones de análisis para CCTV.
+Implementación de IA/ML en el sistema de CCTV.
+Presentación de la información en un formato visual y comprensible.
+
+Habilidades Suaves:
+
+Comunicación
+Trabajo en equipo
+Resolución de problemas
+Autoaprendizaje
+ "
+DBA ORACLE CERTIFICADO,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=2&jobid=18261983,"Descripción
+GRUPO ORSA SE ENCUENTRA EN BÚSQUEDA DE UN DBA ORACLE
+
+REQUISITOS
+3 años de experiencia administrando y controlando procesos informáticos a través de la herramienta Oracle;
+Lic. en Informatica, sistemas o afín
+Certificación en Oracle Database 12c Administrator Certified Associate o superior
+FUNCIONES
+Efectuar de manera remota las actividades relacionadas con el mantenimiento, mejora o monitoreo de las bases de datos en los servidores que soportan los sistemas de TIC's SIIOF e INTEGRA con manejador de marca Oracle.
+
+OFRECEMOS
+Trabajo Home office
+Sueldo abierto a negociar conforme a experiencia
+Prestaciones de ley
+Seguro de vida
+Seguro de gastos médicos mayores
+Capacitación constante
+
+
+En GRUPO ORSA nos comprometemos a implementar una cultura organizacional inclusiva, en la cual no se discrimina por motivo de origen étnico, género, preferencial sexual, edad, discapacidad, condiciones de salud, condición social, religión y cualquier otra condición, valorando la diversidad de sus colaboradores mediante la igualdad de oportunidades."
+Soporte DBA SQL,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18256861,"Descripción
+Buscamos DBA SQL Sr.
+Experiencia en Soporte de Base de Datos
+
+Mandatorio
+Experiencia en el uso de Mirroring (Replicas de bases de Datos)
+Soporte de administración de bases de datos físicas, incluidas copias de seguridad y restauraciones de datos de manera oportuna Instalar, mantener y dar soporte a productos de Software de BD.
+Gestión de usuarios
+Creación, modificación y eliminación de usuarios.
+Creación, modificación y eliminación de roles (grupos de privilegios)
+Asignación, modificación y restricción de roles de usuarios.
+Bloqueo de cuentas según periodos de inactividad.
+Creación, modificación y eliminación de perfiles.
+Gestión de tablespaces y datafiles
+Gestión de instancias diversas
+Ejecutar requerimientos de cambios de privilegios.
+Ejecutar los requerimientos de Definición de Bases de Datos para las aplicaciones (ABC para tablas, disparadores, atributos)
+
+Horario de Trabajo: de Lunes a Domingo con Turnos de 8 horas y día de descanso de acuerdo con guardias.
+
+Disponibilidad para viajar (no es recurrente, pero se puede dar)
+
+Contrato inicial de 3 meses."
+Administrador bases de datos,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18348363,"Descripción
+Universidad Anáhuac México, Campus Norte
+Te invita a formar parte de su comunidad Anáhuac, como:
+
+Administrador bases de datos
+Objetivo de Puesto. Analizar y proporcionar estadísticas sobre los becados, gestionando el talento y gestionando las prestaciones universitarias.
+
+Perfil requerido:
+
+Estudios
+Lic. administración, contabilidad, finanzas, actuaría, o afín, concluida.
+
+Experiencia:
+Análisis de bases de datos
+Atención a usuarios internos y externos.
+
+?Conocimientos:
+Manejo de Excel avanzado
+Conocimiento de Power BI
+
+?Funciones
+Análisis de información de candidatos a becas y alumnos becados para obtener reportes de estadística
+Aplicar asignaciones de servicio becario, nuevo ingreso y reinscritos, dando seguimiento con evaluación y control,
+Determinar el 5% de la población con algún porcentaje de beca para la Secretaría de Educación Pública
+Seguimiento de alumnos becados con la intención de orientarlos respecto a dudas especificas del programa.
+
+Ofrecemos
+Estabilidad Laboral.
+Prestaciones superiores a las de ley.
+Becas de estudio.
+
+
+
+ Zona de Trabajo: Huixquilucan, Estado de México"
+DBA SQL,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18201314,"Descripción
+AZKAIT es una empresa Mexicana que busca y conecta el mejor talento IT con empresas Latinoamericanas y de Estados Unidos.
+
+Estamos en la búsqueda de tu talento como DBA SQL
+
+Funciones:
+
+Instalación, configuración y tunning de los motores de BBDD
+Administración de clusters y de las BBDD/DWH/DataLake en la nube
+Apoyo en el diseño de las arquitecturas de BBDD, y el diseño del DRP y tuninng de las consultas
+Migración de bases de datos SQLServer y MySQL hacia la nube
+Mejora, solución de problemas de performance e incidentes
+
+Conocimientos:
+
+Administración de Microsoft SQLServer 2012 - 2019 y MySQL
+Alta disponibilidad de BBDD, respaldos y restauración
+Generación de Scripts (mantenimiento/automatización)
+Administración de infraestructura de servidores (Windows/Linux)
+Replicación de bases de datos
+GCP (CloudSQL, BigQuery, CloudFusion, Storage, DMS, etc)
+
+¿Qué ofrecemos?
+
+3 días de Home Office, 2 días en Oficina.
+Salario Neto
+Prestaciones de Ley y Superiores
+Cajón asignado de estacionamiento"
+Dba sql server,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18147940,"Descripción
+DBA SQL
+
+Soporte de administración de bases de datos físicas, incluidas copias de seguridad y restauraciones de datos de manera oportuna Instalar, mantener y dar soporte a productos de Software de base de datos                                                                                                           
+• Gestión de usuarios
+• Creación, modificación y eliminación de usuarios.
+• Creación, modificación y eliminación de roles (grupos de privilegios)
+• Asignación, modificación y restricción de roles de usuarios.
+• Bloqueo de cuentas según periodos de inactividad.
+• Creación, modificación y eliminación de perfiles.
+• Gestión de tablespaces y datafiles
+• Gestión de instancias diversas
+• Ejecutar requerimientos de cambios de privilegios
+• Ejecutar las actividades de creación, configuración, actualización e instalación de parches de las Bases de Datos
+• Ejecutar los cambios de Bases de Datos a nivel manejador (parámetros de inicialización)
+• Ejecutar los cambios de esquema para todas las instancias de Bases de Datos
+• Ejecutar los requerimientos de Definición de Bases de Datos para las aplicaciones (ABC para tablas, disparadores, atributos)
+• Definir y ejecutar los '-scripts para administrar, mejorar y mantener el desempeño de la Base de Datos a nivel óptimo para la carga de trabajo
+• Probar e implementar cambios en el entorno de la base de dato
+• Mantenga las bases de datos para cumplir con los niveles de servicio y otros estándares de rendimiento, para maximizar la eficiencia y minimizar las interrupciones.
+• Supervise y planifique proactivamente para evitar situaciones de falta de capacidad (por ejemplo, eventos de capacidad de conjuntos de datos o espacios de tabla, archivos de registro llenos, etc.""  
+  DBA con Experiencia en configuración mirror de BD              "
+DBA Sr,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18333468,"Descripción
+IDS Comercial, una compañía líder en tecnología de la información con cuatro décadas de experiencia y una sólida presencia en México, Latinoamérica y Estados Unidos, te invita a formar parte de su equipo. Contamos con más de 1500 consultores especializados que trabajan en diversos proyectos en los sectores financiero, comercial, manufacturero, telecomunicaciones, servicios y gobierno, entre otros.
+
+
+¡Estamos buscando un talentoso DBA , como tú!
+
+¿Qué necesitas para aplicar?
+• Ingeniero en Sistemas o carrera afín.
+• Experiencia mínima de 2 años como DBA.
+•    Inglés avanzado 
+
+Skill técnico: 
+Habilidades en scripting y automatización.
+Conocimientos intermedios y avanzados en ciberseguridad.
+Capacidad para solucionar problemas técnicos complejos.
+Gestión eficaz de múltiples tareas y proyectos.
+Habilidades de comunicación y trabajo en equipo.
+Adaptabilidad y aprendizaje continuo para mantenerse al día con las tecnologías cambiantes.
+Shell, Batch, SQL, PLSQL
+Establecer políticas y medidas de seguridad para proteger la base de datos contra accesos no autorizados, implementando controles de acceso y auditorías.
+Realizar copias de seguridad periódicas de la base de datos y desarrollar planes de recuperación en caso de fallos o desastres.
+Monitorear y optimizar el rendimiento de la base de datos, identificando y resolviendo cuellos de botella, optimizando consultas y ajustando la configuración del sistema.
+Evaluar nuevas herramientas y técnicas que puedan mejorar la eficiencia y la seguridad
+
+
+¿Qué obtendrás al trabajar con nosotros?
+• Modalidad de trabajo híbrida: Toluca (3 días oficina 2 modalidad remota)
+• Ofrecemos un sueldo competitivo.
+• Garantizamos prestaciones de ley y beneficios superiores.
+• Te brindamos un plan de carrera para tu desarrollo profesional.
+
+Únete a nuestra gran familia de trabajo y sé parte de una empresa líder en tecnología que valora tu talento y te ofrece un entorno de crecimiento y desarrollo. ¡Esperamos tu postulación!"
+Sr. DBA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18215974,"Descripción
+Sr. DBA
+Location: Remote in Mexico
++Benefita above the law
+
+Job Description
+POSITION OVERVIEW
+The Senior DBA will be responsible for the implementation, configuration, maintenance, and performance of critical SQL Server, SingleStore, and MySQL database systems to ensure the availability and consistent performance of our enterprise applications. This is a “hands-on” position requiring solid technical skills, as well as excellent interpersonal and communication skills.
+KEY RESPONSIBILITIES
+Installation, Administration and Maintenance of our database servers
+Owns the strategic direction for the database topography
+Create Users and assign permissions based on the level of database access the user would need
+Design database backup and restore strategy
+Setup High-Availability as part of Disaster Recovery Strategy for the Databases
+Troubleshoot various problems that arise in the day-to-day operations and fix the issues
+Monitoring and Performance Tuning; Physical Server Level, Database level (Database settings and options) and query tuning to include index optimizations
+Failover clustering, SAN replication, and other high availability technologies
+Database growth vs disk space available, audits, resource monitoring (I/O bottlenecks, memory pressure, CPU use)
+Manage Maintenance Plans
+Monitor backups to ensure they are being performed regularly
+From time to time recover the databases to a specific point of time, as per the requests
+Qualifications
+TECHNICAL SKILLS / KNOWLEDGE
+Microsoft SQL Server DBA experience
+SingleStore and MySQL DBA experience is helpful
+Microsoft Azure experience
+SSIS / SSAS / SSRS experience
+Data Warehousing experience
+PROFESSIONAL EXPERIENCE AND QUALIFICATIONS
+Minimum of 10 years of experience
+Bachelor's degree in Computer Science, Information Systems, or related technical field; or equivalent work experience.
+MCTS, MCITP, and/or MVP certifications a plus"
+DBA Oracle,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18162103,"Descripción
+Importante empresa en el sector de Tecnologías de la Información solicita:
+
+Neta Systems es la fusión de los sueños, la tecnología y la pasión de nuestro equipo de trabajo y hoy estamos buscando tu talento para que nos ayudes a cumplirlo
+
+Puesto: DBA Oracle
+
+Experiencia Requerida:
+Ingeniería o Licenciatura en Sistemas o Informática
+Indispensable más de 2 años de experiencia COMPROBABLE
+Administración de BD ORACLE versiones 11g,12c,18c y 19c en sistemas Linux
+Administración de Bases de Datos, implementación y configuración
+Administración de Sistemas Operativos Linux
+Monitoreo de bases de datos
+Restauraciones de bases de datos
+Configuraciones de Racks
+Funciones del puesto:
+Asegurar la disponibilidad de las Bases de datos
+Garantizar la seguridad, integridad y estabilidad de las bases de datos 
+Recuperar los datos en caso de algún incidente operativo
+Administración de Bases de Datos, implementación y configuración 
+Atención de incidentes en Bases de Datos 
+Monitoreo de respaldos, sincronización de replicas y espacios
+Implementación de replicas de Bases de Datos
+
+¿Qué Ofrecemos?
+Sueldo competitivo acorde a experiencia más prestaciones de ley
+Una empresa que te permite desarrollar tus capacidades, adicional un excelente ambiente
+laboral
+
+¿Dónde nos encontramos?
+Sur de la Cuidad, Tlalpan
+El trabajo se realiza de manera PRESENCIAL en nuestras oficinas
+
+INTERESADOS POSTULARSE POR ESTE MEDIO"
+DBA Jr.,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18332446,"Descripción
+¡Nos encontramos en búsqueda de un administrador de bases de datos Jr.!
+
+Requisitos del puesto
+
+Licenciatura en curso, trunca o concluida en sistemas, tecnologías de la información o afín.
+Experiencia en programación de base de datos.
+Conocimientos de SQL, MySQL y C# a nivel Medio.
+
+Responsabilidades del puesto
+
+Administración y mantenimiento de bases de datos.
+Desarrollo de consultas SQL.
+Optimización de bases de datos.
+Colaboración en proyectos de desarrollo de software.
+Soporte técnico a usuarios internos.
+
+Prestaciones y beneficios adicionales
+
+Sueldo mensual base
+Proyecto por 1 año.
+Modalidad de trabajo presencial.
+Oportunidades de capacitación y desarrollo profesional.
+Ambiente laboral colaborativo y motivador.
+
+Ubicación: Saltillo, Coahuila."
+DBA SR,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18320220,"Descripción
+QUEREMOS QUE SEAS PARTE DE NUESTRO EQUIPO DE TRABAJO!
+
+Somos una empresa líder en soluciones financieras como lo son crédito, arrendamiento y factoraje para sector Gobierno y Privado. Sabemos que nuestro talento humano es punto clave
+
+para alcanzar el éxito, por lo que solicitamos personas emprendedoras, con metas ambiciosas y mentalidad ganadora.
+
+DBA SR
+ Requisitos:
+Ingeniería o Licenciatura en Sistemas Computacionales o carreras afín.
+Experiencia de 4 a 5 años.
+
+Funciones:
+-         Crear arquitectura de las BDs de alta calidad y disponibilidad según la necesidad de los usuarios finales.
+-         Diseñar e implementar las BDs de acuerdo con las necesidades de información y los requerimientos de los usuarios finales.
+-         Gestionar los usuarios y definir los permisos y accesos a entidades y objetos por usuario operativo.
+-         Minimizar el tiempo inactividad en las BDs y gestionar los procedimientos, funciones y vistas para ofrecer respuestas rápidas a consultas.
+-         Establecer, dar seguimiento y generar reportes de las auditorias activadas en las diferentes BDs
+-         Realizar pruebas y evaluaciones periódicamente para garantizar la seguridad, privacidad e integridad de los datos.
+
+Conocimiento en:
+-         Windows 10-11 y Server (nivel Avanzado)
+-         Base de Datos: SQL Server, MySQL, SQLlite, etc., NoSQL MongoDB (nivel Avanzado)
+-         Middleware MuleSoft (nivel básico)
+-         Back-End: C#, Entity Framework, Linq (nivel básico)
+-         Framework: 4.5, MVC 5 y Net Core (nivel básico)
+-         Versionadores: Subversion, Git y Github (nivel básico)
+
+Competencias
+Comunicación asertiva
+Servicio al cliente
+Organización
+
+Ofrecemos:
+Sueldo Competitivo 100% en Nómina
+Prestaciones de Ley + Aguinaldo de 30 días y 50% Prima Vacacional.
+Contrato directamente con la empresa.
+Zona de Trabajo – Zona Alta Esmeralda, Atizapán de Zaragoza, Edo. de México.
+Horario de Trabajo - lunes a jueves de 9:00am a 7:00pm y viernes 9:00am a 5:00pm
+Esquema de trabajo Híbrido (2 días presenciales y 3 home office).
+
+
+Somos una empresa incluyente y estamos comprometidos con la igualdad de oportunidades, por lo que nuestro proceso de selección se basa en competencias, habilidades y experiencia del candidato, no discriminamos por raza, genero, discapacidad, edad, religión, orientación sexual, ni nacionalidad. Si estas interesado postúlate a través este medio con tu información actualizada para contactarte a la brevedad."
+MongoDB DBA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18255876,"Descripción
+Empresa global líder en soluciones de tecnologías de la información (IT) enfocada en Cómputo Cognitivo, Inteligencia Artificial y Data Analytics busca un profesional para ocupar el puesto de MongoDB DBA. El candidato ideal debe contar con experiencia y conocimientos probados en metodologías ágiles y scrum, desarrollo de software y de manejo de datos.
+
+Responsabilidades:
+Consultoría sobre administración de MongoDB Enterprise on-prem y on-cloud.
+Analizar bases de datos en MongoDB y brindar recomendaciones para optimizar las operaciones.
+Actualización y migración de bases de datos en MongoDB.
+Apoyo en estandarización de bases de datos en MongoDB.
+Automatización e implementación de procesos.
+Implementación de planes de respaldo de datos y recuperación ante desastres.
+Debugging y troubleshooting cuando sea necesario.
+Colaborar con otros miembros del equipo técnico.
+
+Requerimientos / Certificaciones:
+Experiencia práctica de al menos 5 años usando MongoDB on-premise y on-cloud (Atlas)
+Experiencia probada diseñando e implementando clústeres en MongoDB.
+Experiencia en administración y optimización de bases de datos MongoDB.
+Certificación como MongoDB Certified DBA es deseada
+
+Conocimientos probados en:
+Patrones de diseño y modelación en MongoDB.
+Lenguaje de consultas de MongoDB.
+Utilización del Framework de Agregación de MongoDB.
+Índices y optimización de consultas.
+Conjuntos de replicación y particionamiento horizontal.
+Conocimientos sobre el uso de clústeres de MongoDB en Atlas y MongoDB Enterprise on-prem.
+Utilización de Ops Manager y Compass
+Desarrollo de aplicaciones que usen MongoDB utilizando los drivers de Python, Javascript, Java y/o C#."
+Administrador de bases de datos,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18345705,"Descripción
+Escolaridad: Licenciatura/Ingeniería en Sistemas Computacionales, informática o carrera afín a tecnologías de la Información
+Funciones Generales:
+Responsable de la Gestión de las Infraestructuras de almacenamiento y procesamiento de la información.
+Responsable del diseño de soluciones de almacenamiento y procesamiento de la información.
+Implementación y cumplimiento de KPIs, para la medición de calidad de servicio en los recursos tecnológicos de información.
+Optimización y estandarización de procesos y recursos tecnológicos de información.
+Generación de soluciones tecnológicas de información, innovadoras y vanguardistas.
+Funciones Especificas:
+Diseño de arquitectura de solución para las bases de datos
+Diseño de infraestructura para procesamiento de las bases de datos
+Diseño de estructuras de las bases de datos
+Implementación de reglas y buenas prácticas en el diseño de estructuras de bases de datos.
+Implementación de índices, esquemas, normalización, restricciones, transacciones.
+Implementación de metodología ACID.
+Atomicidad, coherencia, aislamiento, durabilidad.
+Administrar el rendimiento de las infraestructura, arquitectura y estructura de las bases de datos.
+Administrar la integración de las bases de datos con las aplicaciones.
+Custodiar las infraestructuras y estructuras de bases de datos mediante la implementación de capas de seguridad.
+Análisis de la información de las bases de datos para transformar los datos sin procesar en información de inteligencia empresarial real.
+Gestión de bases de datos relacionales, no relacionales y estructuras de Big Data.
+Responsable de la integridad de la información mediante procesos que garanticen la no perdida de información, o la transformación o calculo erróneo da los datos.
+Gestión de manejadores de bases de datos como Oracle, Microsoft SQL, Postgres, MySQL, BD2, MongoDB, Casandra, DocumentDB.
+Seguimiento a proyectos tecnológicos de base de datos.
+Evaluación del análisis de requerimientos para el procesamiento de información.
+Definición y mejora en la calidad de los servicios de procesamiento de la información por la empresa.
+Validación técnica de servicios de outsourcing, freelance, proveedores y terceros.
+Definir herramientas y capacitaciones para mantener vigentes los conocimientos técnicos relacionados al procesamiento de información.
+Certificaciones:·Database administrator, AWS o Azure Architect, Data Science, Big Data"
+DBA MAINFRAME COBOL,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18385489,"Descripción
+PRAXIS, es una empresa Mexicana Líder en Tecnologías de la Información, con presencia Internacional, y con 25 años proporcionando servicios de TI.
+
+DBA DESARROLLADOR MAINFRAME COBOL
+
+4 años de experiencia como DBA en Mainframe, CICS, ZOS, JCL's
+Experiencia en desarrollo con cobol
+
+La posición es hibrida
+Sector bancario, por lo que si cuentas con experiencia bancaria es un plus.
+
+Contratación inmediata, postúlate por este medio
+
+
+“En PRAXIS queda prohibido la solicitud de certificados médicos de no embarazo y virus de Inmunodeficiencia Humana (VIH) como requisito para el ingreso, permanencia o ascenso"""
+DBA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18313765,"Descripción
+ids Comercial es una empresa 100% mexicana dedicada a TI con 40 años de experiencia y presencia en México, Latinoamérica y EEUU. Más de 1500 consultores trabajan con un gran número de proyectos dentro de los sectores financiero, comercial, manufacturero, telecomunicaciones, servicios, gobierno, entre otros.
+Estamos acreditados en el Nivel 5 de CMMI (Capability Maturity Model Integration), modelo de calidad establecido por el Software Engineering Institute (SEI). Certificados por parte de ISO en la norma ISO/IEC 27001:2013. Contamos con distintivo de Empresa Socialmente Responsable (ESR).
+ ¡¡TE ESTAMOS BUSCANDO!!
+
+DBA Sr
+
+?Requisitos:
+Lic. /Ing. en Sistemas, Informática, Matemáticas, Actuaría, Administración o afín
+
+Experiencia: 2-3 años de año de experiencia
+Experiencia en un equipo ágil
+Buenas habilidades de cooperación y manejo de múltiples tareas
+Idioma inglés: Intermedio -Avanzado
+
+Sólidas habilidades de comunicación y habilidades de documentación
+Capaz de adaptarse a la cultura de equipo global y la comunicación en diferentes ubicaciones
+
+
+Conocimientos:
+Conocimientos técnicos en sistemas operativos, redes y hardware.
+Habilidades en scripting y automatización.
+Conocimientos intermedios y avanzados en ciberseguridad.
+Capacidad para solucionar problemas técnicos complejos.
+Gestión eficaz de múltiples tareas y proyectos.
+Habilidades de comunicación y trabajo en equipo.
+Adaptabilidad y aprendizaje continuo para mantenerse al día con las tecnologías cambiantes.
+Shell, Batch, SQL, PLSQL
+Establecer políticas y medidas de seguridad para proteger la base de datos contra accesos no autorizados, implementando controles de acceso y auditorías.
+Realizar copias de seguridad periódicas de la base de datos y desarrollar planes de recuperación en caso de fallos o desastres.
+Monitorear y optimizar el rendimiento de la base de datos, identificando y resolviendo cuellos de botella, optimizando consultas y ajustando la configuración del sistema.
+Colaborar con equipos de desarrollo y otros departamentos para comprender y satisfacer los requisitos de los proyectos.
+
+
+Ofrecemos:
+Sueldo 100% nominal
+Prestaciones de ley y adicionales (caja de ahorro, seguro de gastos médicos mayores y menores, convenios comerciales, capacitaciones, plan de crecimiento entre otros).
+Hibrido (3 días en oficinas en Toluca)
+
+
+
+
+
+
+
+Somos una empresa incluyente y libre de cualquier tipo de discriminación, donde las oportunidades son para quien muestra actitud y talento. No solicitamos certificados médicos de no embarazo y Virus de Inmunodeficiencia Humana (VIH) como requisitos para que formes parte de nuestra gran familia de trabajo y puedas acceder a las mismas oportunidades de crecimiento"
+DBA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18316129,"Descripción
+ids Comercial es una empresa 100% mexicana dedicada a TI con más de 37 años de experiencia con presencia en México, Costa Rica y proyectos con EU y Canadá.
+Nos especializamos en servicios de consultoría, desarrollo y capacitación en TI.
+Más de 1500 consultores trabajan con un gran número de proyectos dentro de los sectores financiero, comercial, manufacturero, telecomunicaciones, servicios, gobierno, entre otros.
+Estamos acreditados en el Nivel 5 de CMMI (Capability Maturity Model Integration), modelo de calidad establecido por el Software Engineering Institute (SEI), certificados por parte de ISO en la norma ISO/IEC 27001:2013, así como cada año obtenemos un distintivo como Empresa Socialmente Responsable (ESR) entre otros.
+
+Te invitamos a unirte a este gran equipo en ids con cultura happiness.
+
+¡¡TE ESTAMOS BUSCANDO!!
+
+Requisitos:
+
+Licenciatura en Informática, Computación o afín
+Experiencia: 4-3 años de experiencia
+
+Experiencia técnica en sistemas operativos, redes y hardware.
+Scripting y automatización.
+Experiencia en ciberseguridad.
+Experiencia en tecnologías como Shell, Batch, SQL, PLSQL.
+Experiencia con copias de seguridad de la base de datos
+
+Ofrecemos
+Prestaciones de Ley
+Prestaciones Superiores
+Capacitación continua
+
+Somos una empresa incluyente y libre de cualquier tipo de discriminación, donde las oportunidades son para quien muestra actitud y talento. No solicitamos certificados médicos de no embarazo y Virus de Inmunodeficiencia Humana (VIH) como requisitos para que formes parte de nuestra gran familia de trabajo y puedas acceder a las mismas oportunidades de crecimiento
+Sector"
+Dba sql server,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18262462,"Descripción
+Administrador de Base de Datos
+
+
+Objetivo del puesto
+arantizar y optimizar la seguridad, integridad y estabilidad de las bases de datos y aplicaciones, que administran la informacio´n de las operaciones del negocio, para que siempre este´n disponibles, segu´n las necesidades de las diferentes a´reas de la compan~i´a.
+
+
+Funciones principales
+
+Instalar las Bases de Datos en los diversos ambientes de los equipos de sistemas
+
+Mantener el performance de las Bases de Datos Productivas de la empresa en óptimas condiciones
+
+Planear y ejecutar mantenimientos preventivos y mantener los servidores actualizados
+
+Instalar y configurar Servidores Aplicativos así como el despliegue de aplicaciones en los mismos
+
+Mantener monitoreado los sistemas de la empresa
+
+Diseñar planes de recuperación de datos
+
+Validar código PL SQL
+
+Conocimientos adicionales
+
+SQL
+
+Perfil ideal del candidato
+
+Experiencia en MS SQL Server De 1 a 3 años
+PL SQL De 1 a 3 años
+Experiencia en práctica con estándares de SQL De 1 a 3 años
+Experiencia con herramientas a terceros frontednd y backend IIS / JBoss Hasta 1 año
+Administración de aplicaciones IIS / Jboss De 1 a 3 años
+Troubleshooting De 1 a 3 años
+
+Oferta de valor
+
+Prestaciones: Vacaciones iniciando con 12 días al año, prima vacacional del 25 % anual, aguinaldo de 15 días al año (aumentando de acuerdo a la antigüedad). Seguro de Vida.
+Beneficios: Plan de entrenamiento de acuerdo al puesto así como para el desarrollo de habilidades personales.
+Beneficios financieros.
+Servicios de Salud (Médico, Nutriólogo, Psicólogo, Odontólogo).
+Servicio de Biblioteca.
+Promociones y convenios para ti y tu familia: Descuentos en gimnacios, cines, centros de entretenimiento, conciertos, restaurantes, tiendas departamentales, ópticas, laboratorios, clínicas, colegios, escuelas de idiomas, universidades, aerolíneas, viajes, agencias automotrices y guarderías."
+DBA SQL SERVER,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18241859,"Descripción
+Importante empresa que brinda soluciones a la industria farmacéutica con 50 años en el mercado mexicano, solicita:
+ LIDER DE PROYECTO PARA SISTEMA DE INCENTIVOS 
+
+Requisitos: 
+
+Formación Académica: Licenciatura / Ingeniería en sistemas o Carrera a fin.
+Nivel de Inglés: Intermedio
+Conocimientos Especiales: Manejador Base de Datos Ms SQL Server 2008 o superior
+Lugar de trabajo: San Jerónimo Lídice, Del. Magdalena Contreras
+
+Funciones:
+
+Realizar el modelado y actualización de la aplicación Rewards de acuerdo con los requerimientos del cliente y área comercial.
+Generar análisis y solución de requerimientos específicos.
+Proporcionar soporte en los procesos de actualización cambio de versión.
+Proporcionar información detallada que se extrae directamente de las BD del sistema.
+Dar apoyo capacitación y consultoría en la solución de dudas y problemas reportados por el cliente.
+
+Habilidades:
+
+Honestidad
+Servicio al cliente
+Trabajo en equipo
+Facilidad de palabra
+Orientado a resultados
+Negociación
+Alto nivel de analisis a detalle
+
+Competencias Técnicas
+
+Manejador Base de Datos Ms SQL Server 2008 o similar.
+Microsoft Excel, Power Point, Word (Avanzado).
+Conocimiento de herramientas y procesos ETL
+Conocimiento de procesos y modelos estadísticos.
+
+Deseable
+
+Experiencia en la Industria farmacéutica
+Manejo de Pago de Incentivos
+Manejo de Herramientas en BI"
+Oracle dba,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18313296,"Descripción
+En Dresden Partners conectamos el talento con empresas globales de primer nivel. Somos un puente de oportunidad laboral especializados en Reclutamiento TI en México, LATAM y USA.
+
+Estamos en búsqueda de talento para la posición: DBA ORACLE
+
+Escolaridad: Ingeniería o Licenciatura en Sistemas o AFIN
+
+Experiencia:
++3 años
+Conocimientos:
+
+Planes de ejecución de consultas, optimizar el rendimiento de la base de datos
+Diagnóstico y resolución de problemas relacionados con la base de datos
+Oracle 12c - 19C
+Automatización con lenguajes de scripting, como PowerShell o Unix shell.
+Soporte de Base de Datos
+Estrategias de respaldo y recuperación de datos
+
+Inglés Conversacional
+
+Zona de trabajo: Híbrido en CDMX, Queretaro, GDL o Monterrey
+
+Beneficios:
+Esquema 100% nomina
+Prestaciones de ley
+Seguro de vida
+Seguro de gastos médicos mayores
+Vales de despensa
+Fondo de ahorro
+Aguinaldo de 30 días
+
+Si cumples con el perfil, envía tu CV al correo señalado, mencionando expectativas económicas y en asunto el nombre de la vacante.
+
+Para mayor información en:
+jessica (.) santoyo (a) dresdenpartners (.) com
+Linkedin: Jessica Santoyo"
+Oracle DBA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18155896,"Descripción
+“DBA ORACLE”
+
+Perfil:
+Administración de bases de datos ORACLE.
+Configurar y mantener instancias y procesos de bases de datos.
+Supervisar la alud y el rendimiento del sistema.
+Diseñas estrategias de indexación.
+Configurar, monitorear e implementar conjuntos de réplicas.
+Actualizar bases de datos a través de parches.
+Crear roles y usuarios, estableces sus permisos.
+Garantizar altos niveles de rendimiento, disponibilidad, sostenibilidad y seguridad.
+Ayudar a los desarrolladores con el ajuste de consultas.
+Proporcionar soporte 24x7 para sistemas de producción críticos.
+
+?? Salario: $45 a 55 mil brutos (negociable) + Prestaciones de Ley.
+?? Modalidad: Híbrido; Monterrey, Nuevo León.
+
+?? En caso de desear participar en el proceso, favor de enviar CV actualizado al mail de contacto."
+Administrador de Bases de Datos Oracle,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18200712,"Descripción
+
+Posición: Administrador de Bases de Datos Oracle
+Lugar:  Onsite en Queretaro
+
+Descripción de Puesto: Administrador de Bases de Datos Oracle
+Perfil del Trabajo:
+
+El Administrador de Bases de Datos Oracle desempeñará un papel esencial en la gestión, administración y optimización de bases de datos Oracle, con un enfoque especializado en la migración y replicación de datos mediante herramientas como Oracle GoldenGate, XTTS y DataPump.
+
+Responsabilidades Principales:
+
+1. Migración de GoldenGate:
+
+
+Diseñar e implementar soluciones de replicación de datos utilizando Oracle GoldenGate para migración.
+Garantizar la integridad y consistencia de los datos replicados entre entornos de base de datos.
+Utilizar GoldenGate para llevar a cabo migraciones de bases de datos entre plataformas.
+
+2. Migración de Datos con XTTS:
+
+
+Utilizar las herramientas XTTS V3, V4 (Cross-Platform Transportable Tablespace) para realizar migraciones de bases de datos entre plataformas.
+Asegurar la compatibilidad y eficiencia durante el proceso de transporte de tablespaces.
+
+3. Migración de Datos con DataPump:?
+
+
+Configurar y gestionar procesos de migración utilizando Oracle Data Pump, garantizando la integridad de objetos y datos.
+Garantizar la disponibilidad y la integridad de los datos respaldados, así como la capacidad de recuperación efectiva en caso de fallos.
+
+4. Optimización del Rendimiento:
+
+
+Realizar ajustes de rendimiento en la base de datos para garantizar un funcionamiento eficiente y rápido.
+Identificar y abordar cuellos de botella para mejorar el rendimiento general del sistema.
+
+Requisitos:?
+
+
+Experiencia comprobada como Administrador de Bases de Datos Oracle, con enfoque en migración y replicación de datos.
+Conocimientos sólidos en Oracle GoldenGate, XTTS y DataPump.
+Habilidad para diseñar y ejecutar procesos de migración entre plataformas de manera eficiente.
+Experiencia en optimización de rendimiento de bases de datos Oracle.
+Excelentes habilidades de resolución de problemas y capacidad para abordar eficazmente desafíos relacionados con la base de datos.
+
+Competencias Deseadas:
+
+
+Certificaciones relevantes en Oracle.
+Habilidades de comunicación efectiva.
+Capacidad para trabajar de manera colaborativa en equipos multidisciplinarios.
+Orientación a resultados y atención al detalle.
+
+Si cumples con los requisitos y estás interesado en la vacante, favor de enviar tu CV mas actualizado al correo descrito en este job."
+Technical Lead - MongoDB DBA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=3&jobid=18200763,"Descripción
+Technical Lead
+
+US Company is looking for Technial Lead - MongoDB DBA
+
+?? Remote in Mexico
+?? USD/HR Payment
+
+Requirements:
+MongoDB DBA with Ops Manager experience
+Encrypting databases 2-3 US weeknights and weekends
+Monitoring those databases during US daytime hours
+Minimum 7-10 year of relevant experience.
+
+Skills : • MongoDB • Ops Manager • Linux • On-prem experience • Database Upgrades • Database Encryption
+
+Contact me by mail or whatsapp and send me your resume
+
+Apply now!"
+Admin Microsoft Dynamics SL - DBA SQL,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18289891,"Descripción
+InterWare
+Importante consultoría en TI con más de 25 años de exitosa trayectoria en el mercado, conformado por especialistas apasionados por la tecnología te invita a formar parte de su equipo.
+
+
+¡Únete a InterWare!
+
+Solicitamos:
+Admin Microsoft Dynamics SL – DBA SQL (Remoto)
+
+Escolaridad: Pasantes o Titulados de Ingeniería en Computación o afín.
+
+Experiencia:
+·Administración y mantenimiento de bases de datos de SQL Server.
+·Creación de Stored Procedures.
+·Creación de Jobs.
+·Respaldo y restauración de bases de datos.
+·Programa de mejoras ante desastres.
+·Uso de SSIS para el desarrollo de reportes para SharePoint y PowerBI
+·Administración y manejo de Microsoft Dynamics SL.
+·Creación de reportes mediante Crystal Reports.
+
+
+
+Trabajo Remoto
+
+
+Interesados favor de enviar su CV al correo de contacto o postularse por este medio."
+Desarrollador DBA para CCTV,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18331449,"Descripción
+Acerca de la empresa
+
+ProceTI es una empresa líder en soluciones tecnológicas, comprometida con la innovación y la excelencia en el desarrollo de tecnologías de la información. Nuestra comunidad está formada por profesionales apasionados por la tecnología, creando un ambiente de trabajo dinámico y colaborativo.
+
+Desarrollador DBA con conocimiento en CCTV e Inteligencia Artificial (al menos 2 años sólidos de conocimiento en los skills descritos)
+Inglés conversacional fluido
+Forma de trabajo: Remoto, con la posibilidad que asista 1 día a la semana a oficinas, por lo cual se requiere viva dentro del área de Nuevo León
+Contrato inicial de 1 año con amplia posibilidad de extensión
+
+
+Objetivo del puesto
+Desarrollo de soluciones en el área de Analíticos para-CCTV,
+Consultas personalizadas de bases de datos extraídas de herramientas de CCTV como MAXPRO NVR y VMS
+
+?Requisitos del puesto
+
+Inglés conversacional avanzado
+Experiencia avanzada en SQL Server Management Studio,
+Dominio de Python.
+Dominio de Tableau, Power BI, Google Charts.
+Amplia experiencia en Acceso a herramientas de gestión de CCTV (MAXPRO NVR y VMS)
+Experiencia en Bases de datos, visualización de datos, Programación, Análisis de datos
+Conocimiento en Inteligencia artificial
+Machine learning
+
+
+Responsabilidades del puesto
+
+Acceso a la base de datos, análisis de la información y extracción de datos.
+Desarrollo de soluciones de análisis para CCTV.
+Implementación de IA/ML en el sistema de CCTV.
+Presentación de la información en un formato visual y comprensible.
+Diseñar y mantener bases de datos para sistemas de circuito cerrado de televisión (CCTV).
+Desarrollar algoritmos de inteligencia artificial para mejorar la detección y análisis de imágenes.
+Colaborar con el equipo de desarrollo para integrar soluciones de inteligencia artificial en los sistemas de seguridad."
+Consultor SQL - DBA SQL,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18289859,"Descripción
+InterWare
+Importante consultoría en TI con más de 25 años de exitosa trayectoria en el mercado, conformado por especialistas apasionados por la tecnología te invita a formar parte de su equipo.
+  ¡Únete a InterWare!
+ Solicitamos: 
+Consultor SQL – DBA SQL (Remoto)
+ Escolaridad: Pasantes o Titulados de Ingeniería en Computación o afín.
+ Experiencia:
+·        Administración y mantenimiento de bases de datos de SQL Server.
+·        Creación de Stored Procedures.
+·        Creación de Jobs.
+·        Respaldo y restauración de bases de datos.
+·        Programa de mejoras ante desastres.
+·         Uso de SSIS para el desarrollo de reportes para SharePoint y PowerBI
+·        Administración y manejo de Microsoft Dynamics SL.
+·        Creación de reportes mediante Crystal Reports.
+   Trabajo Remoto
+  Interesados favor de enviar su CV al correo de contacto o postularse por este medio."
+Oracle DBA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18264641,"Descripción
+Oracle DBA - Support Engineer
+
+On site: Guadalajara
+
+Job Summary: 
+
+?Oracle DBA responsible for configuring, managing Oracle Databases on ExaCC.
+• Oracle DBA with minimum 6+ years of experience
+• Good experience with migrating Oracle DBs from One datacenter to other
+• Good experience on Oracle Multi-tenant architecture
+• Good experience with Oracle RAC
+• Good experience with Oracle Goldengate setup , manage and migration
+• Good experience with Oracle Dataguard setup for stand-alone and Oracle RAC
+• Hands on experience with installing and maintaining the Oracle database software.
+• Upgrading Database from lower version to 19c.
+• Extensive experience with patching RDBMS, GRID, Client homes.
+
+
+o Skillset Values – please fill below table with the 5 most important skills from highest to lowest weightage.
+
+Degree of Importance Skill (or certification) Years of Experience in skill
+5 (highest) Oracle DBA 6+
+4 Oracle RAC 6+
+3 Oracle Multitenant 3+
+2 Goldengate 2+
+1 (lowest) ExaCC 2+
+
+We Offer:
+
+100% payroll scheme
+Saving fund 13%
+Meal allowance
+Major Medical Insurance
+Life Insurance
+Among others...
+
+
+Send your resume by mail, whatsapp and apply here!"
+Desarrollador DBA Jr.,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18295136,"Descripción
+Desarrollador DBA Jr
+
+Modalidad de trabajo: Remoto, con la posibilidad que asista 1 día a la semana
+Ubicación del trabajo: Monterrey, Nuevo León.
+Jornada laboral: Lunes a viernes, 8:30am a 6:30pm.
+
+Requisitos:
+
+Experiencia de al menos 1 año en análisis de datos.
+Formación en matemáticas, estadística o informática.
+Análisis de datos
+Inteligencia artificial
+Machine learning
+Inglés Conversacional
+
+Actividades:
+
+Desarrollo de soluciones en el área de Analíticos para-CCTV,
+Consultas personalizadas de bases de datos extraídas de herramientas de CCTV como MAXPRO NVR y VMS.
+Acceso a la base de datos, análisis de la información y extracción de datos.
+Desarrollo de soluciones de análisis para CCTV.
+Implementación de IA/ML en el sistema de CCTV.
+Presentación de la información en un formato visual y comprensible
+
+Ofrecemos:
+
+Sueldo competitivo al mercado en esquema Mixto.
+Preparación constante para un mayor peso de carrera laboral.
+
+
+Puedes contactarme a través de este medio y con gusto te comparto más información."
+Senior Oracle DBA/ Inglés Conversacional,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18261189,"Descripción
+Oracle Senior DBA /Oracle Database Administrator
+
+5+ años de experiencia en administración de bases de datos Oracle administrando las versiones 12c y 19c.
+Experiencia en administración de BBDD Oracle en entornos RAC, Multitenant.
+· Experiencia mínima de 3 años en administración y gestión entornos Exadata Cloud at Customer. Gen2 modelo X8M o superior. (Exadata)
+Experiencia en entornos de Cloud Pública (Oracle Cloud,Azure, AWS,....).
+Experiencia en análisis de capacidad y rendimiento con herramientas de Oracle.
+Experiencia en Oracle Dataguard.
+Experiencia en herramientas de backup y recuperacion (NetBackup, Avamar, DDBoost,....)y su integración con RMAN.
+Experiencia con herramienta de monitorizacion Oracle Grid Control e integración con herramientas de monitorización (Dynatrace,CA,....)
+Experiencia en automatización con herramienta Ansible.
+Experiencia en scripting con Shell Script.
+Experiencia en programación con Phyton
+Conocimiento en las siguientes herramientas: GitHub, Jira, Confluence.
+ Conocimientos básicos de Oracle GoldenGate.
+ 1+ años de experiencia en administración de bases de datos en un RDBMS que no sea Oracle. (MySQL, PostgreSQL, MariaDB, Microsoft...)
+
+
+Zona: Queretaro
+Apoyo de Mudanza de pertenecer a otro estado
+Prestaciones Superiores a las de Ley
+Cursos certificados?"
+Administrador de Bases de Datos (Oracle DBA),https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18298763,"Descripción
+El Administrador de Bases de Datos (DBA) sera responsable de llevar a cabo las actividades diarias de administración para mantener las bases de datos disponibles y para dar un uso adecuado de los recursos de hardware. También será responsable de planear y ejecutar las actividades de análisis y mantenimiento necesarias de forma proactiva para que las bases de datos tengan el desempeño optimo. Adicionalmente será responsable de atender y dar solución a problemas de bases de datos, así como participar en los diferentes proyectos de diseño, implementación, migración y/o mejora de bases de datos
+
+Perfil Requerido:
+- Licenciatura en Informática, Ingeniería en Computación o Carrera afín
+- Dominio de Lenguaje SQL
+- Amplio conocimiento de la arquitectura y conceptos de administración de bases de datos (Oracle)
+- Conocimiento de estrategias de respaldo, afinación del desempeño, migración, replicación, alta disponibilidad e instalación de bases de datos
+- Experiencia deseable de al menos de 5 años administrando bases de datos de producción, de preferencia misión crítica. En caso de que tengas mínima o nula experiencia, pero cumplas con todos los requisitos de conocimientos y tengas disponibilidad inmediata postúlate y podrías calificar para la posición de DBA Junior
+- Disponibilidad de horario
+- Proactividad y habilidad para trabajar en equipo y bajo presión
+- Disponibilidad para viajar
+
+Ofrecemos:
+- Prestaciones de ley
+- Sueldo atractivo y de acuerdo a los conocimientos y experiencia del candidato
+- Crecimiento profesional y buen ambiente de trabajo"
+DBA - PROGRAMADOR,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18201178,"Descripción
+
+DBA - PROGRAMADOR
+Lic. En informática / Ing. En Sistemas (o Similar).
+2 años de experiencia como DBA PostgreSQL en sector Financiero
+Indispensable vivir en CDMX.
+Trabajo Presencial.
+
+Conocimientos:
+- Conocimientos amplios en POSTGRESQL (3 años de experiencia).
+- Diseño de bases de datos. - Migración, mantenimiento y replicación de bases de datos. - Análisis y detección de consultas con tiempos de respuesta altos.
+- Administración de servidores Linux. - Conocimientos en AWS (VPC, IAM, S3, Creación de imágenes).
+
+Funciones a realizar:
+- Instalar y configurar las bases de datos.
+- Desarrollar Funciones, Procedimientos almacenados, Triggers.
+- Revisar los logs y detectar posibles errores en las bases.
+- Optimizar las bases de datos.
+- Replicar, monitorear las bases de datos.
+- Creación de usuarios y roles para los servidores."
+Oracle DBA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18201742,"Descripción
+AZKAIT es una empresa Mexicana que busca y conecta el mejor talento IT con empresas Latinoamericanas y de Estados Unidos.
+
+Estamos en la búsqueda de tu talento como DBA ORACLE
+
+
+Ubicación: Guadalajara, Querétaro, Ciudad de México y Monterrey
+Modalidad de trabajo: híbrida
+
+Conjunto de habilidades (mínimo 7 años de experiencia):
+Habilidades avanzadas de comunicación en inglés
+Idealmente Certificado Profesional de Base de Datos Oracle (OCP) con más de 7 años de experiencia con Oracle 19c
+Experiencia en sistemas operativos Linux
+Herramientas de gestión de Oracle (Data Guard, RMAN, Data Pump)
+Particionamiento
+Principios de diseño de arquitectura
+Buen solucionador de problemas, enfocado y desarrollador dedicado con capacidad para trabajar de forma independiente y en equipo
+Fuerte experiencia práctica de ORACLE en un entorno de producción RAC (ASM) (11gR2)
+Mantener nuestros procesos SQL / PLSQL
+Garantizar la disponibilidad de la base de datos
+Apoyar y colaborar con los desarrolladores de productos
+Crear una estrategia de respaldo confiable. Asegurar que las copias de seguridad de la base de datos se realicen adecuadamente y se realicen restauraciones periódicas para garantizar la calidad del respaldo
+Determinar y documentar políticas, procedimientos y estándares de base de datos
+Pruebas de rendimiento y evaluación para garantizar la seguridad, privacidad e integridad de los datos
+Identificación de cuellos de botella y problemas de bloqueo
+Debe ser proactivo con una gran atención al detalle
+Experiencia en una organización con una dependencia clave en la confiabilidad 24x7 en su base de datos"
+SQL DBA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18213393,"Descripción
+SQL DBA / 100% REMOTE opportunity / Advanced English is required
+
+?About the Role: We are looking for an experienced SQL DBA with development and application background to join our team, supporting our on-premise and Cloud environment. This associate will work closely with other DBAs, System Administrators, Application Developers, and Project Managers to provide exceptional support of business needs.
+
+
+Responsibilities:
+
+Designing, building, and administration of applications and databases
+Performing software installs, upgrades, and patching
+Performing database backup and recovery, security, monitoring, performance, and troubleshooting
+Ensuring compliance with all best practices and SOP
+Performing other tasks and needs such as user support, training, documentation
+Providing off-hours support when needed to avoid business impact
+Ensuring compliance with Change Management and ITSM
+Developing a knowledge of business needs and applications, to provide guidance and technical support
+
+
+Qualifications:
+Bachelor's degree in Computer Science or related field or 8+ years of equivalent experience in IT.
+Hands-on experience architecting, engineering and managing applications and solutions.
+Experience with SQL Clustering and Availability groups
+Experience in managing database system performance and tuning.
+Experience in managing large enterprise applications.  
+Experience with Azure PaaS technologies and apps such as AzureSQL, Azure Tables, Cache, SQL Server DW, Azure AD etc.
+ Scripting and automating with PowerShell, VB, database utilities, and other tools.
+Familiar with Azure IaaS Technologies such as VMs, Virtual networks, Express Routes, Standard/Premium storage etc. 
+Experience with Oracel DB, My SQL and Postgress is a plus. 
+Experience with Windows administration
+Microsoft Office 365, Active Directory Administration
+Strong oral and written communication skills
+Ability to elicit, communicate, present and train on technical and non-technical information in a clear and concise manner
+Azure certification? (is a plus)
+Ability to work independently and in a team environment
+Ability to lead small efforts and teams, can work independent and is self-motivated
+Willingness to multi-task multiple priorities with minimum direction and supervision
+Experience with DevOps engineering or software engineering
+Effective at working as a team member or individual contributor"
+DBA/Ingeniero AWS,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18118428,"Descripción
+Empresa Global de Servicios de Cybersecurity, Comunicaciones y desarrollo de Software. Estamos presentes en Madrid, Londres y Ciudad de México, trabajamos también en proyectos internacionales en Latinoamérica y Europa.
+Buscamos la siguiente posición para laborar con una empresa dedicada a Desarrollo de Proyectos Tecnológicos.
+ Escolaridad:  TSU, Ingeniería o Lic. En Tecnologías de la Información o a fin.
+ Experiencia:
+·        De  2 a 3 años  
+·        Gestionando el área de Operaciones de Infraestructura de TI: Servidores, Bases de Datos y
+Skill:
+·        Indispensable saber Aws de los contrario no se considera
+· AWS:  VPC, EC2, Lambda, Apigateway, Ecs, Cloudformation.
+·        Base De Datos:  Oracle, Mysql, Plsql.
+·        Sistemas Operativos:  Linux, Windows.
+·        Lenguajes : Java, Python (Opcional).
+·        Scrum y Paquetería Office
+·        Route53, Rds, Iam, Cloudfront, Redshift, Cloudwatch, S3, Codecommit.
+ Ofrecemos.
+·        Modalidad   Presencial  
+·        Ubicación:  Sur de Tlalpan, CDMX, pasando  Perisur
+·        Importante vivir en CDMX o alrededores.
+·        Prestaciones de Ley + Prestaciones Superiores (SGMM, SV, Membresía de descuentos en + 2000 establecimientos comerciales de prestigio, etc)
+·        Cursos
+·        Comedor"
+Administrador de bases de datos oracle con automatización de,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18313574,"Descripción
+PRAXIS
+
+Somos una Empresa Mexicana Líder en Tecnologías de la Información, con presencia internacional y más de 20 años en el mercado proporcionando servicios de TI en diferentes sectores: Bancario, Telecomunicaciones, Seguros, Industria, entre otros. Somos una empresa en constante crecimiento y estamos en la búsqueda de talento altamente competitivo.
+
+Experiencia en la instalación, actualizaciones y configuración de bases de datos con ASM sobre sistemas operativos UNIX (Solaris, AIX) y Linux.
+Experiencia en administración de bases de datos Oracle 10g y 11g.
+Experiencia en modelado de datos relacionales y normalización de bases de datos OLTP.
+Experiencia en el uso de herramientas de administración de BD's (DBArtisan, TOAD, etc.).
+Experiencia en programación de scripts PL/SQL y Shell.
+Experiencia en ejecutar acciones de mantenimiento y aplicación de parches sobre bases de datos.
+
+OFRECEMOS:
+
+Prestaciones de ley
+Capacitaciones gratuitas
+Bonos
+Clases de ingles gratuitas
+Apoyo para certificaciones
+Posición 100% nominal"
+IT SUPPORT ENGINEER & DBA,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18294315,"Descripción
+IT SUPPORT ENGINEER & DBA
+
+Provide technical support and troubleshooting of computer and technology systems. This position is responsible for system maintenance and upgrades, software and hardware testing, and user support.
+
+University degree o equivalent in IT Engineering, Systems Administration.
+3 years experience in IT supporting systems, ERP DBA and helpdesk.
+Automotive industry.
+
+Support to users, in troubleshooting, configurations and upgrades of software and hardware
+Contribute and support in projects related to networks, servers and/or workstations.
+Provide preventive/corrective maintenance of systems and equipment such as desktops, laptops, printers, scanners, access points, etc.
+Supervise, implementation and follow up of IT security protocols.
+Verify that the systems and programs are being applied according to the functions and needs of the users.
+Document and follow-up according to company standards in processes and procedures.
+Inventory and state of use management of equipment and services.
+Microsoft 365, Windows 10, 11
+ Administrate and support ERP system.
+Helpdesk support to users."
+Ab Initio Admin,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18344252,"Descripción
+We're looking for a Senior Database Administrator with good experience in Abnitio Administration. 100% remote role based in Mexico.
+
+6-8 yrs of experience in Abinitio administration
+Very strong communication and intrapersonal skills
+Agile Metodologies
+English required (Conversational)"
+Abogado validador,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18294223,"Descripción
+Somos un grupo de asesoramiento jurídico, con mas de 30 años enfocados en el sector inmobiliario. Por expansión estamos en búsqueda de talento que se sume a nuestro solido equipo de trabajo.
+
+El puesto a ocupar sería el de: Validador.
+
+Objetivo del puesto: Verificar que se de cumplimiento con los requisitos obligatorios de la ley anti lavado de dinero, régimen fiscal de la operación y otros cumplimientos, así como la detección temprana de errores u omisiones en cada escritura, para su debida corrección en tiempo y forma, con la finalidad de evitar sanciones administrativas para el notario y minimizar los rechazos del registro publico de la propiedad y de comercio y/o de instituciones bancarias, INFONAVIT, etc.
+
+Actividades: validación de expedientes de cada escritura, para verificar que se de cumplimiento con los requisitos obligatorios de la ley anti lavado de dinero, temas fiscales y otros cumplimientos, además de validar que la documentación este completa, legible, vigente, verificar que coincida con lo establecido en cada escritura, validar información en sistema notarial DBA, de conformidad con lo establecido en los manuales y otros procedimientos internos de la notaria.
+
+Requisitos:
+Experiencia en Notaria.
+Indispensable: conocimiento en documentación y contenido de las escrituras, INFONAVIT, bancos y ley anti lavado de dinero.
+Escolaridad Lic. En derecho (trunca, en proceso ó con experiencia equiparable).
+
+Ofrecemos:
+Sueldo base: De acuerdo ala experiencia.
+Prestaciones superiores a las de la ley como: Días económicos de descanso, seguro de vida
+Becas escolares
+Capacitación constante.
+Comedor subsidiado."
+Lider de servidores Oracle / Weblogic,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18212425,"Descripción
+Importante empresa del Sector retail para laborar como Líder en servidores de Weblogic con manejo de DBA Zona de trabajo Metro Toreo
+
+Que se requiere:
+·        Contar con manejo de personal (mínimo un equipo de 4 colaboradores directamente)
+·        Tener 2 años manejando servidores Oracle en DBA
+·        Tener 3 años manejando servidores de Weblogic / middleware
+·        Manejo de servidores Oracle
+·        No tener inconveniente en laborar de manera presencial
+
+Que Ofrecemos:
+·        Sueldo de $55,000 a $60,000
+·        100% Nomina
+·        30 días de aguinaldo
+·        Bono administrativo correspondiente a un mes de salario
+·        PTU garantizadas
+·        Seguro de gastos médicos mayores
+·        Subsidio de estacionamiento
+·        Certificaciones pagadas
+·        Plan de carrea a mediano y largo plazo tanto salarial como profesional mente
+
+
+
+                               ** Ven y únete a nuestro gran equipo de trabajo **"
+Desarrollador java SR Backend,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18373644,"Descripción
+Acerca de la empresa.
+Somos una institución destacada dentro del sector financiero nacional por brindar una excelente asesoría integral a nuestros clientes, a través de nuestra especialización financiera; de manera que puedan recibir un servicio profesional y las mejores soluciones para el manejo de sus necesidades. Por lo que estamos en busca del mejor talento.
+
+Requisitos del puesto.
+Escolaridad: Licenciatura en Sistemas, Ingeniería en Sistemas Computacionales.
+Conocimiento: JAVA, Spring boot, Maven, MVC, DBA Oracle, JIRA Confluence, APIS, JSON.
+Experiencia: Desarrollo Java, CD/CI, pruebas unitarias, diagramas de flujo y secuencia, desarrollo en aplicaciones contenerizadas
+
+Responsabilidades del puesto.
+Resolver incidencias en las aplicaciones o procesos utilizados por BT.
+Dar mantenimiento a las aplicaciones y procesos para evitar posibles problemas futuros.
+Desarrollar aplicativos basados en los estándares establecidos por la empresa.
+Involucrarse con las diferentes áreas de negocio para entender los requerimientos del cliente.
+
+Prestaciones y beneficios adicionales.
+Contratación directa
+Sueldo acorde a perfil
+Prestaciones de ley
+Seguro Vida.
+Horario: Lunes a Viernes.
+Esquema híbrido.
+Zona: Lomas de Chapultepec"
+Technical Bi Architect,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18332230,"Descripción
+Hexaware is an automation-led next-generation service provider delivering excellence in IT, BPS and Consulting services.
+
+We are driven by a combination of robust strategies, passionate teams and a global culture rooted in innovation and automation. Hexaware's digital offerings have helped clients achieve operational excellence and customer delight. Our focus lies on taking a leadership position in helping clients attain customer intimacy as their competitive advantage.
+
+We are looking a BI Architect with the following knowledge
+
+Knowledge of index structures, statistics and query metrics are a must
+Knowledge of disaster recovery/high availability solutions
+Knowledge of SQL Server development/administration tools
+SQL Server Management Studio
+Azure Data Studio
+Proficiency with SQL Server profiling tools
+High proficiency in writing clean, maintainable and performant TSQL code
+Work with dynamic T-SQL queries, DDL, DML statements for creating objects, making updates and managing user permissions
+Design the data warehouse schema and optimize the existing reporting for the trading re-conciliation and compliance system
+Used database consistency checks using DBCC utilities
+Provide strategic vision and tactical direction for the DBA function
+Analyze the long running and high cpu utilize queries on the server by using profiler and performance monitoring
+Design data models and support developers by tuning queries creating views, store procedures, functions and DTS packages
+Work on dynamic SQL batches for bulk data transfers into OLTP environment and event handle with alerts on package functioning
+Create multiple dimensions, perspectives, hierarchies, and dynamic measures (DAX) to analyze performances of each KPI
+Knowledge of Git, or any other versioning tool, to maintain the source code of the definition of database objects and scripts
+Data modelling skills"
+FULLSTACK DEVELOPER,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18316092,"Descripción
+Estamos en búsqueda de un Desarrollador Full Stack Azure de nivel intermedio con experiencia en API Management y servicios de la suite.
+
+Habilidades:
+Desarrollo en Microsoft Azure.
+Conocimiento sólido en API Management y servicios de la suite.
+Experiencia en Angular.
+Experiencia en DBA
+
+Requisitos:
+Mínimo 2 años de experiencia en un rol similar.
+Experiencia trabajando de manera remota (con pequeña frecuencia en oficina, Monterrey).
+Capacidad para desarrollar requisitos de cadena de suministro relacionados con la planificación de transporte.
+
+
+Beneficios:
+Oportunidad de trabajar en un entorno de líder mundial en la industria de materiales de construcción.
+Desarrollo profesional continuo.
+Ambiente de trabajo dinámico y colaborativo.
+Prestaciones superiores a las de ley."
+Arquitecto de soluciones,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=4&jobid=18230453,"Descripción
+Acerca de la empresa.
+Somos una institución destacada dentro del sector financiero nacional por brindar una excelente asesoría integral a nuestros clientes, a través de nuestra especialización financiera; de manera que puedan recibir un servicio profesional y las mejores soluciones para el manejo de sus necesidades. Por lo que estamos en busca del mejor talento.
+
+Requisitos del puesto.
+Escolaridad: Ingeniería en Sistemas, Lic. Sistemas computacionales.
+Conocimientos: API Gateways y ESB (WSO2, Mulesoft Anypoint, APIGEE, Kubernetes/Openshift
+Experiencia: 6 años en administración de proyectos, monitoreo y control, DBA.
+
+Responsabilidades del puesto.
+
+?Gestión de proyectos adaptándose a las metodologías de desarrollo ágil.  
+Diagramación de soluciones, experiencia en arquitectura de software, de componentes, de interfaces y tecnológica. 
+Información de manera oportuna el avance, controles de cambio, los problemas y los riesgos que se presentan en los proyectos a su cargo.  
+Monitoreo y Control del cumplimiento del proyecto.  
+Negociación con los involucrados en el proyecto con el fin de alcanzar los objetivos del mismo.  
+Documentación y seguimiento a los acuerdos generados a lo largo de los proyectos a su cargo.  
+En su caso, coordinación y gestión de equipos de trabajo para asegurar el éxito de los proyectos a su cargo. 
+Resolver incidencias en las aplicaciones o procesos utilizados por BT 
+Dar mantenimiento a las aplicaciones y proceso para evitar posibles problemas futuros 
+Desarrollar aplicativos basados en los estándares establecidos por la empresa 
+Involucrarse con las diferentes áreas de negocio para entender los requerimientos del cliente. 
+Responsable de la arquitectura de solución, dimensionamiento, implementación, liberación y procesos de entrega de software a producción. 
+Prestaciones y beneficios adicionales.
+Contratación directa
+Sueldo acorde a perfil
+Prestaciones de ley
+Seguro Vida.
+Horario: Lunes a viernes.
+Esquema híbrido.
+Zona: Lomas de Chapultepec"
+GERENTE DE BASE DE DATOS,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18199926,"Descripción
+Totalplay: Somos una empresa líder en el mercado mexicano en servicios de telecomunicaciones y entretenimiento digital. Totalplay busca personas que quieran desarrollarse en TI para el puesto: GERENTE DE BASE DE DATOS
+
+
+Requisitos del puesto
+
+Carrera: Sistemas
+Conocimientos: Telecomunicaciones, Oracle DBA de base de datos
+Experiencia en administración de base de datos en solución cloud (GCP/AZURE/AWS/ HUAWEI
+
+Responsabilidades del puesto
+
+Asegurar el monitoreo, disponibilidad y continuidad de las plataformas de Base de Datos.
+
+Instalar y mantener herramientas de monitoreos para garantizar una operación proactiva en la base de datos.
+
+Administrar parámetros en las Base de Datos incluyendo al área de desarrollo para la ejecución correcta del aplicativo.
+
+Funciones
+
+Monitoreo y aseguramiento funcional de la base de datos
+
+Garantizar la ejecución de checklist, ejecución de respaldos y replicación de BD
+
+Conocer las particularidades de la infraestructura y del negocio, alineando los métodos y procedimientos al negocio
+
+Conocimientos
+
+Oracle
+GaussDB
+Sistemas Operativos
+MySQL
+PostgreSQL
+Redis
+MongoDB
+
+Prestaciones y beneficios adicionales
+Prestaciones de ley
+Seguro de vida
+Seguro de gastos médicos mayores
+Estacionamiento
+Descuentos en áreas de salud, educación, entretenimiento
+Transporte
+Crecimiento profesional"
+Analista Administrador (Experto en Excel),https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18373852,"Descripción
+Universidad Anáhuac México, Campus Norte
+Te invita a formar parte de su comunidad Anáhuac, como:
+
+Administrador bases de datos
+Objetivo de Puesto. Analizar y proporcionar estadísticas sobre los becados, gestionando el talento y gestionando las prestaciones universitarias.
+
+Perfil requerido:
+
+Estudios
+Lic. administración, contabilidad, finanzas, actuaría, o afín, concluida.
+
+Experiencia:
+Análisis de bases de datos
+Atención a usuarios internos y externos.
+
+?Conocimientos:
+Manejo de Excel avanzado
+Conocimiento de Power BI
+
+?Funciones
+Análisis de información de candidatos a becas y alumnos becados para obtener reportes de estadística
+Aplicar asignaciones de servicio becario, nuevo ingreso y reinscritos, dando seguimiento con evaluación y control,
+Determinar el 5% de la población con algún porcentaje de beca para la Secretaría de Educación Pública
+Seguimiento de alumnos becados con la intención de orientarlos respecto a dudas especificas del programa.
+
+Ofrecemos
+Estabilidad Laboral.
+Prestaciones superiores a las de ley.
+Becas de estudio.
+
+
+
+ Zona de Trabajo: Huixquilucan, Estado de México"
+Líder técnico para Database y Middleware,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18318039,"Descripción
+Cuidado con el Perro es una marca 100% mexicana que nace en el 2007 inspirada en el estilo urbano de las nuevas generaciones y siguiendo las tendencias de moda. Nuestro objetivo es crear diseños únicos que satisfagan las necesidades de nuestros consumidores. Contamos con más de 244 tiendas en todo el País y 3 en Guatemala.
+
+En Cuidado con el Perro valoramos la honestidad, el compromiso, el profesionalismo, la pasión y el entusiasmo; ofrecemos oportunidades profesionales basadas en estos valores, dentro de ambientes colaborativos y generadores de aprendizaje.
+
+Intégrate a nuestro equipo como: Líder técnico para DBA y Weblogic´s
+
+Objetivo del puesto:
+
+Serás el responsable de coordinar al equipo de Weblogic y DBA´s para el correcto funcionamiento de los sistemas por lo que deberá de contar con amplio y solido conocimiento en ambas áreas.
+
+Responsabilidades:
+
+• Coordinar los horarios, guardias, salidas y permisos del equipo de Weblogic y DBAs.
+• Coordinar las actividades del equipo de Weblogic y Base de Datos para que los sistemas estén disponibles en todo momento.
+• Troubleshooting a los sistemas Linux, Solaris, Weblogic, Bases de datos y aplicativos.
+• Administración de los servidores físicos, storage y librerias Oracle.
+• Administración de los ambientes (DEV, TST, UAT y PRD) de los diferentes sistemas Oracle (MOM, RPAS, XStore, SOA, Prototipos).
+
+Requisitos:
+
+· Licenciatura o Ingeniería en Sistemas o afín.
+· 3 años administrando Base de Datos Oracle y Weblogic así como dirigiendo equipos de trabajo.
+· Conocimiento en Redes, Servidores, Virtualizadores, Sistemas Operativos Linux/Solaris
+
+Ofrecemos:
+
+· Atractivo sueldo fijo (pago 100% nóminal)
+· Prestaciones de ley
+· Prestaciones Superiores a las de la ley
+
+Zona de trabajo: Toreo Parque Central"
+Coordinador Weblogic y DB (Oracle),https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18317991,"Descripción
+Cuidado con el Perro es una marca 100% mexicana que nace en el 2007 inspirada en el estilo urbano de las nuevas generaciones y siguiendo las tendencias de moda. Nuestro objetivo es crear diseños únicos que satisfagan las necesidades de nuestros consumidores. Contamos con más de 244 tiendas en todo el País y 3 en Guatemala.
+
+En Cuidado con el Perro valoramos la honestidad, el compromiso, el profesionalismo, la pasión y el entusiasmo; ofrecemos oportunidades profesionales basadas en estos valores, dentro de ambientes colaborativos y generadores de aprendizaje.
+
+Intégrate a nuestro equipo como: Coordinador Weblogic y DB (Oracle)
+
+El puesto es responsable de coordinar al equipo de Weblogic y DBA´s para el correcto funcionamiento de los sistemas por lo que deberá tener un conocimiento amplio y solido en cada área.
+
+Responsabilidades:
+
+• Coordinar los horarios, guardias, salidas y permisos del equipo de Weblogic y DBAs.
+• Coordinar las actividades del equipo de Weblogic y Base de Datos para que los sistemas estén disponibles en todo momento.
+• Troubleshooting a los sistemas Linux, Solaris, Weblogic, Bases de datos y aplicativos.
+• Administración de los servidores físicos, storage y librerias Oracle.
+• Administración de los ambientes (DEV, TST, UAT y PRD) de los diferentes sistemas Oracle (MOM, RPAS, XStore, SOA, Prototipos).
+
+Requisitos:
+
+· Licenciatura o Ingeniería en Sistemas o afín.
+· 3 años administrando Base de Datos y Weblogic así como liderando equipos de trabajo.
+· Conocimiento en Redes, Servidores, Virtualizadores, Sistemas Operativos Linux/Solaris.
+·
+Ofrecemos:
+
+· Sueldo fijo (pago 100% nóminal)
+· Prestaciones de ley
+· Prestaciones Superiores a las de la ley
+
+Zona de trabajo: Toreo Parque Central"
+Lider Administrador middleware / Con servidores Oracle,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18312881,"Descripción
+Importante empresa del Sector retail para laborar como Líder en servidores de Weblogic/ middleware con manejo de DBA Zona de trabajo Metro Toreo
+
+Que se requiere:
+·        Contar con manejo de personal (mínimo un equipo de 4 colaboradores directamente)
+·        Tener 2 años manejando servidores Oracle en DBA
+·        Tener 3 años manejando servidores de Weblogic / middleware
+·        Manejo de servidores Oracle
+·        No tener inconveniente en laborar de manera presencial
+
+Que Ofrecemos:
+·        Sueldo de $55,000 a $60,000
+·        100% Nomina
+·        30 días de aguinaldo
+·        Bono administrativo correspondiente a un mes de salario
+·        PTU garantizadas
+·        Seguro de gastos médicos mayores
+·        Subsidio de estacionamiento
+·        Certificaciones pagadas
+·        Plan de carrea a mediano y largo plazo tanto salarial como profesional mente
+
+
+
+                               ** Ven y únete a nuestro gran equipo de trabajo **"
+Desarrollador Junior en C# - SQL,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18315626,"Descripción
+Empresa Mexicana en el sector de hotelería y turismo buscamos Desarrolladores Junior 
+Contamos con oficinas en la ciudad de mexico y cancun , posibilidad para trabajar remoto contra entrega de proyectos.
+
+Proyecto actual - PASARELA DE PAGOS cloud based
+
+Requisitos:
+ Ingeniero en Sistemas, Informática o afín titulado o en proceso de titulación
+ Inglés intermedio
+
+Funciones a realizar:
+
+Contribuir al equipo de TI desarrollando funcionalidades nuevas para nuestros módulos de Operación Hotelera.
+Analizar los requerimientos de usuarios finales para encontrar la mejor manera de solucionar procesos en la plataforma
+
+Habilidades:
+  Trabajo en equipo
+  Proactivo
+  Autodidacta
+
+Experiencia:
+  De 1 a 3 años con experiencia en lenguajes de programación
+  Métodos ágiles de desarrollo de software (scrum, Agile Unified Process)
+  Conocimientos de Base de datos intermedio-avanzado (Stored Procedures, Vistas, Triggers)
+
+Conociemiento en:
+
+Lenguajes de Programación:
+C# - INDISPENSABLE
+HTML 5
+ASP .NET
+JavaScript
+
+Webservices:
+Windows Communication Foundation.
+REST FULL
+Creación de API
+
+Frameworks / Librerías:
+Bootstrap
+EntityFramework
+
+Administradores de Bases de Datos:
+Microsoft SQL Server - INDISPENSABLE
+
+Ofrecemos:
+  Salario competitivo
+  Prestaciones de ley
+  Excelente ambiente de trabajo
+  Oportunidad de crecimiento
+
+Interesados favor de postularse por este medio."
+Supervisor para administradores Weblogic y BD,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18318068,"Descripción
+Cuidado con el Perro es una marca 100% mexicana que nace en el 2007 inspirada en el estilo urbano de las nuevas generaciones y siguiendo las tendencias de moda. Nuestro objetivo es crear diseños únicos que satisfagan las necesidades de nuestros consumidores. Contamos con más de 244 tiendas en todo el País y 3 en Guatemala.
+
+En Cuidado con el Perro valoramos la honestidad, el compromiso, el profesionalismo, la pasión y el entusiasmo; ofrecemos oportunidades profesionales basadas en estos valores, dentro de ambientes colaborativos y generadores de aprendizaje.
+
+Intégrate a nuestro equipo como: Supervisor técnico para administradores Weblogic y DB
+
+Serás el responsable de coordinar al equipo de Weblogic y DBA´s para el correcto funcionamiento de los sistemas por lo cual deberá tener amplio y solido conocimiento en ambas áreas.
+
+Responsabilidades:
+
+• Coordinar los horarios, guardias, salidas y permisos del equipo de Weblogic y DBAs.
+• Coordinar las actividades del equipo de Weblogic y Base de Datos para que los sistemas estén disponibles en todo momento.
+• Troubleshooting a los sistemas Linux, Solaris, Weblogic, Bases de datos y aplicativos.
+• Administración de los servidores físicos, storage y librerias Oracle.
+• Administración de los ambientes (DEV, TST, UAT y PRD) de los diferentes sistemas Oracle (MOM, RPAS, XStore, SOA, Prototipos).
+
+Requisitos:
+
+· Licenciatura o Ingeniería en Sistemas o afín.
+· 3 años de experiencia teniendo a cargo equipos de trabajo y administrando Bases de Datos y Weblogic.
+· Conocimiento en Redes, Servidores, Virtualizadores, Sistemas Operativos Linux/Solaris
+
+Ofrecemos:
+
+· Sueldo fijo (pago 100% nóminal)
+· Prestaciones de ley
+· Prestaciones Superiores a las de la ley
+
+Zona de trabajo: Toreo Parque Central"
+Auxiliar administrativo,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18276698,"Descripción
+La Notaria Pública 54 de Monterrey, está buscando talento para su equipo de trabajo, si eres estudiante de la carrera de Administracion, Finanzas, Contabilidad o afin, tienes conocimiento en temas administrativos y de control interno, envíanos tu información:
+
+Requisitos:
+Preferentemente tener experiencia previa en Facturación, Emisión de REP´s, Conciliaciones bancarias
+Preferentemente haber laborado en algún despacho o notaria publica
+Preferentemente conocimiento previo del sistema DBA
+Disposición y facilidad para laborar medio día por las mañanas
+Habilidad de trabajo al detalle
+Habilidades de análisis de información
+Ser proactivo, responsable y comprometido
+
+Ofrecemos:
+Aprendizaje continuo
+Prestaciones de ley
+Buen ambiente de trabajo"
+ADMINISTRADOR DE BASE DE DATOS SR,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18212398,"Descripción
+RYNDEM empresa #1 en innovación tecnológica,100% mexicana dedicada al desarrollo de software, apps digitales, diseño web y servicios de tecnología.
+Nos encontramos en crecimiento, así que, si quieres trabajar y te gustan los retos
+¡tu lugar está con nosotros!
+
+Necesitamos un DBA SR
+Para laborar en Cuernavaca Morelos.
+
+Requisitos:
+Escolaridad: Lic. o Ing. en Sistemas Computacionales, Informática o afín. (Titulado).
+
+¿Qué buscamos?:
+Conocimiento de lenguaje de bases de datos relacional SQL
+Conocimiento de lenguaje de bases de datos no relacional NoSQL (ej. MongoDB)
+Conocimiento de tecnologi´as de gestio´n de bases de datos: Microsoft SQL Server / PostgreSQL / MariaDB / GraphQL
+Conocimiento de buenas pra´cticas de disen~o y arquitectura de bases de datos empresariales y/o bancarias y/o gubernamentales.
+Conocimiento de lenguaje de modelado UML.
+Conocimiento de ejecucio´n de proyectos bajo metodologías/marcos de referencia Scrum y cascada.
+Conocimiento de buenas pra´cticas de gestio´n en bases de datos de usuarios y permisos.
+Conocimiento de herramientas de extraccio´n, transformacio´n y carga de datos (ETL).
+Conocimiento de scripts SQL, vistas, gatillos (triggers), pivotes (pivots), procedimientos almacenados (stored procedures) y otras herramientas de procesamiento de datos con SQL.
+Conocimiento de herramientas de perfilamiento (profiling), ana´lisis y optimizacio´n de consultas SQL.
+
+¿Qué ofrecemos?:
+Prestaciones de ley.
+Fondo de Ahorro
+Horario de lunes a viernes de 09:00 am a 07:00 pm
+Modalidad de trabajo híbrida (2 días de trabajo desde casa y 3 días en oficina).
+Nos encontramos en el Corporativo Cuernavaca (a un lado de Galerías Cuernavaca).
+
+¡Únete a nosotros!"
+Subgerente en programación en Oracle Apex,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18177832,"Descripción
+Importante empresa dedicada al arrendamiento de espacios comerciales alrededor de la República Mexicana. Estamos en búsqueda de tu talento como
+
+Subgerente programador Oracle Apex
+
+Requisitos:
+• Escolaridad: Licenciatura o Ingeniería concluida en área afín.
+• Experiencia: En Oracle Apex y haber tenido personal a cargo
+Tener personal a cargo.
+Zona para laborar: Bosque de Durazno, Col. Bosques de las Lomas, Alcaldía Miguel Hidalgo (30 minutos del metro Auditorio)
+
+Conocimientos:
+Oracle Apex (Indispensable)
+PLSQL (Avanzado).
+DBA, mantenimiento de PDB, CBD, ATP, Oracle Linux 8.
+Desarrollo de SP, creación de paquetes.
+Llevar a cabo proyectos
+Metodología Scrum
+Actividades:
+• Desarrollo de aplicaciones web en APEX
+• Desarrollo de SP, creación de paquetes
+• Desarrollos en APEX para integrar con Oracle OM de ERP Cloud.
+• Metodologías de desarrollo de sistemas (ágil, cascada).
+• DBA: mantenimiento de PDB, CDB, ATP, Oracle Linux 8
+• Manejo de Oracle OCI.
+• APEX/ORDS RESTful (ORACLE)
+• WS (API's https)
+• C# .NET
+• PLSQL
+
+Ofrecemos:
+• Salario mensual de $48,000.00 brutos
+• Vales de despensa mensual de $3,500.00
+• 2 días de HO
+• Caja de ahorro
+• Prestaciones de ley
+• Estacionamiento
+• Contratación directa por la empresa.
+
+Si es tu interés, y cumple con el perfil, favor de postularte por este medio"
+Administrador(a) de Base de Datos - BDA Oracle,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18335868,"Descripción
+Somos el Banco del comercio exterior de Norteamérica especializados en atender necesidades de crédito, tesorería, pagos internacionales y divisas. Somos el Banco para inversionistas, empresarios, ahorradores y extranjeros en México, además, somos un Grupo Financiero 100% mexicano con más de 26 años de trayectoria, con presencia en 28 Estados de la República Mexicana y Puerto Rico.
+
+Nos encontramos en búsqueda de: ADMINISTRADOR DE BASE DE DATOS ORACLE.
+ Requisitos:
+·      Licenciatura o Ingeniería concluida.
+·      Experiencia como Administrador de Bases de Datos (Oracle).
+·      Deseable, experiencia en algún otro gestor de base de datos.
+·      Ingles intermedio.
+·      Deseable experiencia en sector Bancario.
+·      Disponibilidad para laborar de manera presencial (Reforma - CDMX).
+ Responsabilidades:
+·      Realizar el backup, recuperación de base de datos y recuperación del servidor en caso de falla o para consulta posterior de la información para la continuidad del negocio.
+·      Realizar mejoras de rendimiento tunning con la finalidad de optimizar las base de datos o de servidores.
+·      Crear programas de migración de datos para los cambios solicitados de las diferentes compañías de la Institución
+·      Ejecutar programas de carga para las modificaciones de estructura a tablas de la base de datos que contienen gran cantidad de registros para evitar que se queden sin recursos. 
+·      Mantener la seguridad de la base de datos controlando el uso de las contraseñas de los usuarios actualizándolas cada cierto periodo por políticas de seguridad y a solicitud del área de Auditoría.
+·      Realizar la liberación a producción DDL (creación de base de datos, objetos, procedimientos) para definir las estructuras que almacenarán los datos así como los procedimientos o funciones que permitan consultarlos.
+·      Dar soporte a producción DML (consultas, modificación, actualización de BD) que permita a los usuarios introducir datos para realizar tareas de consultas o modificación de las Bases de Datos.
+·      Realizar la estandarización de nombres de objetos como son tablas, campos, índices, funciones, stored procedure, para tener un control adecuado en la base de datos.
+  Conocimientos necesarios:
+·  Instalación de parches de Seguridad (Sistema Operativo y BD).
+·  Experiencia en Oracle.
+·  Administración de bases de datos.
+·  Ejecución de comandos DLM y DDL
+·  Respaldos y restauración de bases de datos.
+·  Preparación para nuevos ambientes.
+ Ofrecemos:
+·      Sueldo base:$40,000.00 Brutos.
+·      Esquema de pago 100% Nominal.
+·      Prestaciones de Ley.
+·      Contrato inicial por 3 meses.
+·      Al 4to mes se brindan PSL (Vales de Despensa, Seguro de Gastos Médicos Mayores, Aguinaldo de 30 días, fondo de ahorro, prima vacacional superior a la de ley y vacaciones. etc…).
+ En INTERCAM ofrecemos igualdad de oportunidades; todos los solicitantes calificados recibirán consideración para el empleo sin importar raza, origen, edad, religión, discapacidad, orientación sexual, genética, estado civil o cualquier otra característica protegida por la ley"
+Cloud Engineer,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18365359,"Descripción
+Accelerate infrastructure deployment and optimize data architecture:
+Manage and enhance our AWS cloud infrastructure, with a focus on RDS MySQL databases, to ensure optimal performance, availability, and security
+Implement strategies to significantly reduce infrastructure deployment times, emphasizing efficiency and scalability
+
+Improve developer support and infrastructure issue resolution:
+Work closely with developers to optimize database performance, addressing bottlenecks and ensuring data integrity
+Streamline the process for resolving infrastructure tickets, focusing on database-related issues to improve overall response and resolution times
+
+Enhance DX culture and documentation:
+Participate in creating and maintaining comprehensive documentation that outlines Platform philosophy and methodologies, with a focus on database management practices
+
+
+Develop and support efficient onboarding and asynchronous work:
+Contribute to a comprehensive onboarding program for Engineering and Data teams, aimed at enhancing productivity and efficiency
+Develop guidelines for effective asynchronous work, with an emphasis on database engineering and collaboration tools
+
+Enhance monitoring and operational efficiency: Implement and train on advanced monitoring tools to improve incident response and system health tracking
+Develop strategies to streamline and automate the top time-consuming database tasks
+Develop self-healing capabilities for critical database services
+
+Create comprehensive documentation and automated responses:
+Develop and document play/runbooks for critical database services
+Create and deploy alerts for databases that trigger automated corrective actions for common service incident
+ Day to day
+
+Monitor and resolve performance and availability issues of cloud-based databases through routine maintenance and optimization tasks.
+Collaborate with stakeholders to design and implement efficient data models and schemas that meet business requirements.
+Fine-tune database queries and indexes, and implement caching mechanisms to optimize database performance.
+Develop and implement backup and disaster recovery strategies, ensuring data integrity and availability in case of failures.
+Automate database administration tasks using scripting languages, and employ Infrastructure as Code practices for streamlined deployments.
+Collaborate with cross-functional teams, provide guidance, and document database configurations and troubleshooting guides.
+Work closely with the data team, providing expertise on database aspects, data modeling, migration projects, and code reviews.
+Implement security best practices, access controls, and ensure compliance with data privacy regulations.
+Stay updated with the latest database technologies, research new tools and methodologies, and provide recommendations for improvement.
+ Requirements
+ +3 years of experience working as a DBA, Cloud Database Administrator or similar.
+Proficient in utilizing AWS monitoring tools and techniques to resolve performance and availability issues in cloud-based databases.
+Skilled in leveraging AWS services and features to optimize database performance and conduct routine maintenance tasks.
+Strong ability to design efficient data models and schemas in AWS that align with business requirements.
+Thorough understanding of AWS database services like RDS (Relational Database Service), Aurora MySQL, DynamoDB, and Redshift.
+Experienced in fine-tuning database queries, optimizing indexes, and implementing caching mechanisms using AWS database technologies.
+Demonstrated capability in developing and implementing comprehensive backup and disaster recovery strategies in AWS.
+Advanced scripting proficiency in AWS-supported languages like Python or similar for automating database administration tasks.
+Familiarity with Infrastructure as Code (IaC) practices using AWS CloudFormation or similar tools for streamlined deployments and consistent configuration.
+Excellent collaboration and communication skills to work effectively with cross-functional teams and stakeholders in AWS environments.
+Provides guidance, support, and comprehensive documentation for AWS database configurations and troubleshooting.
+Strong ability to collaborate closely with data teams in AWS, offering expertise on AWS database services, data modeling, migration projects, and code reviews.
+In-depth knowledge of AWS security best practices for databases, including access controls, encryption, and compliance with AWS data privacy regulations.
+Proactively stays updated with the latest AWS database technologies, tools, and methodologies.
+Conducts research, evaluates new AWS technologies, and provides recommendations for enhancing the AWS database infrastructure.
+
+Nice to have:
+
+Knowledge of database security best practices, including data encryption, access control, and compliance requirements such as GDPR or HIPAA.
+Experience working with data warehouses, technical data architectures, infrastructure components, ETL/ELT (Extract, Transform, Load/Extract, Load, Transform) processes, and reporting/analytic tools.
+Willingness to participate in an on-call rotation to provide timely support and resolution for critical database issues outside regular business hours."
+Auxiliar juridíco,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18292997,"Descripción
+NOTARIA SOLICITA:
+ASISTENTE NOTARIAL
+Requisitos:
+Educación: preparatoria o carrera profesional en leyes o a fin terminada o trunca
+Experiencia Mínimo 6 meses - Experiencia previa trabajando en notaría.
+Manejo de documentos, mecanografía
+Redacción de todo tipo de escrituras publicas (testamento, compra venta, hipoteca, poderes, altas constitutivas, protocolizaciones)
+Manejo de word y excel
+Manejo de DBA (Deseable)
+Excelente ortografía
+Proactivo(a)
+Habilidades:
+Paquetería office
+Excel intermedio
+Buen trato al cliente
+Ofrecemos:
+Sueldo base: $13,000 nominales
+Bono de puntualidad y asistencia
+Prestaciones de ley
+Horario de trabajo Lunes a Viernes 9:00 am a 6:30 pm
+Zona de trabajo: San Pedro Garza Garcia Ubicados a 5 min de Palacio de hierro/Punto Valle
+!SI ESTAS INTERESADO POSTULATE POR ESTE MEDIO!"
+Data Modeler,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18276708,"Descripción
+Data Modeler (Especializado en Erwin)
+
+Descripción:
+
+Tibs, una consultora líder en tecnología de la información, está buscando un Data Modeler especializado en Erwin para unirse a nuestro equipo. En este rol, serás responsable de diseñar, implementar y mantener modelos de datos eficientes y precisos que respalden las necesidades empresariales de nuestros clientes.
+
+Responsabilidades:
+Diseñar y mantener modelos de datos conceptuales, lógicos y físicos utilizando Erwin u otras herramientas de modelado.
+Colaborar con las partes interesadas del negocio para comprender y traducir sus requisitos en modelos de datos efectivos.
+Optimizar el rendimiento de los modelos de datos mediante la identificación y aplicación de mejoras.
+Realizar revisiones y actualizaciones periódicas de los modelos de datos para reflejar cambios en los requisitos del negocio y en la infraestructura tecnológica.
+Brindar apoyo técnico a los equipos de desarrollo y a los administradores de bases de datos en la implementación y mantenimiento de los modelos de datos.
+
+Requisitos:
+Experiencia previa en modelado de datos, preferiblemente utilizando Erwin.
+Conocimientos sólidos en conceptos y tecnologías relacionadas con bases de datos, lenguajes de consulta SQL y diseño de esquemas de bases de datos.
+Habilidades analíticas para resolver problemas complejos de modelado de datos.
+Excelentes habilidades de comunicación verbal y escrita.
+Capacidad para trabajar de manera efectiva en equipo y gestionar múltiples tareas simultáneamente.
+
+Beneficios:
+Oportunidad de trabajar en proyectos desafiantes y de alto impacto para clientes líderes en la industria.
+Ambiente de trabajo colaborativo y orientado al crecimiento profesional.
+Capacitación continua y oportunidades de desarrollo profesional."
+Desarrollador Informix 4GL,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18149275,"Descripción
+Softtek
+
+Consultoría de Sistemas, considerada como líder entre los proveedores de servicios de TI latinoamericanos con una trayectoria de 41 años en el mercado contando con talento y experiencia de más de 13,000 profesionales. Nos distinguimos por ser como uno de los mejores lugares para trabajar en México, Brasil y Argentina. “Super Empresas expansión 2023”.
+
+Únete a Nosotros como: Desarrollador Informix 4GL
+
+Habilidades:
+
+Lic en Sistemas computaciones / Ing en Sistemas o a fin
+3 a 4 años de experiencia como Desarrollador / DBA Informix con conocimientos en:
+-SQL Server, Store Procedures, Funciones
+-Integridad Referencial
+-Tuning de SQL
+-Experiencia en Informix SQL Explained
+-Mejores prácticas de afinación de sentencias SQL
+·      Habilidades en Análisis y diseño
+·      Computo distribuído orientado a eventos
+·      Diseño y desarrollo de aplicativos front- end
+·      Experiencia con Software de Administración de Sistemas
+·      Experiencia en Servicios Financieros, Gobierno, Logística, Salud y/o Manufactura, Implementando soluciones IBM
+
+Funciones:
+·      Realizar análisis y diseño para solución raíz a incidente presentados en procesos CORE
+·      Interactuar con distintas áreas de tecnología para trabajar en conjunto e identificar y proponer mejoras
+·      Implementar soluciones a fallas identificadas
+·      Participar en reuniones con usuarios de negocio y áreas de tecnología.
+·      Identificar requerimientos funcionales y de desempeño
+
+Zona de trabajo: Insurgentes Sur, CDMX
+Modalidad: 100% en sitio
+
+Ofrecemos:
+Prestaciones de ley y superiores
+
+Si te encuentras interesado y cubres con el perfil solicitado, postúlate por este medio, envía tu CV al correo que aparece en la publicación ó envíame un WhatsApp al número que aparece. ¡Gracias! ??"
+Business Intelligence Analyst,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18208100,"Descripción
+COMERCIALIZADORA MARVEL SA DE CV somos una reconocida empresa líder en el mercado de la industria agrícola, forestal, jardinería y construcción. Con más de 20 años de experiencia, nos hemos consolidado como referentes en el sector gracias a nuestro compromiso con la calidad, precios competitivos y el mejor servicio del mercado. Valoramos a nuestros colaboradores y nos esforzamos por generar un ambiente de trabajo colaborativo y en constante crecimiento.
+
+Únete a nuestro equipo y sé parte de nuestra historia de éxito, en la posición:
+
+Business Intelligence Analyst
+
+
+Resumen: Encargado de la inteligencia empresarial, capaz de implementar proyectos, arquitectura, optimización y regulación de datos para la correcta y oportuna toma de decisiones de negocio.
+
+Requisitos
+Lic. o Ing. en Computación, Sistemas o afín
+Experiencia mínima: 3 años en posiciones similares o DBA
+Comunicación eficiente
+Actitud de servició al cliente
+Innovador
+Orientación a resultados
+Liderazgo
+Trabajo en equipo
+Proactivo
+Dinámico
+Autodidacta
+Apego a procesos y políticas
+
+Funciones:
+Gestión y construcción de Data Warehouse
+Ajuste de rendimiento y optimización Data Warehouse (BQ)
+Monitoreo de rendimiento y ajuste fino de bases de datos
+ETL (extracción, transformación y carga de datos)
+Creación y administración de tableros 
+Diseño e implementación propuestas de solución
+Brindar soporte especializado
+Establecer el plan de trabajo y entregables
+Proponer y gestionar mejoras optimizando procesos de decisión de negocio y tecnología existente.
+Elaborar y actualizar la documentación relacionada con los tableros de control
+Asegurar la calidad de las entregas
+Gestionar todas las etapas de la construcción de tableros de control
+Reportar de forma mensual resultados.
+Capacitar a usuarios
+
+Indispensable:
+Postgresql
+Big Query
+
+Deseable:
+Looker Studio Pro
+Odoo v16+
+*Certificaciones relacionadas con la posición (Looker Studio, Big Query, BDD, etc.)
+GCP
+Scrum 
+ITIL
+KPI´s y procesos de negocio
+
+Ubicación: Ubicación: Condominio Santa Cruz, Tlajomulco de Zúñiga, Jalisco."
+Ingeniero de Datos Bilingüe,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18235933,"Descripción
+Somos un grupo de profesionales altamente calificados avalados por más de 25 años de experiencia en la consultoría y desarrollo de proyectos de software. Aplicamos las mejores prácticas para la Administración y Desarrollo de Proyectos, contamos con personal certificado y comprometido para la generación de valor a nuestros clientes
+ 
+SYGNO, IMPORTANTE EMPRESA EN MONTERREY SOLICITA:
+Ingeniero de Datos Bilingüe
+  Carrera: Ingeniería en Sistemas Computacionales, Lic. En informática o Carreras afines.
+Años de experiencia: Mínimo 3 años como ingeniero/Analista de datos
+
+Requisitos:
+
+•      #xperiencia en ingeniería de datos incluyendo SQL, Gestión de Bases de Datos Relacionales, ETL.
+•      Comprensión clara de Data Lake y Data Warehousing y habilidades para crearlo desde cero.
+•      Sólidos conocimientos de SQL y lenguajes de programación avanzados como Python.
+•      Al menos 3+ años de sólida comprensión de los conceptos y herramientas de desarrollo de ETL, como ETL soluciones de desarrollo.
+•      Habilidades demostradas de pensamiento crítico y la capacidad de identificar y resolver problemas de calidad de datos, cuellos de botella en el rendimiento y otros problemas relacionados con ETL.
+•      SQL, NoSQL, Python, PySpark, Hadoop, Shell Scripting, ETL Tools, GCP, Google BigQuery, DataFusión, Tableau, PowerBI.
+•      Se requiere experiencia con un entorno basado en la nube (preferiblemente GPC).
+•      3+ años de experiencia en la creación de especificaciones técnicas a partir de los requisitos del negocio.
+•      Experiencia en el desarrollo de normas de gobernanza de datos cuando corresponda (por ejemplo, período de retención de datos, política de archivo, control de acceso, etc.)
+•      Experiencia en la construcción de orquestación de datos de extremo a extremo, capacidad para realizar una programación flexible, Implemente las dependencias adecuadas.
+•      Capacidad para interactuar con los usuarios de negocio para evaluar sus necesidades de BI y Analytics; Revisa el archivo proceso de negocio y conceptualizar las entidades que interoperan dentro del proceso de negocio.
+•      Experiencia en el desarrollo de un modelo de datos lógicos y validar el modelo para asegurar que sirve las necesidades de la aplicación empresarial y de sus consumidores.
+•      Capacidad para transformar la representación lógica del modelo en una representación física y trabaje con los administradores de bases de datos para crear instancias, administrar y visualizar los datos.
+
+Responsabilidades:
+•      Analizar y organizar los datos brutos.
+•      Diseñar y construir sistemas de datos y pipelines.
+•      Interpretar tendencias y patrones.
+•      Realizar análisis de datos complejos e informar sobre los resultados.
+•      Explorar formas de mejorar la calidad y confiabilidad de los datos.
+•      Desarrollar herramientas y programas analíticos.
+•      Experiencia en ingesta de datos, limpieza de datos, estandarización de datos, data mart, datos orquestación, calidad de datos, gobernanza de datos, gestión de metadatos, integraciones de datos, por nombrar algunos.
+
+Problemas:
+•      Asegurar el cumplimiento de las políticas de gobernanza y seguridad de datos.
+•      Desarrollar y mantener documentación como documentos de diseño técnico y linaje de datos.
+•      Participar en el análisis, diseño y desarrollo de ETL como parte de metodologías de desarrollo ágil.
+•      Comprende las metodologías de mapeo y modelado de datos, incluida la forma normal, la estrella y la Copo de nieve para reducir la redundancia de datos y mejorar la integridad de los datos.
+•      Combinar información en bruto de diferentes fuentes
+
+Se ofrece excelente sueldo + Prestaciones Superiores a las de ley.
+Interesados y que cumplan al 100% con el perfil favor de mandar su CV en formato Word al correo mencionado, si gustan postular."
+Líder técnico de proyectos ti,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18345905,"Descripción
+Funciones y Responsabilidades
+·      Revisar y asegurar la viabilidad técnica y puesta en producción de las funcionalidades comprometidas con la empresa.
+·      Desarrollo y construcción de funcionalidades financieras en los diferentes canales digitales (aplicaciones móviles, banca electrónica, negocio, municipio, etc).
+·      Colaborar en las sesiones de producto para un correcto análisis de la definición y diseño de proceso
+·      Revisar y asegurar la calidad de los entregables de acuerdo a los estándares de Arquitectura
+·      Revisar y asegurar la seguridad y certificación de los sistemas de acuerdo a los estándares.
+·      Gestionar y coordinar a los desarrolladores de cada programa, así como el cumplimiento y entendimiento de los objetivos de la empresa.
+·      Gestionar y definir de una manera estratégica la atención de los proyectos asignados.
+·      Desarrollar el crecimiento profesional de cada uno de los integrantes del equipo de trabajo.
+·      Administración del recurso humano de acuerdo a prioridades de negocio.
+
+Habilidades
+·      Trabajo en equipo
+·      Comunicación Asertiva
+·      Atención al detalle
+·      Mejora continua
+·      Pasión por el cliente
+
+¿Qué necesitas?
+·      Experiencia como Líder Técnico o Manager, desarrollo de Sistemas / Aplicaciones móviles
+·      Experiencia en el sector Bancario, Aplicaciones móviles, Consumo, Tecnología, Ecommerce, Retail.
+·      Conocimientos en Cloud, Frameworks de desarrollo, APIs, DBA, Administración de proyectos, AWS, mongo DB / Atlas, Swift, Kotlin, Java."
+INGENIERO DE DATOS SR,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18344241,"Descripción
+DESCRIPCIÓN:
+Coordinar al equipo asignado para proveer de información adecuada y oportuna a los diferentes niveles de la empresa, mediante el diseño, desarrollo y evaluación de las tecnologías para almacenamiento, gestión y análisis de información que facilitan la democratización de datos críticos como indicadores y métricas corporativas.
+
+
+RESPONSABILIDADES:
+Coordinar al equipo asignado para proveer de información adecuada y oportuna a los diferentes niveles de la empresa, mediante el diseño, desarrollo y evaluación de las tecnologías para almacenamiento, gestión y análisis de información que facilitan la democratización de datos críticos como indicadores y métricas corporativas.
+Asegura el buen funcionamiento de las herramientas para gestión de datos de la empresa
+Supervisa y valida las soluciones técnicas propuestas por los equipos de ingeniería de datos e ingeniería de BI
+?Definir las actividades y responsables de cada requerimiento.
+Comunicar los avances de cada requerimiento
+Anticipa la obsolescencia o necesidades de tecnología de acuerdo a la dinámica del negocio
+
+
+REQUERIMOS:
+Ing. en Sistemas Computacionales, Lic. en Informática (Titulado)
+Ingles Intermedio
+Conocimiento de herramientas de analítica de datos
+Conocimientos del negocio de logística y/o mensajería, uso de tecnologías de Big Data y analítica.
+Manejo de Microsoft Office (Word, Excel, PowerPoint)
+Deseable Story Telling o experiencia comunicando a foros executivos
+Metodologías de gestión de proyectos ágiles
+Gestión de Datos y análisis de datos (Pentaho, SAP Business Objects, SAP BI/ BW, Microsoft Power BI, Cloudera, DB2, Postgresql, JavaScript, SQL Server , Tableau
+CONOCIMIENTO INDISPENSABLE DE SAP
+
+EXPERIENCIA:
+SAP HANA INDISPENSABLE
+DBA 3 años
+Responsable de DWH 3 años
+Arquitecto de Datos 1 año
+Ingeniero de Datos o Ingeniero de BI 5 años
+
+
+Interesados, favor de compartirme su curriculum:"
+Especialista de Bases de Datos,https://www.occ.com.mx/empleos/de-database-administrator/en-Mexico/?page=5&jobid=18260395,"Descripción
+Somos una empresa líder en consultoría de negocios con más de 15 años de experiencia en el mercado TI. Nuestro enfoque es brindar soluciones integrales a nuestros clientes para optimizar sus procesos. Al unirte a nuestro equipo, tendrás la oportunidad de crecer profesionalmente en un ambiente evolutivo.
+
+Especialista base de datos 
+
+Escolaridad: Carrera profesional en sistemas de información, ingeniería en software o afín (Titulo profesional).
+Certificación: 
+Certificación en SQL Sever.
+Cursos de técnicas de modelado de datos SQL y NoSQL.
+Microsoft Certified Azure Database Administrator Associate.
+
+Responsabilidades del puesto
+Experiencia previa como Ingeniero de Bases de Datos o en un rol similar en proyectos de desarrollo de software.
+Diseño, implementación y mantenimiento de bases de datos SQL y NoSQL.
+Optimización del rendimiento, eficiencia, replicaciones y alta disponibilidad de la base de datos.
+Implementación de seguridad, estrategias de monitoreo, análisis de vulnerabilidades y protección de ataques de bases de datos.
+Experiencia trabajando en un entorno de desarrollo ágil o SCRUM. Segmentación de tareas en más pequeñas para lograr una mejora continua y adaptable.
+
+
+Prestaciones y beneficios adicionales:
+Oportunidades de crecimiento y desarrollo profesional.
+Beneficios de ley y seguro médico."
