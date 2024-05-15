@@ -1,0 +1,505 @@
+Job_Title,Job_Description,Job_Url
+¿Eres nuevo? Regístrate,https://www.occ.com.mx/empleos/de-data-center-operations-engineer/en-Mexico/?page=1&jobid=18394489,"Descripción
+The Legal Technology Infrastructure and Operations group is seeking a Delivery Manager to join our team in Mexico City. This position leads a global technology group that operates enterprise application systems serving online content and publishing across many Thomson Reuters products. This team manages reliability engineering/SRE, ongoing change planning and implementation, incident detection and resolution, and compliance for a portfolio of content publishing applications and infrastructure built on a variety of technologies including Java, Linux, Microsoft, relational databases, message queuing, AWS cloud services, and more. About the Role In this opportunity as Tech Lead | DevOps , you will: Deliver results: Deliver reliable 24x7 infrastructure and application operations, meeting business expectations across the application portfolio Serve as a management escalation point during major issues Partner with application development teams to deliver operational readiness for new products and features Collaborate with stakeholders such as business teams, product owners, and project management in defining roadmap for applications and processes Partner with security, data center, and service governance teams to deliver compliance with internal and external standards, expectations, and certifications Effectively articulate complex problems, concepts, and solutions to varied audiences Drive improvements in productivity, software quality and reliability Be a people leader: Manage a diverse set of global application reliability, infrastructure, and operations engineers Deliver effective talent management practices and optimize use of talent across the portfolio Coach and mentor current and future leaders ; proactively identify training and growth opportunities Foster a continuous learning culture and a curiosity about emerging technologies About You You're a fit for the role of Tech Lead | DevOps if your background includes: Bachelor's degree or equivalent required, Computer Science or related technical degree preferred 5 years of relevant experience in software development and/or technology infrastructure and operations Proven ability to set direction and inspire team members to engage and deliver on a vision Broad understanding of the technologies used to build and operate distributed application systems Proven ability to learn new technologies quickly Experience managing data center systems and infrastructure Excellent critical thinking, communication, presentation, documentation, troubleshooting and collaborative problem-solving skills A management style that is collaborative, energetic, and results-oriented Hands-on experience with programming and scripting languages Comfortable in a fast-paced environment and motivated by complex technical and business challenges What's in it For You? You will join our inclusive culture of world-class talent, where we are committed to your personal and professional growth through: Hybrid Work Model: We've adopted a flexible hybrid working environment (2-3 days a week in the office depending on the role) for our office-based roles while delivering a seamless experience that is digitally and physically connected Wellbeing: Comprehensive benefit plans; flexible and supportive benefits for work-life balance: flexible vacation, two company-wide Mental Health Days Off; work from another location for up to a total of 8 weeks in a year, 4 of those weeks can be out of the country and the remaining in the country, Headspace app subscription; retirement, savings, tuition reimbursement, and employee incentive programs; resources for mental, physical, and financial wellbeing. Culture: Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more. Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters café networking. Social Impact: Ten employee-driven Business Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact. Purpose Driven Work: We have a superpower that we've never talked about with as much pride as we should – we are one of the only companies on the planet that helps its customers pursue justice, truth and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world. #LI-SB3 Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we've been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world's most global news services – Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing. We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward. Accessibility As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace. We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law. Protect yourself from fraudulent job postings click here to know more. More information about Thomson Reuters can be found on ."
+Senior NOC Engineer,https://www.occ.com.mx/empleos/de-data-center-operations-engineer/en-Mexico/?page=1&jobid=18248110,"Descripción
+At Maersk, we have a vision larger than the ocean: to be a true integrator of container logistics connecting and simplifying our customers' supply chain. We count on our people to make it happen. Besides focusing on creating value for our customers and the business, a key priority for us is to drive personal and professional development for our people to prepare for further career progression. We value the diversity of our talent and will always strive to recruit the best person for the job. If you believe you would add value to Maersk but don't meet all the criteria we have included in this advert, we would still love to hear from you. We Offer We offer you an exciting global career at the forefront of world trade. And thanks to our global scale, you will be well-positioned to explore opportunities at Maersk around the world. The many other highlights include the most modern talent development initiatives and competitive benefits. We are proud of our people who define our company's industry leadership, global team culture and customer-centric focus every day. Job Purpose As a NOC Engineer within the Technology Operations Center, you will be supporting the Maersk estate running 24/7/365 and providing visibility of what's happening to keep services running and addressing any issues that arise. Perform installation, monitoring, testing, configuration, migration, maintenance and troubleshooting of integrated technologies. Ensure that the assigned technologies are updated with current, stable, and compliant architecture and they meet enterprise and security standards. Provides input into infrastructure architecture designs. The NOC team works closely with all support teams and other members of the Engineering department to develop a strong well-rounded understanding of systems and networks. Diligence and meticulous attention to detail are key skills, along with the ability to multi-task and prioritize work appropriately. This candidate must be eager and quick to learn, must exhibit clear communication skills, and demonstrate initiative to tackle a broad range of problems. Key responsibilities The NOC engineer will be involved in both proactive and reactive monitoring and incident management of technology systems within their scope, such as Servers, Network infrastructure, Apps, Databases and data centers. Perform daily system checks to ensure critical systems and services are operational Drive value from the primary enterprise monitoring tools within Maersk, such as Solarwinds, Grafana, Datadog etc. Analyze events, perform troubleshooting and incident response on the systems Communicate with site technicians or third parties responsible for resolution Participates in the discussion of applications performance and infrastructure outage incidents to provide solutions Collaborate with all relevant IT resources to develop preventive measures and automated remediation of production issues Ensuring the Maersk estate is effectively managed, and industry best practice is used across the estate Manage the installation and integration of system fixes, updates, and enhancements; and ensuring the rigorous application of information security/information assurance policies, principles and practices The position involves actively participating in multiple workgroups at one time, and disseminating information across all levels of the organisation Contribute to continual service improvement by challenging, reviewing, updating and where inexistent, creating, processes and procedures to drive operational excellence. Engaging with key stakeholders to design and configure tailored monitoring solutions, dashboards and alerts. Share knowledge and mentor junior resources Excellent troubleshooting follow-up & cross-team collaboration skills. Required experience Overall 7 years of hands-on experience in a NOC environment Ability to work in a complex large multinational company NOC Monitoring and Troubleshooting Demonstrable experience of working in a complex operational IT environment Technical skills Experience with networking, server, application and web technologies General networking and security troubleshooting (firewalls, loadbalancers, routing & switching) Scripting and development skills with knowledge of regular expressions Ability to autonomously prioritize and successfully deliver across a portfolio of projects Familiarity with key events on common IT platforms Good understanding of Microsoft technologies, e.g. AD, Windows Server, Hyper V, Exchange, O365, SQL Server, Microsoft Dynamics, IIS, Azure and web hosting. Knowledge of Clusters, Storage, Backups, Data Export/Import and disaster recovery Solid knowledge of TCP/IP Experience with protocol analysers, WireShark and packet analysis. Having substantial operations in over 130 countries, we work across continents, across cultures and with individuals from all walks of life. This drives our ambition, to create equitable and inclusive workplaces where every individual can have a sense of belonging. ? ? As an equal opportunity employer, we do not discriminate on the basis of age, ancestry, national or ethnic origin, race, sex, gender identity or expression, sexual orientation, marital status, parental or caring status, religion or belief, physical or mental disability, long term health condition, pregnancy or parental leave, protected veteran status, or any other classification protected by applicable law. We actively work to address systemic bias and support representation. We therefore encourage all to apply and let us know if you require any reasonable adjustments to be made for your recruitment process. Learn more at: Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements. We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com."
+Tech Lead | DevOps,https://www.occ.com.mx/empleos/de-data-center-operations-engineer/en-Mexico/?page=1&jobid=18389351,"Descripción
+The Legal Technology Infrastructure and Operations group is seeking a Delivery Manager to join our team in Mexico City. This position leads a global technology group that operates enterprise application systems serving online content and publishing across many Thomson Reuters products. This team manages reliability engineering/SRE, ongoing change planning and implementation, incident detection and resolution, and compliance for a portfolio of content publishing applications and infrastructure built on a variety of technologies including Java, Linux, Microsoft, relational databases, message queuing, AWS cloud services, and more. About the Role In this opportunity as Tech Lead | DevOps, you will: Deliver results: Deliver reliable 24x7 infrastructure and application operations, meeting business expectations across the application portfolio Serve as a management escalation point during major issues Partner with application development teams to deliver operational readiness for new products and features Collaborate with stakeholders such as business teams, product owners, and project management in defining roadmap for applications and processes Partner with security, data center, and service governance teams to deliver compliance with internal and external standards, expectations, and certifications Effectively articulate complex problems, concepts, and solutions to varied audiences Drive improvements in productivity, software quality and reliability Be a people leader: Manage a diverse set of global application reliability, infrastructure, and operations engineers Deliver effective talent management practices and optimize use of talent across the portfolio Coach and mentor current and future leaders; proactively identify training and growth opportunities Foster a continuous learning culture and a curiosity about emerging technologies About You You're a fit for the role of Tech Lead | DevOps if your background includes: Bachelor's degree or equivalent required, Computer Science or related technical degree preferred 5 years of relevant experience in software development and/or technology infrastructure and operations Proven ability to set direction and inspire team members to engage and deliver on a vision Broad understanding of the technologies used to build and operate distributed application systems Proven ability to learn new technologies quickly Experience managing data center systems and infrastructure Excellent critical thinking, communication, presentation, documentation, troubleshooting and collaborative problem-solving skills A management style that is collaborative, energetic, and results-oriented Hands-on experience with programming and scripting languages Comfortable in a fast-paced environment and motivated by complex technical and business challenges What's in it For You? You will join our inclusive culture of world-class talent, where we are committed to your personal and professional growth through: Hybrid Work Model: We've adopted a flexible hybrid working environment (2-3 days a week in the office depending on the role) for our office-based roles while delivering a seamless experience that is digitally and physically connected Wellbeing: Comprehensive benefit plans; flexible and supportive benefits for work-life balance: flexible vacation, two company-wide Mental Health Days Off; work from another location for up to a total of 8 weeks in a year, 4 of those weeks can be out of the country and the remaining in the country, Headspace app subscription; retirement, savings, tuition reimbursement, and employee incentive programs; resources for mental, physical, and financial wellbeing. Culture: Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more. Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters café networking. Social Impact: Ten employee-driven Business Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact. Purpose Driven Work: We have a superpower that we've never talked about with as much pride as we should – we are one of the only companies on the planet that helps its customers pursue justice, truth and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world. #LI-SB3 Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we've been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world's most global news services – Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing. We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward. Accessibility As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace. We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law. Protect yourself from fraudulent job postings click here to know more. More information about Thomson Reuters can be found on https://thomsonreuters.com."
+Senior Data Engineer,https://www.occ.com.mx/empleos/de-data-center-operations-engineer/en-Mexico/?page=1&jobid=18337208,"Descripción
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Senior Data Engineer to join our team in Guadalajara, Jalisco (MX-JAL), Mexico (MX). Senior Data Engineer The candidate will support and facilitate the data governance initiatives and work with relevant stakeholders, IT Leadership and Product teams to efficiently manage risks associated with managing analytics platforms and data solutions. The key governance activities that are expected to be facilitated by this role are: – Adhering to service operations and activities in accordance with the mission and goals of the organization Adhering service operations and activities in accordance with the mission and goals of the data organization Work with operations leads and other service owners across the global teams in time zones across US, Europe and Asia Implementing and managing changes and interventions to ensure service operations goals are achieved (SLAs and OLAs) Be part of the rotational team that is responsible for on-call support during non-business hours Producing accurate and timely input to resolve tickets and its status to all the stakeholders Project Transition – Be part of the team to take transitions from delivery teams and be the primary support for the application/platform in future. Ability to govern and monitor data delivery SLAs and communicate to business partners Ability to perform impact analysis of a new change to the data platform (10)Ability to independently perform RCA and come up with timely resolution steps Actively participate in Product Retrospective - Project (postmortem) review. Include assessment of benefits realization, lessons learned, operating costs, support, usage. Assess product lifecycle Preferred Skills: Leverages available Service management tools like Service Now, Product/program roadmap, Operations schedules, and present the relevant data and metrics to support and contribute to the governance related activities Understanding of ELT and ETL patterns. Understanding of data models and harmonizing data to source agnostic models Strong communication skills Strong problem solving and analytical skills with the ability to convey in clear and concise summaries Strong tactical and thinking skills with the ability to look beyond the obvious Working with remote and global teams Demonstrated ability to manage multiple tasks and projects and adapt to a changing environment Expertise with debugging and scripting tools and automation tasks Be a driven and motivated team player Technical Skills: 5+ years of hands-on experience as a Data Engineer or Software Engineer role Experience using the following software/tools: Experience with “Snowflake Cloud Datawarehouse” Experience working with Snowflake tasks and streams Advanced SQL coding, Stored Procedures, optimizing and tunning queries on Snowflake and/or other large databases. Education and Experience Requirements University degree in Science, Engineering or a related discipline Significant past experience working in Operations (Application services) in a complex data platform supporting multiple applications. About NTT DATA Services NTT DATA Services is a recognized leader in IT and business services, including cloud, data and applications, headquartered in Texas. As part of NTT DATA, a $30 billion trusted global innovator with a combined global reach of over 80 countries, we help clients transform through business and technology consulting, industry and digital solutions, applications development and management, managed edge-to-cloud infrastructure services, BPO, systems integration and global data centers. We are committed to our clients' long-term success. Visit nttdata.com or LinkedIn to learn more. NTT DATA Services is an equal opportunity employer and considers all applicants without regarding to race, color, religion, citizenship, national origin, ancestry, age, sex, sexual orientation, gender identity, genetic information, physical or mental disability, veteran or marital status, or any other characteristic protected by law. We are committed to creating a diverse and inclusive environment for all employees. If you need assistance or an accommodation due to a disability, please inform your recruiter so that we may connect you with the appropriate team. Job Segment: Cloud, PLM, SQL, Database, Consulting, Technology, Management"
+Master Data Support Engineer,https://www.occ.com.mx/empleos/de-data-center-operations-engineer/en-Mexico/?page=1&jobid=18338483,"Descripción
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Master Data Support Engineer to join our team in Guadalajara, Jalisco (MX-JAL), Mexico (MX). Job Description – Master Data Support Engineer The candidate will support and facilitate data governance initiatives and work with relevant stakeholders, IT Leadership and Product teams to efficiently manage risks associated with managing MDM platform. The key governance activities that are expected to be facilitated by this role are: Adhering to service operations and activities in accordance with the mission and goals of the organization Work with operations leads and other service owners across the global teams in time zones across US, Europe and Asia Ensure service operations goals are achieved (SLAs and OLAs) Analyzing operations risks Project Transition -take transitions from delivery teams and be the primary support for the application/platform in future. Govern and monitor data delivery SLAs and communicate to business partners Perform impact analysis of a new change to the data platform Independently perform RCA and come up with timely resolution steps Participate in Product Retrospective - Project (postmortem) review. Include assessment of benefits realization, lessons learned, operating costs, support, usage. Assess product lifecycle (lO)Bring New ideas for improving Operations (ll)Participate in on-call rotation. Preferred skills: Leverages available Service management tools like Service Now, Product/program roadmap, Operations schedules, and present the relevant data and metrics to support and contribute to the governance related activities Strong communication skills Strong data collation, analysis, and presentation skills Strong problem solving and analytical skills with the ability to convey in clear and concise summaries Strong tactical and thinking skills with the ability to look beyond the obvious Working with remote and global teams Demonstrated ability to manage multiple tasks and projects and adapt to a changing environment Expertise with debugging and scripting tools and automation tasks Be a driven and motivated team player Proven team management qualities Technical Skills: 3+ years of hands-on experience as a Data Engineer or Software Engineer role Experience using the following software/tools: Experience with data management toolds such ""Riversand MDM or PIM"" Experience with DevOps -Test Automation, CICD, etc. Good working knowledge on REST based APl's and SOA architecture Extensive knowledge on JSON/ Core Java programming Experience working with stream-processing systems: Kafka or Azure Eventhub Advanced SQL coding, Stored Procedures, optimizing and tunning queries on Snowflake and/or other large databases. Creative problem solver and be able to jungle between multiple priorities Education and Experience Requirements University degree in Science, Engineering or a related discipline Significant experience working in Operations (Application services) in a complex data platform or MOM About NTT DATA Services NTT DATA Services is a recognized leader in IT and business services, including cloud, data and applications, headquartered in Texas. As part of NTT DATA, a $30 billion trusted global innovator with a combined global reach of over 80 countries, we help clients transform through business and technology consulting, industry and digital solutions, applications development and management, managed edge-to-cloud infrastructure services, BPO, systems integration and global data centers. We are committed to our clients' long-term success. Visit nttdata.com or LinkedIn to learn more. NTT DATA Services is an equal opportunity employer and considers all applicants without regarding to race, color, religion, citizenship, national origin, ancestry, age, sex, sexual orientation, gender identity, genetic information, physical or mental disability, veteran or marital status, or any other characteristic protected by law. We are committed to creating a diverse and inclusive environment for all employees. If you need assistance or an accommodation due to a disability, please inform your recruiter so that we may connect you with the appropriate team. Job Segment: Cloud, Testing, PLM, Database, Application Developer, Technology, Management"
+Tech Lead | DevOps,https://www.occ.com.mx/empleos/de-data-center-operations-engineer/en-Mexico/?page=1&jobid=18393701,"Descripción
+Tech Lead | DevOps
+
+The Legal Technology Infrastructure and Operations group is seeking a Delivery Manager to join our team in Mexico City. This position leads a global technology group that operates enterprise application systems serving online content and publishing across many Thomson Reuters products. This team manages reliability engineering/SRE, ongoing change planning and implementation, incident detection and resolution, and compliance for a portfolio of content publishing applications and infrastructure built on a variety of technologies including Java, Linux, Microsoft, relational databases, message queuing, AWS cloud services, and more.
+
+About the Role
+In this opportunity as Tech Lead | DevOps, you will:
+
+Deliver results:
+Deliver reliable 24x7 infrastructure and application operations, meeting business expectations across the application portfolio
+Serve as a management escalation point during major issues
+Partner with application development teams to deliver operational readiness for new products and features
+Collaborate with stakeholders such as business teams, product owners, and project management in defining roadmap for applications and processes
+Partner with security, data center, and service governance teams to deliver compliance with internal and external standards, expectations, and certifications
+Effectively articulate complex problems, concepts, and solutions to varied audiences
+Drive improvements in productivity, software quality and reliability
+
+
+Be a people leader:
+Manage a diverse set of global application reliability, infrastructure, and operations engineers
+Deliver effective talent management practices and optimize use of talent across the portfolio
+Coach and mentor current and future leaders; proactively identify training and growth opportunities
+Foster a continuous learning culture and a curiosity about emerging technologies
+
+
+About You
+You're a fit for the role of Tech Lead | DevOps if your background includes:
+Bachelor's degree or equivalent required, Computer Science or related technical degree preferred
+5 years of relevant experience in software development and/or technology infrastructure and operations
+Proven ability to set direction and inspire team members to engage and deliver on a vision
+Broad understanding of the technologies used to build and operate distributed application systems
+Proven ability to learn new technologies quickly
+Experience managing data center systems and infrastructure
+Excellent critical thinking, communication, presentation, documentation, troubleshooting and collaborative problem-solving skills
+A management style that is collaborative, energetic, and results-oriented
+Hands-on experience with programming and scripting languages
+Comfortable in a fast-paced environment and motivated by complex technical and business challenges
+
+
+What's in it For You?
+
+You will join our inclusive culture of world-class talent, where we are committed to your personal and professional growth through:
+Hybrid Work Model: We've adopted a flexible hybrid working environment (2-3 days a week in the office depending on the role) for our office-based roles while delivering a seamless experience that is digitally and physically connected
+Wellbeing: Comprehensive benefit plans; flexible and supportive benefits for work-life balance: flexible vacation, two company-wide Mental Health Days Off; work from another location for up to a total of 8 weeks in a year, 4 of those weeks can be out of the country and the remaining in the country, Headspace app subscription; retirement, savings, tuition reimbursement, and employee incentive programs; resources for mental, physical, and financial wellbeing.
+Culture: Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more.
+Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters café networking.
+Social Impact: Ten employee-driven Business Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact.
+Purpose Driven Work: We have a superpower that we've never talked about with as much pride as we should - we are one of the only companies on the planet that helps its customers pursue justice, truth and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world.
+
+
+#LI-SB3
+
+Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we've been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world's most global news services - Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing.
+
+We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.
+
+Accessibility
+
+As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.
+
+We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.
+
+Protect yourself from fraudulent job postings click here to know more.
+
+More information about Thomson Reuters can be found on https://thomsonreuters.com."
+Senior NOC Engineer,https://www.occ.com.mx/empleos/de-data-center-operations-engineer/en-Mexico/?page=1&jobid=18252328,"Descripción
+At Maersk, we have a vision larger than the ocean: to be a true integrator of container logistics connecting and simplifying our customers' supply chain. We count on our people to make it happen.
+
+Besides focusing on creating value for our customers and the business, a key priority for us is to drive personal and professional development for our people to prepare for further career progression.
+
+We value the diversity of our talent and will always strive to recruit the best person for the job. If you believe you would add value to Maersk but don't meet all the criteria we have included in this advert, we would still love to hear from you.
+
+We Offer
+
+We offer you an exciting global career at the forefront of world trade. And thanks to our global scale, you will be well-positioned to explore opportunities at Maersk around the world. The many other highlights include the most modern talent development initiatives and competitive benefits. We are proud of our people who define our company's industry leadership, global team culture and customer-centric focus every day.
+
+Job Purpose
+
+As a NOC Engineer within the Technology Operations Center, you will be supporting the Maersk estate running 24/7/365 and providing visibility of what's happening to keep services running and addressing any issues that arise. Perform installation, monitoring, testing, configuration, migration, maintenance and troubleshooting of integrated technologies. Ensure that the assigned technologies are updated with current, stable, and compliant architecture and they meet enterprise and security standards. Provides input into infrastructure architecture designs.
+
+The NOC team works closely with all support teams and other members of the Engineering department to develop a strong well-rounded understanding of systems and networks. Diligence and meticulous attention to detail are key skills, along with the ability to multi-task and prioritize work appropriately. This candidate must be eager and quick to learn, must exhibit clear communication skills, and demonstrate initiative to tackle a broad range of problems.
+
+Key responsibilities
+The NOC engineer will be involved in both proactive and reactive monitoring and incident management of technology systems within their scope, such as Servers, Network infrastructure, Apps, Databases and data centers.
+Perform daily system checks to ensure critical systems and services are operational
+Drive value from the primary enterprise monitoring tools within Maersk, such as Solarwinds, Grafana, Datadog etc.
+Analyze events, perform troubleshooting and incident response on the systems
+Communicate with site technicians or third parties responsible for resolution
+Participates in the discussion of applications performance and infrastructure outage incidents to provide solutions
+Collaborate with all relevant IT resources to develop preventive measures and automated remediation of production issues
+Ensuring the Maersk estate is effectively managed, and industry best practice is used across the estate
+Manage the installation and integration of system fixes, updates, and enhancements; and ensuring the rigorous application of information security/information assurance policies, principles and practices
+The position involves actively participating in multiple workgroups at one time, and disseminating information across all levels of the organisation
+Contribute to continual service improvement by challenging, reviewing, updating and where inexistent, creating, processes and procedures to drive operational excellence.
+Engaging with key stakeholders to design and configure tailored monitoring solutions, dashboards and alerts.
+Share knowledge and mentor junior resources
+Excellent troubleshooting follow-up & cross-team collaboration skills.
+
+Required experience
+Overall 7 years of hands-on experience in a NOC environment
+Ability to work in a complex large multinational company
+NOC Monitoring and Troubleshooting
+Demonstrable experience of working in a complex operational IT environment
+
+Technical skills
+Experience with networking, server, application and web technologies
+General networking and security troubleshooting (firewalls, loadbalancers, routing & switching)
+Scripting and development skills with knowledge of regular expressions
+Ability to autonomously prioritize and successfully deliver across a portfolio of projects
+Familiarity with key events on common IT platforms
+Good understanding of Microsoft technologies, e.g. AD, Windows Server, Hyper V, Exchange, O365, SQL Server, Microsoft Dynamics, IIS, Azure and web hosting.
+Knowledge of Clusters, Storage, Backups, Data Export/Import and disaster recovery
+Solid knowledge of TCP/IP
+Experience with protocol analysers, WireShark and packet analysis.
+
+
+Having substantial operations in over 130 countries, we work across continents, across cultures and with individuals from all walks of life. This drives our ambition, to create equitable and inclusive workplaces where every individual can have a sense of belonging.
+
+As an equal opportunity employer, we do not discriminate on the basis of age, ancestry, national or ethnic origin, race, sex, gender identity or expression, sexual orientation, marital status, parental or caring status, religion or belief, physical or mental disability, long term health condition, pregnancy or parental leave, protected veteran status, or any other classification protected by applicable law. We actively work to address systemic bias and support representation. We therefore encourage all to apply and let us know if you require any reasonable adjustments to be made for your recruitment process. Learn more at: https://www.maersk.com/careers/diversity-equity-and-inclusion
+
+Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements.
+
+We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com."
+Senior NOC Engineer,https://www.occ.com.mx/empleos/de-data-center-operations-engineer/en-Mexico/?page=1&jobid=18252087,"Descripción
+At Maersk, we have a vision larger than the ocean: to be a true integrator of container logistics connecting and simplifying our customers' supply chain. We count on our people to make it happen.
+
+Besides focusing on creating value for our customers and the business, a key priority for us is to drive personal and professional development for our people to prepare for further career progression.
+
+We value the diversity of our talent and will always strive to recruit the best person for the job. If you believe you would add value to Maersk but don't meet all the criteria we have included in this advert, we would still love to hear from you.
+
+We Offer
+
+We offer you an exciting global career at the forefront of world trade. And thanks to our global scale, you will be well-positioned to explore opportunities at Maersk around the world. The many other highlights include the most modern talent development initiatives and competitive benefits. We are proud of our people who define our company's industry leadership, global team culture and customer-centric focus every day.
+
+Job Purpose
+
+As a NOC Engineer within the Technology Operations Center, you will be supporting the Maersk estate running 24/7/365 and providing visibility of what's happening to keep services running and addressing any issues that arise. Perform installation, monitoring, testing, configuration, migration, maintenance and troubleshooting of integrated technologies. Ensure that the assigned technologies are updated with current, stable, and compliant architecture and they meet enterprise and security standards. Provides input into infrastructure architecture designs.
+
+The NOC team works closely with all support teams and other members of the Engineering department to develop a strong well-rounded understanding of systems and networks. Diligence and meticulous attention to detail are key skills, along with the ability to multi-task and prioritize work appropriately. This candidate must be eager and quick to learn, must exhibit clear communication skills, and demonstrate initiative to tackle a broad range of problems.
+
+Key responsibilities
+The NOC engineer will be involved in both proactive and reactive monitoring and incident management of technology systems within their scope, such as Servers, Network infrastructure, Apps, Databases and data centers.
+Perform daily system checks to ensure critical systems and services are operational
+Drive value from the primary enterprise monitoring tools within Maersk, such as Solarwinds, Grafana, Datadog etc.
+Analyze events, perform troubleshooting and incident response on the systems
+Communicate with site technicians or third parties responsible for resolution
+Participates in the discussion of applications performance and infrastructure outage incidents to provide solutions
+Collaborate with all relevant IT resources to develop preventive measures and automated remediation of production issues
+Ensuring the Maersk estate is effectively managed, and industry best practice is used across the estate
+Manage the installation and integration of system fixes, updates, and enhancements; and ensuring the rigorous application of information security/information assurance policies, principles and practices
+The position involves actively participating in multiple workgroups at one time, and disseminating information across all levels of the organisation
+Contribute to continual service improvement by challenging, reviewing, updating and where inexistent, creating, processes and procedures to drive operational excellence.
+Engaging with key stakeholders to design and configure tailored monitoring solutions, dashboards and alerts.
+Share knowledge and mentor junior resources
+Excellent troubleshooting follow-up & cross-team collaboration skills.
+
+Required experience
+Overall 7 years of hands-on experience in a NOC environment
+Ability to work in a complex large multinational company
+NOC Monitoring and Troubleshooting
+Demonstrable experience of working in a complex operational IT environment
+
+Technical skills
+Experience with networking, server, application and web technologies
+General networking and security troubleshooting (firewalls, loadbalancers, routing & switching)
+Scripting and development skills with knowledge of regular expressions
+Ability to autonomously prioritize and successfully deliver across a portfolio of projects
+Familiarity with key events on common IT platforms
+Good understanding of Microsoft technologies, e.g. AD, Windows Server, Hyper V, Exchange, O365, SQL Server, Microsoft Dynamics, IIS, Azure and web hosting.
+Knowledge of Clusters, Storage, Backups, Data Export/Import and disaster recovery
+Solid knowledge of TCP/IP
+Experience with protocol analysers, WireShark and packet analysis.
+
+
+Having substantial operations in over 130 countries, we work across continents, across cultures and with individuals from all walks of life. This drives our ambition, to create equitable and inclusive workplaces where every individual can have a sense of belonging.
+
+As an equal opportunity employer, we do not discriminate on the basis of age, ancestry, national or ethnic origin, race, sex, gender identity or expression, sexual orientation, marital status, parental or caring status, religion or belief, physical or mental disability, long term health condition, pregnancy or parental leave, protected veteran status, or any other classification protected by applicable law. We actively work to address systemic bias and support representation. We therefore encourage all to apply and let us know if you require any reasonable adjustments to be made for your recruitment process. Learn more at: https://www.maersk.com/careers/diversity-equity-and-inclusion
+
+Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements.
+
+We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com."
+Sr. NOC Engineer,https://www.occ.com.mx/empleos/de-data-center-operations-engineer/en-Mexico/?page=1&jobid=18140614,"Descripción
+At F5, we strive to bring a better digital world to life. Our teams empower organizations across the globe to create, secure, and run applications that enhance how we experience our evolving digital world. We are passionate about cybersecurity, from protecting consumers from fraud to enabling companies to focus on innovation.
+
+Everything we do centers around people. That means we obsess over how to make the lives of our customers, and their customers, better. And it means we prioritize a diverse F5 community where each individual can thrive.
+
+At F5, we strive to bring a better digital world to life. Our teams empower organizations across the globe to create, secure, and run applications that enhance how we experience our evolving digital world. We are passionate about cybersecurity, from protecting consumers from fraud to enabling companies to focus on innovation.
+
+F5 is at the heart of modern applications that are enabling digital transformation across the globe. We give the world's largest businesses, service providers, governments, and consumer brands the ability to securely deliver every app, anywhere-with confidence. We do this by working collaboratively in an innovative environment, helping each other succeed. We take extraordinary pride in being trusted advisers to our customers, offering the best solutions for their interests.
+
+Position Summary
+
+You will be a member of the Network Operations Center Tier-2 team with strong technical acumen in network automation. You will work on providing in-depth analysis and troubleshooting on network and infrastructure issues that cannot be resolved by Tier-1.
+
+You will be a part of an advance technical team responsible for supporting and troubleshooting F5's products and services including cloud, data centers, local & wide area networks, switching, routing, security, remote access, and application issues with production services. This opportunity is a leadership role within the NOC team driving our tooling automation, focusing on technical leadership to ensure the achievement of our 99.999% network availability SLO for our customers. The ideal candidate will possess hands-on experience in implementing automation for network monitoring and alerting to enhance efficiency and responsiveness.
+
+NOC Engineers meticulously examine alerts and triggers raised in the ticketing system, promptly notifying the customer of any substantial impact, and take proactive measures to initiate a remediation process aimed at restoring degraded services. This may involve rerouting traffic through alternative tunnels, taking other impact mitigating actions or collaborating with the Engineering team for swift product fixes or the declaration of broader incidents.
+
+What will you do?
+
+Engineering & Analysis: (60%)
+
+As Tier-2 support, you will expediently and adeptly tackle technical issues raised by Tier-1 engineers with a focus on reducing the need for problem escalations to the engineering team.
+Enhance the observability of network infrastructure by implementing numerous automations, advanced monitoring solutions, analyzing data trends, and proactively identifying potential issues from alerts and triggers to ensure a seamless and reliable network experience for our customers.
+Configure and manage customized alerting systems for DDoS attack, availability, latency, packet loss, etc., across various layers of the network.
+Proactively engage with Customer Success team upon triggered alerts to deliver insightful information on the nature and the reason behind the alerts or network performance degradation.
+Conduct thorough Root Cause Analysis (RCA) of network incidents to identify underlying issues causing disruptions or failures. Develop and implement effective solutions and preventive measures to mitigate identified root causes.
+Troubleshoot and implement advanced network configurations including SDN, IaC, switches, routers, firewalls, load balancers, WAF, DDoS, DNS, and Cloud networking environment.
+Design and implement automated processes to deploy, monitor and maintain network systems.
+Proactively ensure ongoing communication with teammates, customers, and stakeholders for ongoing network issues until a closure is reached.
+Lead solution requirements definition, evaluation, and selection for network technologies and services according to customers' input and requirements.
+Review and approve team deliverables including customer updates, documentation changes, and network issue handling procedures.
+
+
+Production support: (40%)
+
+Proactively monitoring network performance, troubleshoot issues, and optimizing network incident triggers configurations for maximum efficiency and uptime.
+Engage in complex troubleshooting including running maintenance and recovery tasks interpreting alarms and errors in the logs and performing maintenance to correct problems.
+Collaborate with vendors and other technical personnel to resolve technical issues and achieve highest levels of systems and infrastructure availability.
+Serve as the designated subject matter expert on network matters within a cross functional team.
+Handle and escalate as needed significant network impacting alerts ensuring swift resolution.
+Participate in customer calls, providing detailed and regular updates on critical issues.
+As a technical lead, help the team address operational issues as they arise (incident management)
+Perform Tier-2 troubleshooting on complex network problems, solving them independently as you address these advanced networks operational issues.
+Communicate with impacted users throughout the troubleshooting/remediation process as needed.
+Participate in on-call rotation and shift duties in line with the 24/7 business operation.
+
+
+Knowledge, Skills and Abilities
+
+Experience in Application and infrastructure Monitoring (Graphana, Nagios, New Relic, Cosmos, Splunk, Zabbix, etc.)
+Demonstrated a strong understanding of F5 products and applications.
+Demonstrated understanding of universally available network solutions, OSI networking model and troubleshooting.
+Extensive knowledge of network protocols (OSPF, BGP, STP, TCP, UDP, IPv6, QoS, etc.)
+Experience with network automation and CI/CD (e.g. python, Ansible, ZTP, Jenkins, git, or similar)
+Demonstrated ability to work under pressure and to effectively communicate problems and solutions to customers and major stakeholders within the organization.
+Ability to work independently in debugging and troubleshooting network related issues.
+Effective time management and ability to organize and prioritize tasks.
+Communication, planning, documentation skills, and excellent customer service skills.
+Strong problem-Solving and analytical skills, with keen attention to detail.
+
+
+How do you qualify?
+
+Showcase 5-8 years of network support experience and strong technology background in managing and troubleshooting Multi-OS LAN/WAN-SDWAN infrastructure for a large enterprise, preferably in Network Operations center (NOC) setting.
+Hold a BA/BS in any Computer Science, or commensurate career experience
+
+
+Nice to have:
+
+Current Industry certifications (CCNA, CCNP) in networking technology any current manufacturer of networking equipment and / or Kubernetes, AWS EKS, and Linux administration.
+
+Physical Demands and Work Environment
+
+Duties are performed in a normal office environment while sitting at a desk or computer table.
+Duties require the ability to utilize a computer, communicate over the telephone, and read printed material.
+Duties may require being on call periodically or working outside normal working hours (evenings and weekends).
+Duties may require the ability to travel via automobile or airplane, approximately 5% of the time spent traveling.
+Job may be performed on-site at a customer facility or data center, or in an F5 or home office environment sitting at a desk or computer table.
+
+
+#LI-DC1
+
+The Job Description is intended to be a general representation of the responsibilities and requirements of the job. However, the description may not be all-inclusive, and responsibilities and requirements are subject to change.
+
+Please note that F5 only contacts candidates through F5 email address (ending with @f5.com) or auto email notification from Yello/Workday (ending with f5.com or @myworkday.com)
+
+Equal Employment Opportunity
+
+It is the policy of F5 to provide equal employment opportunities to all employees and employment applicants without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical, or mental disability, marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws. This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination. F5 offers a variety of reasonable accommodations for candidates. Requesting an accommodation is completely voluntary. F5 will assess the need for accommodations in the application process separately from those that may be needed to perform the job. Request by contacting accommodations@f5.com."
+Senior Data Engineer- Snowflake,https://www.occ.com.mx/empleos/de-data-center-operations-engineer/en-Mexico/?page=1&jobid=18384244,"Descripción
+Req ID: 276766
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Senior Data Engineer- Snowflake to join our team in Guadalajara, Jalisco (MX-JAL), Mexico (MX).
+
+Senior Data Engineer
+
+The candidate will support and facilitate the data governance initiatives and work with relevant stakeholders, IT Leadership and Product teams to efficiently manage risks associated with managing analytics platforms and data solutions. The key governance activities that are expected to be facilitated by this role are:
+- Adhering to service operations and activities in accordance with the mission and goals of the organization
+Adhering service operations and activities in accordance with the mission and goals of the data organization
+Work with operations leads and other service owners across the global teams in time zones across US, Europe and Asia
+Implementing and managing changes and interventions to ensure service operations goals are achieved (SLAs and OLAs)
+Be part of the rotational team that is responsible for on-call support during non-business hours
+Producing accurate and timely input to resolve tickets and its status to all the stakeholders
+Project Transition - Be part of the team to take transitions from delivery teams and be the primary support for the application/platform in future.
+Ability to govern and monitor data delivery SLAs and communicate to business partners
+Ability to perform impact analysis of a new change to the data platform (10)Ability to independently perform RCA and come up with timely resolution steps
+Actively participate in Product Retrospective - Project (postmortem) review. Include assessment of benefits realization, lessons learned, operating costs, support, usage. Assess product lifecycle
+
+Preferred Skills:
+Leverages available Service management tools like Service Now, Product/program roadmap, Operations schedules, and present the relevant data and metrics to support and contribute to the governance related activities
+Understanding of ELT and ETL patterns.
+Understanding of data models and harmonizing data to source agnostic models
+Strong communication skills
+Strong problem solving and analytical skills with the ability to convey in clear and concise summaries
+Strong tactical and thinking skills with the ability to look beyond the obvious
+Working with remote and global teams
+Demonstrated ability to manage multiple tasks and projects and adapt to a changing environment
+Expertise with debugging and scripting tools and automation tasks
+Be a driven and motivated team player
+
+
+Technical Skills:
+5+ years of hands-on experience as a Data Engineer or Software Engineer role
+Experience using the following software/tools:
+Experience with ""Snowflake Cloud Datawarehouse""
+Experience working with Snowflake tasks and streams
+Advanced SQL coding, Stored Procedures, optimizing and tunning queries on Snowflake and/or other large databases.
+
+Education and Experience Requirements
+University degree in Science, Engineering or a related discipline
+Significant past experience working in Operations (Application services) in a complex data platform supporting multiple applications.
+
+
+#LI-LATAM
+
+About NTT DATA Services
+
+NTT DATA Services is a recognized leader in IT and business services, including cloud, data and applications, headquartered in Texas. As part of NTT DATA, a $30 billion trusted global innovator with a combined global reach of over 80 countries, we help clients transform through business and technology consulting, industry and digital solutions, applications development and management, managed edge-to-cloud infrastructure services, BPO, systems integration and global data centers. We are committed to our clients' long-term success. Visit nttdata.com or LinkedIn to learn more.
+
+NTT DATA Services is an equal opportunity employer and considers all applicants without regarding to race, color, religion, citizenship, national origin, ancestry, age, sex, sexual orientation, gender identity, genetic information, physical or mental disability, veteran or marital status, or any other characteristic protected by law. We are committed to creating a diverse and inclusive environment for all employees. If you need assistance or an accommodation due to a disability, please inform your recruiter so that we may connect you with the appropriate team."
+Senior Data Engineer- Snowflake,https://www.occ.com.mx/empleos/de-data-center-operations-engineer/en-Mexico/?page=1&jobid=18383460,"Descripción
+Req ID: 276766
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Senior Data Engineer- Snowflake to join our team in Guadalajara, Jalisco (MX-JAL), Mexico (MX).
+
+Senior Data Engineer
+
+The candidate will support and facilitate the data governance initiatives and work with relevant stakeholders, IT Leadership and Product teams to efficiently manage risks associated with managing analytics platforms and data solutions. The key governance activities that are expected to be facilitated by this role are:
+- Adhering to service operations and activities in accordance with the mission and goals of the organization
+Adhering service operations and activities in accordance with the mission and goals of the data organization
+Work with operations leads and other service owners across the global teams in time zones across US, Europe and Asia
+Implementing and managing changes and interventions to ensure service operations goals are achieved (SLAs and OLAs)
+Be part of the rotational team that is responsible for on-call support during non-business hours
+Producing accurate and timely input to resolve tickets and its status to all the stakeholders
+Project Transition - Be part of the team to take transitions from delivery teams and be the primary support for the application/platform in future.
+Ability to govern and monitor data delivery SLAs and communicate to business partners
+Ability to perform impact analysis of a new change to the data platform (10)Ability to independently perform RCA and come up with timely resolution steps
+Actively participate in Product Retrospective - Project (postmortem) review. Include assessment of benefits realization, lessons learned, operating costs, support, usage. Assess product lifecycle
+
+Preferred Skills:
+Leverages available Service management tools like Service Now, Product/program roadmap, Operations schedules, and present the relevant data and metrics to support and contribute to the governance related activities
+Understanding of ELT and ETL patterns.
+Understanding of data models and harmonizing data to source agnostic models
+Strong communication skills
+Strong problem solving and analytical skills with the ability to convey in clear and concise summaries
+Strong tactical and thinking skills with the ability to look beyond the obvious
+Working with remote and global teams
+Demonstrated ability to manage multiple tasks and projects and adapt to a changing environment
+Expertise with debugging and scripting tools and automation tasks
+Be a driven and motivated team player
+
+
+Technical Skills:
+5+ years of hands-on experience as a Data Engineer or Software Engineer role
+Experience using the following software/tools:
+Experience with ""Snowflake Cloud Datawarehouse""
+Experience working with Snowflake tasks and streams
+Advanced SQL coding, Stored Procedures, optimizing and tunning queries on Snowflake and/or other large databases.
+
+Education and Experience Requirements
+University degree in Science, Engineering or a related discipline
+Significant past experience working in Operations (Application services) in a complex data platform supporting multiple applications.
+
+
+#LI-LATAM
+
+About NTT DATA Services
+
+NTT DATA Services is a recognized leader in IT and business services, including cloud, data and applications, headquartered in Texas. As part of NTT DATA, a $30 billion trusted global innovator with a combined global reach of over 80 countries, we help clients transform through business and technology consulting, industry and digital solutions, applications development and management, managed edge-to-cloud infrastructure services, BPO, systems integration and global data centers. We are committed to our clients' long-term success. Visit nttdata.com or LinkedIn to learn more.
+
+NTT DATA Services is an equal opportunity employer and considers all applicants without regarding to race, color, religion, citizenship, national origin, ancestry, age, sex, sexual orientation, gender identity, genetic information, physical or mental disability, veteran or marital status, or any other characteristic protected by law. We are committed to creating a diverse and inclusive environment for all employees. If you need assistance or an accommodation due to a disability, please inform your recruiter so that we may connect you with the appropriate team."
+Master Data Support Engineer,https://www.occ.com.mx/empleos/de-data-center-operations-engineer/en-Mexico/?page=1&jobid=18347814,"Descripción
+Req ID: 276759
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Master Data Support Engineer to join our team in Guadalajara, Jalisco (MX-JAL), Mexico (MX).
+
+Job Description - Master Data Support Engineer
+
+The candidate will support and facilitate data governance initiatives and work with relevant stakeholders, IT Leadership and Product teams to efficiently manage risks associated with managing MDM platform. The key governance activities that are expected to be facilitated by this role are:
+
+Adhering to service operations and activities in accordance with the mission and goals of the organization
+Work with operations leads and other service owners across the global teams in time zones across US,
+
+Europe and Asia
+Ensure service operations goals are achieved (SLAs and OLAs)
+Analyzing operations risks
+Project Transition -take transitions from delivery teams and be the primary support for the application/platform in future.
+Govern and monitor data delivery SLAs and communicate to business partners
+Perform impact analysis of a new change to the data platform
+Independently perform RCA and come up with timely resolution steps
+Participate in Product Retrospective - Project (postmortem) review. Include assessment of benefits realization, lessons learned, operating costs, support, usage. Assess product lifecycle
+
+(lO)Bring New ideas for improving Operations (ll)Participate in on-call rotation.
+
+Preferred skills:
+Leverages available Service management tools like Service Now, Product/program roadmap, Operations schedules, and present the relevant data and metrics to support and contribute to the governance related activities
+Strong communication skills
+Strong data collation, analysis, and presentation skills
+Strong problem solving and analytical skills with the ability to convey in clear and concise summaries
+Strong tactical and thinking skills with the ability to look beyond the obvious
+Working with remote and global teams
+Demonstrated ability to manage multiple tasks and projects and adapt to a changing environment
+Expertise with debugging and scripting tools and automation tasks
+Be a driven and motivated team player
+Proven team management qualities
+
+
+Technical Skills:
+3+ years of hands-on experience as a Data Engineer or Software Engineer role
+Experience using the following software/tools:
+Experience with data management toolds such ""Riversand MDM or PIM""
+Experience with DevOps -Test Automation, CICD, etc.
+Good working knowledge on REST based APl's and SOA architecture
+Extensive knowledge on JSON/ Core Java programming
+Experience working with stream-processing systems: Kafka or Azure Eventhub
+Advanced SQL coding, Stored Procedures, optimizing and tunning queries on Snowflake and/or other large databases.
+Creative problem solver and be able to jungle between multiple priorities
+
+
+Education and Experience Requirements
+University degree in Science, Engineering or a related discipline
+Significant experience working in Operations (Application services) in a complex data platform or MOM
+
+About NTT DATA Services
+
+NTT DATA Services is a recognized leader in IT and business services, including cloud, data and applications, headquartered in Texas. As part of NTT DATA, a $30 billion trusted global innovator with a combined global reach of over 80 countries, we help clients transform through business and technology consulting, industry and digital solutions, applications development and management, managed edge-to-cloud infrastructure services, BPO, systems integration and global data centers. We are committed to our clients' long-term success. Visit nttdata.com or LinkedIn to learn more.
+
+NTT DATA Services is an equal opportunity employer and considers all applicants without regarding to race, color, religion, citizenship, national origin, ancestry, age, sex, sexual orientation, gender identity, genetic information, physical or mental disability, veteran or marital status, or any other characteristic protected by law. We are committed to creating a diverse and inclusive environment for all employees. If you need assistance or an accommodation due to a disability, please inform your recruiter so that we may connect you with the appropriate team."
+Master Data Support Engineer,https://www.occ.com.mx/empleos/de-data-center-operations-engineer/en-Mexico/?page=1&jobid=18343603,"Descripción
+Req ID: 276759
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Master Data Support Engineer to join our team in Guadalajara, Jalisco (MX-JAL), Mexico (MX).
+
+Job Description - Master Data Support Engineer
+
+The candidate will support and facilitate data governance initiatives and work with relevant stakeholders, IT Leadership and Product teams to efficiently manage risks associated with managing MDM platform. The key governance activities that are expected to be facilitated by this role are:
+
+Adhering to service operations and activities in accordance with the mission and goals of the organization
+Work with operations leads and other service owners across the global teams in time zones across US,
+
+Europe and Asia
+Ensure service operations goals are achieved (SLAs and OLAs)
+Analyzing operations risks
+Project Transition -take transitions from delivery teams and be the primary support for the application/platform in future.
+Govern and monitor data delivery SLAs and communicate to business partners
+Perform impact analysis of a new change to the data platform
+Independently perform RCA and come up with timely resolution steps
+Participate in Product Retrospective - Project (postmortem) review. Include assessment of benefits realization, lessons learned, operating costs, support, usage. Assess product lifecycle
+
+(lO)Bring New ideas for improving Operations (ll)Participate in on-call rotation.
+
+Preferred skills:
+Leverages available Service management tools like Service Now, Product/program roadmap, Operations schedules, and present the relevant data and metrics to support and contribute to the governance related activities
+Strong communication skills
+Strong data collation, analysis, and presentation skills
+Strong problem solving and analytical skills with the ability to convey in clear and concise summaries
+Strong tactical and thinking skills with the ability to look beyond the obvious
+Working with remote and global teams
+Demonstrated ability to manage multiple tasks and projects and adapt to a changing environment
+Expertise with debugging and scripting tools and automation tasks
+Be a driven and motivated team player
+Proven team management qualities
+
+
+Technical Skills:
+3+ years of hands-on experience as a Data Engineer or Software Engineer role
+Experience using the following software/tools:
+Experience with data management toolds such ""Riversand MDM or PIM""
+Experience with DevOps -Test Automation, CICD, etc.
+Good working knowledge on REST based APl's and SOA architecture
+Extensive knowledge on JSON/ Core Java programming
+Experience working with stream-processing systems: Kafka or Azure Eventhub
+Advanced SQL coding, Stored Procedures, optimizing and tunning queries on Snowflake and/or other large databases.
+Creative problem solver and be able to jungle between multiple priorities
+
+
+Education and Experience Requirements
+University degree in Science, Engineering or a related discipline
+Significant experience working in Operations (Application services) in a complex data platform or MOM
+
+About NTT DATA Services
+
+NTT DATA Services is a recognized leader in IT and business services, including cloud, data and applications, headquartered in Texas. As part of NTT DATA, a $30 billion trusted global innovator with a combined global reach of over 80 countries, we help clients transform through business and technology consulting, industry and digital solutions, applications development and management, managed edge-to-cloud infrastructure services, BPO, systems integration and global data centers. We are committed to our clients' long-term success. Visit nttdata.com or LinkedIn to learn more.
+
+NTT DATA Services is an equal opportunity employer and considers all applicants without regarding to race, color, religion, citizenship, national origin, ancestry, age, sex, sexual orientation, gender identity, genetic information, physical or mental disability, veteran or marital status, or any other characteristic protected by law. We are committed to creating a diverse and inclusive environment for all employees. If you need assistance or an accommodation due to a disability, please inform your recruiter so that we may connect you with the appropriate team."
