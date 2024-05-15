@@ -51,6 +51,7 @@ or
 `pip install -r requirements.txt` in the `init_hook` 
 ```
 
+- Created a `requirements.txt` file and added: `pip install -r requirements.txt` in the `init_hook` 
 </details>
 
 <details>
