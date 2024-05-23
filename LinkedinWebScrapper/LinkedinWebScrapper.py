@@ -14,8 +14,10 @@ from tqdm import tqdm
 
 from selenium.webdriver.chrome.service import Service
 
-infocomm_jobs = ["Software Developer",
-    "Systems Engineer", 
+
+infocomm_jobs = [
+    "Software Developer",
+    "Systems Engineer",
     "Data Analyst",
     "Data Scientist",
     "Network Engineer",
@@ -28,7 +30,8 @@ infocomm_jobs = ["Software Developer",
     "Business Analytics Consultant",
     "Business Analysis Specialist",
     "Cybersecurity Analyst",
-    "Information Security Manager",  "Cybersecurity Consultant",
+    "Information Security Manager",  
+    "Cybersecurity Consultant",
     "Penetration Tester",
     "Ethical Hacker",
     "Security Architect",
@@ -85,7 +88,7 @@ class LinkedIn_bot:
             delay = random.uniform(a, b)
         time.sleep(delay)
 
-    def search_jobs(self, job_title='', location='United States'):
+    def search_jobs(self, job_title='', location='Mexico'):
         '''Enter tags and search'''
         self.driver.get("https://www.linkedin.com/jobs/search")
         WebDriverWait(self.driver, 10).until(
@@ -193,15 +196,14 @@ class LinkedIn_bot:
             self.results_dic['Post_Year'].append(job_post_year)
             self.results_dic['Details'].append(details)
 
-        logging.info("Done scraping.")
-        self.close_session()
+        logging.info(f"Done scraping {job_title}.")
 
         return self.results_dic
 
 def parse_args():
     parser = argparse.ArgumentParser(description='LinkedIn Bot job search')
     parser.add_argument('--job-title', metavar='Job_title', default='Data Analyst', type=str, help='Enter a valid job title, e.g. Data Analyst.')
-    parser.add_argument('--location', metavar='Location', default='Mexico', type=str, help='Enter the location "Country" or "City, Country" where to search for job offers.')
+    parser.add_argument('--location', metavar='Location', default='México', type=str, help='Enter the location "Country" or "City, Country" where to search for job offers.')
     parser.add_argument('--max-pages', metavar='Maximum_pages', default=40, type=int, help='Enter the maximum number of pages to load.')
     return parser.parse_args()
 
