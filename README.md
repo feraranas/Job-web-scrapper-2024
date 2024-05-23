@@ -42,6 +42,7 @@ or
 If your .ipynb file isn't detecting the current virtual environment (venv) created by Devbox, there are a few things you can check and try to resolve the issue:
 
 - Kernel Configuration:
+  
 Make sure that the Jupyter notebook kernel is set to use the Python interpreter from the virtual environment. You might need to add the virtual environment as a Jupyter kernel.You can add a new Jupyter kernel from your virtual environment by running:
 
 ```bash
@@ -50,6 +51,4 @@ pip install ipykernel
 python -m ipykernel install --user --name=myenv
 # Replace myenv with a name that you prefer for the kernel.
 ```
-
-python -m ipykernel install --user --name=scrapper-env
 </details>
