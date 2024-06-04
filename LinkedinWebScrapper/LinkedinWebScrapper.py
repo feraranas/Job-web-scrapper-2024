@@ -91,6 +91,7 @@ class LinkedIn_bot:
         logging.info("Starting driver")
         self.driver = webdriver.Chrome(service=service, options=options)
         logging.info("Initialization successful")
+        logging.warning("This automated scraper uses few seconds of random waits throughout the whole process to mimic human behaviour!")
 
     def random_wait(self, a=4, b=6):
         '''Wait a random amount of time'''

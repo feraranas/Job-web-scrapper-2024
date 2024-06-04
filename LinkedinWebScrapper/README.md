@@ -1,4 +1,4 @@
-# LinkedIn-Job-Search-Bot
+# LinkedIn Job Search Bot
 
 Performs job search on the url: `https://www.linkedin.com/jobs/search`.
 
