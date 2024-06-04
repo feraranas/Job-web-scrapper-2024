@@ -11,6 +11,7 @@ import random
 import argparse
 import pandas as pd
 from tqdm import tqdm
+import os
 
 from selenium.webdriver.chrome.service import Service
 
@@ -67,6 +68,18 @@ infocomm_jobs = [
     "IT Trainer",
     "Network Operations Center (NOC) Technician"]
 
+def save_current_index(index):
+    with open("current_index.txt", "w") as file:
+        file.write(str(index))
+
+def load_last_index():
+    if os.path.exists("current_index.txt"):
+        with open("current_index.txt", "r") as file:
+            return int(file.read())
+    return 0
+
+i = load_last_index()
+
 class LinkedIn_bot:
     def __init__(self):
         service = Service()
@@ -95,13 +108,13 @@ class LinkedIn_bot:
             EC.presence_of_element_located((By.ID, "job-search-bar-keywords"))
         )
         search_job_name_input = self.driver.find_element(by=By.ID, value="job-search-bar-keywords")
-        search_job_name_input.send_keys(Keys.CONTROL + "a")
-        search_job_name_input.send_keys(Keys.DELETE)
+        search_job_name_input.send_keys(Keys.COMMAND + "a")
+        search_job_name_input.send_keys(Keys.COMMAND + "k")
         search_job_name_input.send_keys(job_title)
 
         search_job_location_input = self.driver.find_element(by=By.ID, value="job-search-bar-location")
-        search_job_location_input.send_keys(Keys.CONTROL + "a")
-        search_job_location_input.send_keys(Keys.DELETE)
+        search_job_location_input.send_keys(Keys.COMMAND + "a")
+        search_job_location_input.send_keys(Keys.COMMAND + "k")
         search_job_location_input.send_keys(location)
 
         search_button = self.driver.find_element(by=By.XPATH, value='//button[@data-tracking-control-name="public_jobs_jobs-search-bar_base-search-bar-search-submit"]')
@@ -200,12 +213,12 @@ class LinkedIn_bot:
 
         return self.results_dic
 
-def parse_args():
-    parser = argparse.ArgumentParser(description='LinkedIn Bot job search')
-    parser.add_argument('--job-title', metavar='Job_title', default='Data Analyst', type=str, help='Enter a valid job title, e.g. Data Analyst.')
-    parser.add_argument('--location', metavar='Location', default='México', type=str, help='Enter the location "Country" or "City, Country" where to search for job offers.')
-    parser.add_argument('--max-pages', metavar='Maximum_pages', default=40, type=int, help='Enter the maximum number of pages to load.')
-    return parser.parse_args()
+# def parse_args():
+#     parser = argparse.ArgumentParser(description='LinkedIn Bot job search')
+#     parser.add_argument('--job-title', metavar='Job_title', default='Data Analyst', type=str, help='Enter a valid job title, e.g. Data Analyst.')
+#     parser.add_argument('--location', metavar='Location', default='Mexico', type=str, help='Enter the location "Country" or "City, Country" where to search for job offers.')
+#     parser.add_argument('--max-pages', metavar='Maximum_pages', default=40, type=int, help='Enter the maximum number of pages to load.')
+#     return parser.parse_args()
 
 def generate_file_name(job_title, location, max_pages=40):
     today = datetime.date.today().strftime("%d-%m-%Y")
@@ -214,15 +227,20 @@ def generate_file_name(job_title, location, max_pages=40):
 
 if __name__ == "__main__":
     # args = parse_args()
-    location = "México"
+    location = "Mexico"
     max_pages = 40
     bot = LinkedIn_bot()
+    i = load_last_index()
 
-    for job_title in infocomm_jobs:
+    for index, job_title in enumerate(infocomm_jobs):
+        if index < i:
+            continue
+        i += 1
+        save_current_index(i)
         results_dic = bot.run(job_title, location, max_pages)
         # results_dic = bot.run(**vars(args))
         results_df = pd.DataFrame(results_dic)
-        # file_name = generate_file_name(**vars(args))
+        # file_name = generate_file_name(**vars(args))  
         file_name = generate_file_name(job_title, location, max_pages)
         results_df.to_csv(f'./{file_name}.csv', index=False)
         logging.info(f"Results for {job_title} saved in {file_name}.csv")
