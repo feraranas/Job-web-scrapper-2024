@@ -9,4 +9,4 @@ Performs job search on the url: `https://www.linkedin.com/jobs/search`.
 
 2. Scrapper:
 
-`python LinkedIn_bot.py`
+`python LinkedInWebScrapper.py`
